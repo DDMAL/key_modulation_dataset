@@ -1,4 +1,4 @@
-# key_modulation_dataset
+# Key Modulation Dataset
 
 A dataset of key modulations that have been annotated in different music theory books
 

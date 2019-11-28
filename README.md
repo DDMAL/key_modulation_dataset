@@ -27,4 +27,21 @@ The annotations consist of the following:
   - Example 27-4-a
   - Example 27-4-b
   - Example 27-7
-  
+- Tchaikovsky
+  - Example 173
+  - Example 183
+  - Example 185
+  - Example 189
+  - Example 191
+  - Example 193
+  - Example 195
+- Max Reger
+  - Examples 1-100
+- Rimsky-Korsakov
+  - Example 3.5
+  - Example 3.7
+  - Example 3.8
+  - Example 3.10
+  - Example 3.14
+  - Example 3.15
+  - Examples 3.17

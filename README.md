@@ -19,3 +19,12 @@ The annotations consist of the following:
   - Example 19-10
   - Example 19-11
   - Example 19-12
+- Aldwell, Schachter and Cadwallader
+  - Example 27-2-a
+  - Example 27-2-b
+  - Example 27-2-c
+  - Example 27-3
+  - Example 27-4-a
+  - Example 27-4-b
+  - Example 27-7
+  

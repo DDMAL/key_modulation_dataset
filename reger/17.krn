@@ -1,0 +1,19 @@
+!!!COM: Reger, Max
+!!!OPR: Modulation
+!!!XEN: Modulation snippets
+!!!OTL: 1. C Major to G Major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern
+*staff2	*staff2	*staff1	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*C:	*C:	*C:	*C:
+*M4/4	*M4/4	*M4/4	*M4/4
+4C\	4G/	4e\	4cc
+4FF\	4A-/	4f\	4dd-
+4GG-\	2G-/	4d-\	4b-
+4AA-\	.	4c\	[4a-
+=2	=2	=2	=2
+1D-\	1F/	1d-\	1a-]
+==	==	==	==
+*-	*-	*-	*-

@@ -7,7 +7,7 @@ The annotations consist of the following:
 - Kostka-Payne
   - [ ] Example 18-2 
   - [ ] Example 18-3
-  - [ ]Example 18-4
+  - [ ] Example 18-4
   - [ ] Example 18-6
   - [ ] Example 18-7
   - [ ] Example 19-1

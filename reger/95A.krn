@@ -1,21 +1,24 @@
 !!!COM: Reger, Max
 !!!OPR: Modulation
 !!!XEN: Modulation snippets
-!!!OTL: 92A. d- minor to C# Major
+!!!OTL: 95A. a# minor to b- Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
 **kern	**kern	**kern	**kern
 *staff2	*staff2	*staff1	*staff1
 *clefF4	*clefF4	*clefG2	*clefG2
-*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]
+*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]
 *C:	*C:	*C:	*C:
 *M4/4	*M4/4	*M4/4	*M4/4
-4d-\	4f-/	2a-\	4dd-/
-8A-\	4e-/	.	4cc/
-8c\	.	.	.
-8d\	4d/	4f#\	4a/
-8F#\	.	.	.
-4G#\	4B#/	4d#\	4g#/[
+4A#	4c#	4e#	4a#
+4D#	8d#	4f#	4b
+.	[8B	.	.
+4E	4B]	4e	4g
+[4AA	[4c	[4f	4a
 =1	=1	=1	=1
-1C#\	1c#/	1e#\	1g#/]
+2AA]	2c]	4f]	2cc
+.	.	4e-	.
+2BB-	2F	2d	2b-
 ==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
 *-	*-	*-	*-

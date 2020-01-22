@@ -36,7 +36,7 @@ The annotations consist of the following:
   - [ ] Example 193
   - [ ] Example 195
 - Max Reger
-  - Examples 1-100
+  - [x] Examples 1-100
 - Rimsky-Korsakov
   - [ ] Example 3.5
   - [ ] Example 3.7

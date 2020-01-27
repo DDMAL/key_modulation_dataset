@@ -1,0 +1,50 @@
+!!!COM: Tchaikovski
+!!!OPR: Guide to the practical study of harmony
+!!!XEN: Modulation snippets
+!!!OTL: Exemple 189 : C Major to F Major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern
+*staff2	*staff2	*staff1	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*C:	*C:	*C:	*C:
+*M4/4	*M4/4	*M4/4	*M4/4
+4C	2g	2cc	2ee
+4E	.	.	.
+4G	4g	4b	4dd
+4F	4g	4b	4dd
+=2	=2	=2	=2
+4E	4g	4b-	4cc
+4E-	4f	4a	4cc
+4D	4f	4a-	4b-
+4D-	4e-	4g	4b-
+=3	=3	=3	=3
+4C	4e-	4a-	4a-
+4BB-	4e-	4g	4b-
+4AA-	4e-	4a-	4cc
+4FF#	4d	4a	4cc
+=4	=4	=4	=4
+4GG	4d	4g	4b
+4G	4e	4a	4cc#
+4F#	4d	4a	4dd
+4A	4f#	4b	4dd#
+=5	=5	=5	=5
+4G#	4e	4b	4ee
+4G#	4e	4b	4dd
+4G	4e	4a	4cc#
+4F#	4d	4a	4cc
+=6	=6	=6	=6
+4F	4d	4g	4b
+4E	4c	4g	4b-
+4F	4c	4f	4a
+4BB-	4d	4f	4b-
+=7	=7	=7	=7
+2C	2c	2f	2a
+2C	4c	2e	2g
+.	4B-	.	.
+=8	=8	=8	=8
+1F	1A	1f	1f
+==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
+*-	*-	*-	*-

@@ -5,7 +5,7 @@ A dataset of key modulations that have been annotated in different music theory 
 The annotations consist of the following:
 
 - Kostka-Payne
-  - [x] Example 18-2 
+  - [x] Example 18-2
   - [x] Example 18-3
   - [x] Example 18-4
   - [x] Example 18-6
@@ -28,10 +28,10 @@ The annotations consist of the following:
   - [ ] Example 27-4-b
   - [ ] Example 27-7
 - Tchaikovsky
-  - [ ] Example 173
-  - [ ] Example 183
-  - [ ] Example 185
-  - [ ] Example 189
+  - [X] Example 173
+  - [X] Example 183
+  - [X] Example 185
+  - [X] Example 189
   - [ ] Example 191
   - [ ] Example 193
   - [ ] Example 195

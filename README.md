@@ -13,7 +13,7 @@ The annotations consist of the following:
   - [x] Example 19-1
   - [x] Example 19-2
   - [x] Example 19-3
-  - [ ] Example 19-4
+  - [x] Example 19-4
   - [ ] Example 19-5
   - [ ] Example 19-6
   - [ ] Example 19-10

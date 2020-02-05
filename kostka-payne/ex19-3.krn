@@ -1,0 +1,84 @@
+!!!COM: Kostka, Payne, and Almén
+!!!OPR: Tonal Harmony
+!!!XEN: Modulation snippets
+!!!OTL: 1. C Major to G Major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefF4
+*k[]	*k[]
+*C:	*C:
+*M2/2	*M2/2
+8CC	8r
+8CC GG	8C E
+8CC GG	8C E
+8CC GG	8C E
+8CC GG	8C E
+8CC GG	8C E
+8CC GG	8C E
+8CC GG	8C E
+=2	=2
+8CC GG	8C E
+8CC GG	8C E
+8CC GG	8C E
+8CC GG	8C E
+8CC GG	8C E
+8CC GG	8C E
+8CC GG	8D F#
+8CC GG	8D F#
+=3	=3
+8CC GG	4.D G
+8CC GG	.
+8CC GG	.
+8CC GG	16B
+.	16A
+8CC GG	8G
+8CC GG	8r
+8CC GG	4r
+8CC GG	.
+*	*clefG2
+=4	=4
+.	8ccc#q
+8CC GG	[4ddd
+8CC GG	.
+8CC GG	16ddd]
+.	16ccc
+8CC GG	16bb
+.	16aa
+8CC GG	4gg
+8CC GG	.
+8CC GG	4r
+8CC GG	.
+*	*clefF4
+=5	=5
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+=6	=6
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+8BBB- FF	8BB- D
+8BBB- GG	8C E
+8BBB- GG	8C E
+=7	=7
+8AAA FF	4.C F
+8AAA FF	.
+8AAA FF	.
+8AAA FF	16A
+.	16G
+8AAA FF	8F
+8AAA FF	8r
+8AAA FF	4r
+8AAA FF	.
+*	*clefG2
+==	==
+!!!filter: autobeam
+*-	*-

@@ -1,0 +1,79 @@
+!!!COM: Kostka, Payne, and Almén
+!!!OPR: Tonal Harmony
+!!!XEN: Modulation snippets
+!!!OTL: 1. C Major to G Major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#]	*k[f#]
+*C:	*C:
+*M3/4	*M3/4
+2C G c	2e g cc ee
+4C G c	4e g cc ee
+=2	=2
+4C G c	4e g cc ee
+4C G c	4e g cc ee
+4C G c	4e g cc ee
+=3	=3
+4C G c	4e g ee
+4GG G	4d g dd
+4EE GG E	4c g cc
+=4	=4
+4EE GG E	4c g cc
+4GG G	4d g dd
+4C G c	4e g ee
+=5	=5
+2E- B- e-	2g b- gg
+4E- B- e-	4g b- gg
+=6	=6
+4E- B- e-	4g b- gg
+4E- B- e-	4g b- gg
+4E- B- e-	4g b- gg
+=7	=7
+4E- B- e-	4g b- gg
+4BB- B-	4f b- ff
+4GG BB- G	4e- b- ee-
+=8	=8
+4GG BB- G	4e- b- ee-
+4BB- B-	4f b- ff
+4E- B- e-	4g b- gg
+=9	=9
+2GG- D- G-	2b- dd- bb-
+4GG- D- G-	4b- dd- bb-
+=10	=10
+4GG- D- G-	4b- dd- bb-
+4GG- D- G-	4b- dd- bb-
+4GG- D- G-	4b- dd- bb-
+=11	=11
+4GG- D- G-	4b- dd- bb-
+4DD- D-	4a- dd- aa-
+4BBB- BB-	4g- dd- gg-
+=12	=12
+4GG- G-	4b- gg- bb-
+4AA- G- A-	4cc- gg- ccc-
+4BB- G- B-	4dd- gg- ddd-
+=13	=13
+2BB F# B	2dd ff# ddd
+4BB F# B	4dd ff# ddd
+=14	=14
+4BB F# B	4dd ff# ddd
+4BB F# B	4dd ff# ddd
+4BB F# B	4dd ff# ddd
+=15	=15
+2GGG GG	2ff gg bb ddd ggg
+4GGG GG	4ff gg bb ddd ggg
+=16	=16
+4BBB BB	4ff gg bb ddd ggg
+4DD D	4ff gg bb ddd ggg
+4GG G	4ff gg bb ddd ggg
+=17	=17
+2CC C	2ee gg ccc eee
+4CC C	4e cc ee
+=18	=18
+4CC C	4e cc ee
+4CC C	4e cc ee
+4CC C	4e cc ee
+==	==
+!!!filter: autobeam
+*-	*-

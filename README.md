@@ -16,8 +16,8 @@ The annotations consist of the following:
   - [x] Example 19-4
   - [ ] Example 19-5
   - [ ] Example 19-6
-  - [ ] Example 19-10
-  - [ ] Example 19-11
+  - [x] Example 19-10
+  - [x] Example 19-11
   - [ ] Example 19-12
 - Aldwell, Schachter and Cadwallader
   - [ ] Example 27-2-a

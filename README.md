@@ -20,13 +20,13 @@ The annotations consist of the following:
   - [x] Example 19-11
   - [x] Example 19-12
 - Aldwell, Schachter and Cadwallader
-  - [x] Example 26-2-a
-  - [x] Example 26-2-b
-  - [x] Example 26-2-c
-  - [ ] Example 26-3
-  - [ ] Example 26-4-a
-  - [ ] Example 26-4-b
-  - [ ] Example 26-7
+  - [x] Example 27-2-a
+  - [x] Example 27-2-b
+  - [x] Example 27-2-c
+  - [x] Example 27-3
+  - [ ] Example 27-4-a
+  - [ ] Example 27-4-b
+  - [ ] Example 27-7
 - Tchaikovsky
   - [X] Example 173
   - [X] Example 183

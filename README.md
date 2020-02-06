@@ -26,7 +26,7 @@ The annotations consist of the following:
   - [x] Example 27-3
   - [x] Example 27-4-a
   - [x] Example 27-4-b
-  - [ ] Example 27-7
+  - [x] Example 27-7
 - Tchaikovsky
   - [X] Example 173
   - [X] Example 183

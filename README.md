@@ -24,8 +24,8 @@ The annotations consist of the following:
   - [x] Example 27-2-b
   - [x] Example 27-2-c
   - [x] Example 27-3
-  - [ ] Example 27-4-a
-  - [ ] Example 27-4-b
+  - [x] Example 27-4-a
+  - [x] Example 27-4-b
   - [ ] Example 27-7
 - Tchaikovsky
   - [X] Example 173

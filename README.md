@@ -15,7 +15,7 @@ The annotations consist of the following:
   - [x] Example 19-3
   - [x] Example 19-4
   - [x] Example 19-5
-  - [ ] Example 19-6
+  - [x] Example 19-6
   - [x] Example 19-10
   - [x] Example 19-11
   - [x] Example 19-12

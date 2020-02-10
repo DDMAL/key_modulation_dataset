@@ -28,13 +28,13 @@ The annotations consist of the following:
   - [ ] Example 27-4-b
   - [ ] Example 27-7
 - Tchaikovsky
-  - [X] Example 173
-  - [X] Example 183
-  - [X] Example 185
-  - [X] Example 189
-  - [ ] Example 191
-  - [ ] Example 193
-  - [ ] Example 195
+  - [x] Example 173
+  - [x] Example 183
+  - [x] Example 185
+  - [x] Example 189
+  - [x] Example 191
+  - [x] Example 193
+  - [x] Example 195
 - Max Reger
   - [x] Examples 1-100
 - Rimsky-Korsakov

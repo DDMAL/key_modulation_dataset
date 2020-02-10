@@ -1,0 +1,141 @@
+!!!COM: Aldwell, Schachter, and Cadwallader
+!!!OPR: Harmony and Voice Leading
+!!!XEN: Diatonic Modulation
+!!!OTL: 1. C Major to G Major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-e-a-]	*k[b-e-a-]
+*M6/8	*M6/8
+=1	=1
+4EE- [E-	4G e-
+16E-]	8r
+64F	.
+64E-	.
+64D	.
+64E-	.
+8G	4r
+8E-	.
+8BB	8d 8f g
+=2	=2
+8C	8c 4e- g
+8r	8r
+8AA-	8c e- cc
+*	*^
+4.BB-	4e- f	[4B-
+.	16g	8d
+.	16a-	.
+*	*v	*v
+=3	=3
+4EE- [E-	4B- e- g
+16E-]	8r
+64F	.
+64E-	.
+64D	.
+64E-	.
+8G	4r
+8E-	.
+8BB	8d f g
+=4	=4
+8C	8c 4e- g
+8r	8r
+8AA-	8c 8e- cc
+*	*^
+4.BB-	4f	4B- 4e-
+.	16a-	8A- 8d
+.	16g	.
+*	*v	*v
+=5	=5
+4EE- [E-	4G e-
+16E-]	8r
+64F	.
+64E-	.
+64D	.
+64E-	.
+8G	4r
+8E-	.
+8BB	8d f g
+=6	=6
+4C	4c e- [g
+8r	16g]
+.	64a-
+.	64g
+.	64f#
+.	64g
+4r	8cc
+.	8g
+8B	8d f# g
+=7	=7
+4c	4c e- [g
+8r	16g]
+.	64a-
+.	64g
+.	64f#
+.	64g
+4r	8ee-
+.	8cc
+8B	8d f g
+=8	=8
+4c	4c e- [g
+8r	16g]
+.	64a-
+.	64g
+.	64f#
+.	64g
+4r	8gg
+.	8ee-
+8r	8cc
+=9	=9
+4.GG- G-	4.c[ e-[ b-
+8FF 4.F	8c] e-] a
+8r	8r
+8r	8r
+=10	=10
+*	*^
+8BB-	4.dd	16r
+.	.	16B-
+8r	.	16d 16f
+.	.	16B-
+8r	.	16d 16f
+.	.	16B-
+8F	8ff	16r
+.	.	16A
+8r	8ee-	16c 16f
+.	.	16A
+8r	8cc	16c 16f
+.	.	16A
+*	*v	*v
+=11	=11
+*	*^
+8D	8b-	16r
+.	.	16B-
+8r	8b-	16d 16f
+.	.	16B-
+8r	8b-	16d 16f
+.	.	16B-
+8AA	16b	16r
+.	16cc	16c
+8r	8cc	16e- 16f
+.	.	16c
+8r	8cc	16e- 16f
+.	.	16c
+*	*v	*v
+=12	=12
+*	*^
+8BB-	16cc#	16r
+.	16dd	16B-
+8r	8dd	16d 16f
+.	.	16B-
+8r	8dd	16d 16f
+.	.	16B-
+8FF	16ff	16r
+.	16ee-	16A
+8r	8r	16c e- 16f
+.	.	16A
+8r	8r	16c e- 16f
+.	.	16A
+*	*v	*v
+==	==
+*-	*-
+!!!filter: autobeam

@@ -11,22 +11,22 @@ The annotations consist of the following:
   - [x] Example 18-6
   - [x] Example 18-7
   - [x] Example 19-1
-  - [ ] Example 19-2
-  - [ ] Example 19-3
-  - [ ] Example 19-4
-  - [ ] Example 19-5
-  - [ ] Example 19-6
-  - [ ] Example 19-10
-  - [ ] Example 19-11
-  - [ ] Example 19-12
+  - [x] Example 19-2
+  - [x] Example 19-3
+  - [x] Example 19-4
+  - [x] Example 19-5
+  - [x] Example 19-6
+  - [x] Example 19-10
+  - [x] Example 19-11
+  - [x] Example 19-12
 - Aldwell, Schachter and Cadwallader
-  - [ ] Example 27-2-a
-  - [ ] Example 27-2-b
-  - [ ] Example 27-2-c
-  - [ ] Example 27-3
-  - [ ] Example 27-4-a
-  - [ ] Example 27-4-b
-  - [ ] Example 27-7
+  - [x] Example 27-2-a
+  - [x] Example 27-2-b
+  - [x] Example 27-2-c
+  - [x] Example 27-3
+  - [x] Example 27-4-a
+  - [x] Example 27-4-b
+  - [x] Example 27-7
 - Tchaikovsky
   - [x] Example 173
   - [x] Example 183

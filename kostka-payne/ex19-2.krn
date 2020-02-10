@@ -1,0 +1,51 @@
+!!!COM: Kostka, Payne, and Almén
+!!!OPR: Tonal Harmony
+!!!XEN: Modulation snippets
+!!!OTL: 1. C Major to G Major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern
+*staff2	*staff2	*staff1	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*C:	*C:	*C:	*C:
+*M3/8	*M3/8	*M3/8	*M3/8
+4.C	4.G	4.c	4e
+.	.	.	24cc
+.	.	.	24g
+.	.	.	24e
+=2	=2	=2	=2
+4.GG	4.F	4.B	4d
+.	.	.	24g
+.	.	.	24f
+.	.	.	24d
+*	*	*clefF4	*clefF4
+=3	=3	=3	=3
+4AA	4E	4A	4c
+16FF	16AA	8A	16e
+16FF#	16D	.	16d
+=4	=4	=4	=4
+4GG	8E	4G	8c
+.	8D	.	8B
+8r	8r	8r	8r
+*	*	*clefG2	*clefG2
+=5	=5	=5	=5
+4.D	4.A	4.d	4f
+.	.	.	24dd
+.	.	.	24a
+.	.	.	24f
+=6	=6	=6	=6
+4.AA	4.G	4.c#	4e
+.	.	.	24a
+.	.	.	24g
+.	.	.	24e
+=7	=7	=7	=7
+4BB-	4F	4d	4d
+8GG#	8E	8B	8e
+=8	=8	=8	=8
+4AA	8F	4A	8d
+.	8E	.	8c#
+8r	8r	8r	8r
+==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
+*-	*-	*-	*-

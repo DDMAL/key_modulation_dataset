@@ -3,18 +3,18 @@
 !!!XEN: Modulation snippets
 !!!OTL: 52. a minor to d# minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]	*k[]
-*C:	*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4	*M4/4
-4AA\	4A/	2e\	4cc/
-4GG#\	4B/	.	8b/L
-.	.	.	8g#/J
-2AA#\	2A#[/	4d#\	4f#/
-.	.	4c##\	4e#[/
-=1	=1	=1	=1
-1D#\	1A#]/	1d#\	1f#]/
-==	==	==	==
-*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**text
+*staff2	*staff2	*staff1	*staff1	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+4AA\	4A/	2e\	4cc/	a=>:i
+4GG#\	4B/	.	8b/L	N/#iv
+.	.	.	8g#/J	.
+2AA#\	2A#[/	4d#\	4f#/	Cad64/#iv
+.	.	4c##\	4e#[/	V/#iv
+=1	=1	=1	=1	=1
+1D#\	1A#]/	1d#\	1f#]/	d#=>:i
+==	==	==	==	==
+*-	*-	*-	*-	*-

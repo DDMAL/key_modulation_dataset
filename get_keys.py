@@ -11,5 +11,15 @@ if __name__ == '__main__':
     for n in score.flat.notes:
         if n.lyric:
             label = harmalysis.parse(n.lyric)
-            labels.append((n.offset, n.lyric, str(label.main_key), str(label.secondary_key)))
+            try:
+                chordlabel = harmalysis.parse(str(label.chord), syntax='chordlabel')
+            except:
+                chordlabel = 'Unknown chord'
+                pass
+            labels.append((
+                n.offset, 
+                n.lyric, 
+                chordlabel, 
+                str(label.main_key), 
+                str(label.secondary_key),))
     pprint.pprint(labels)

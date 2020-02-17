@@ -1,0 +1,20 @@
+!!!COM: Rimsky Korsakov, Nikolaï
+!!!OPR: Pratical manual of harmony
+!!!XEN: Modulation
+!!!OTL: 3-9b. C Major to D minor
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern
+*staff2	*staff2	*staff1	*staff1
+*clefF4	*clefG2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*C:	*C:	*C:	*C:
+*M4/4	*M4/4	*M4/4	*M4/4
+2c\	2g/	2cc\	2ee/
+2g\	2g/	2b\	2dd/
+=1	=1	=1	=1
+2e\	2g/	2cc#\	2ee/
+2d\	2a/	2dd\	2ff/
+==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
+*-	*-	*-	*-

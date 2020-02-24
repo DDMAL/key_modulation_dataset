@@ -1,25 +1,25 @@
 !!!COM: Reger, Max
 !!!OPR: Modulation
 !!!XEN: Modulation snippets
-!!!OTL: 1. C Major to G Major
+!!!OTL: 44a. C# Major to Db Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]
-*C:	*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4	*M4/4
-4C#	4G#	4e#	4cc#
-8F#	8A	16f#	4dd
-.	.	16a	.
-8G	8B	[8g	.
-4C	2c	8g]	8ee-
-.	.	8e-	8g
-4AA-	.	8f	8a-
-.	.	8e-	8g-
-=2	=2	=2	=2
-1D-	1A-	1d-	1f
-==	==	==	==
+**kern	**kern	**kern	**kern	**text
+*staff2	*staff2	*staff1	*staff1	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+4C#	4G#	4e#	4cc#	C#:I
+8F#	8A	16f#	4dd	c=>:V6/V
+.	.	16a	.	V6/V
+8G	8B	[8g	.	V
+4C	2c	8g]	8ee-	i
+.	.	8e-	8g	i
+4AA-	.	8f	8a-	Db=>:iii
+.	.	8e-	8g-	V7
+=2	=2	=2	=2	=2
+1D-	1A-	1d-	1f	I
+==	==	==	==	==
 !!!filter: satb2gs
-!!!filter: autobeam 
-*-	*-	*-	*-
+!!!filter: autobeam
+*-	*-	*-	*-	*-

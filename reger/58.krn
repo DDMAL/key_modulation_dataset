@@ -4,14 +4,16 @@
 !!!OTL: 58. a minor to f minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
 **kern	**kern	**kern	**kern	**text
-*staff2	*staff2	*staff1	*staff1	*staff1
+*staff2	*staff2	*staff1	*staff1	*staff2
 *clefF4	*clefF4	*clefG2	*clefG2	*
 *k[]	*k[]	*k[]	*k[]	*
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
 4A\	4c/	4e\	4a/	a=>:i
-4D\	4d/	4f\	2b-/	IV6/vi
-4E\	4d-/	4g\	.	viio7/vi
-4F\	4c/	4f\	4a-/	f=>:i
+4D\	4d/	4f\	2b-/	f=>:IV6
+4E\	4d-/	4g\	.	viio7
+4F\	4c/	4f\	4a-/	i
 ==	==	==	==	==
 *-	*-	*-	*-	*-
+!!!filter:satb2gs
+!!!filter:autobeam

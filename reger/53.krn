@@ -11,10 +11,12 @@
 *M4/4	*M4/4	*M4/4	*M4/4	*
 4AA\	4A/	2e\	4cc/	a=>:i
 4E\	4G#/	.	2b/	V
-4D#\	4d#/	4f#\	.	N6/#i
-4E#\	8c#/L	4e#\[	8a#/L	Cad64/#i
-.	8B#/J	.	8g##/J	V/#i
+4D#\	4d#/	4f#\	.	a#=>:N6
+4E#\	8c#/L	4e#\[	8a#/L	Cad64
+.	8B#/J	.	8g##/J	V
 =1	=1	=1	=1	=1
-1AA#\	1A#]/	1e#\]	1a#/	a#=>:i
+1AA#\	1A#]/	1e#\]	1a#/	i
 ==	==	==	==	==
+!!!filter:satb2gs
+!!!filter:autobeam
 *-	*-	*-	*-	*-

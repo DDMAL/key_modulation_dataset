@@ -4,19 +4,19 @@
 !!!OTL: 54. a minor to e# minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
 **kern	**kern	**kern	**kern	**text
-*staff2	*staff2	*staff1	*staff1	*staff1
+*staff2	*staff2	*staff1	*staff1	*staff2
 *clefF4	*clefF4	*clefG2	*clefG2	*
 *k[]	*k[]	*k[]	*k[]	*
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
 4A\	4A/	4.e\	4cc/	a=>:i
-4G#\	4e/	.	4b/	N6/#iv
-.	.	8g#\	.	.
-4C##\	4c##/	4e#\	2a#/	IV6/#v
-4D##\	4c#/	4f##\	.	viio7/#v
+4G#\	4e/	.	4b/	d#:N6
+.	.	8g#\	.	N6
+4C##\	4c##/	4e#\	2a#/	e#=>:IV6
+4D##\	4c#/	4f##\	.	viio7
 =1	=1	=1	=1	=1
-1E#\	1B#/	1e#\	1g#/	e#=>:i
+1E#\	1B#/	1e#\	1g#/	i
 ==	==	==	==	==
-!!!filter: satb2gs
-!!!filter: autobeam
+!!!filter:satb2gs
+!!!filter:autobeam
 *-	*-	*-	*-	*-

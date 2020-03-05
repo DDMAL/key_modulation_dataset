@@ -10,11 +10,11 @@
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
 4AA\	4e/	4a\	4cc/	a=>:i
-4BB\	4d/	4g#\	4b/	iio6/#vi
-4C#\	2c#/	4e#\	4g#/	f#:IV/ii
-4AA#\	.	4f##\	4dd#[/	f#:V43/ii
+4BB\	4d/	4g#\	4b/	f#:iio6
+4C#\	2c#/	4e#\	4g#/	g#=>:IV
+4AA#\	.	4f##\	4dd#[/	V43
 =1	=1	=1	=1	=1
-1GG#\	1B/	1g#\	1dd#]/	g#=>:i
+1GG#\	1B/	1g#\	1dd#]/	i
 ==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam

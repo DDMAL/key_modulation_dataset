@@ -3,17 +3,19 @@
 !!!XEN: Modulation snippets
 !!!OTL: 71. a minor to B Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]	*k[]
-*C:	*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4	*M4/4
-4A\	4c/	2e\	4a/
-4E\	2B/	.	4g/
-2F#\	.	4d#\	2f#/[
-.	4A#/	4c#\	.
-=1	=1	=1	=1
-1BB\	1B/	1d#\	1f#/]
-==	==	==	==
-*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**text
+*staff4	*staff3	*staff2	*staff1	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+4A\	4c/	2e\	4a/	a=>:i
+4E\	2B/	.	4g/	B=>:iv
+2F#\	.	4d#\	2f#/[	Cad64
+.	4A#/	4c#\	.	V
+=1	=1	=1	=1	=1
+1BB\	1B/	1d#\	1f#/]	I
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!filter:satb2gs
+!!!filter:autobeam

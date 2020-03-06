@@ -3,23 +3,23 @@
 !!!XEN: Modulation snippets
 !!!OTL: 82. a minor to D- Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]	*k[]
-*C:	*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4	*M4/4
-4AA\	4c/	4e\	4a/
-8D\	4d/	4f\	2b-/
-8BB-\	.	.	.
-4E-\	8e-/	4.g-\	.
-.	8d-/	.	.
-4AA-\	4c/	.	4a-/[
-.	.	16f\	.
-.	.	16e-\	.
-=1	=1	=1	=1
-1D-\	1d-/	1f\	1a-/]
-==	==	==	==
-*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**text
+*staff2	*staff2	*staff1	*staff1	*staff2
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+4AA\	4c/	4e\	4a/	a=>:i
+8D\	4d/	4f\	2b-/	eb=>:V6
+8BB-\	.	.	.	V
+4E-\	8e-/	4.g-\	.	Db=>:ii
+.	8d-/	.	.	ii7
+4AA-\	4c/	.	4a-/[	V7
+.	.	16f\	.	iii
+.	.	16e-\	.	V
+=1	=1	=1	=1	=1
+1D-\	1d-/	1f\	1a-/]	I
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!filter:satb2gs
 !!!filter:autobeam

@@ -3,17 +3,17 @@
 !!!XEN: Modulation snippets
 !!!OTL: 1. C Major to G Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]	*k[]
-*C:	*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4	*M4/4
-2C\	4G/	2e\	4cc/
-.	4c/	.	4a/
-2D\	4B/	[2d\	4g/
-.	4A/	.	4f#/
-=1	=1	=1	=1
-1GG\	1B/	1d]\	1g/
-==	==	==	==
-*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**text
+*staff2	*staff2	*staff1	*staff1	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+2C\	4G/	2e\	4cc/	C=>:I
+.	4c/	.	4a/	G:ii6
+2D\	4B/	[2d\	4g/	Cad64
+.	4A/	.	4f#/	V
+=1	=1	=1	=1	=1
+1GG\	1B/	1d]\	1g/	I
+==	==	==	==	==
+*-	*-	*-	*-	*-

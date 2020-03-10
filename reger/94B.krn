@@ -3,23 +3,23 @@
 !!!XEN: Modulation snippets
 !!!OTL: 94B. d- minor to d# minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]
-*C:	*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4	*M4/4
-4d-	4f-	2a-	4dd-
-8A-	4e-	.	4cc
-8c	.	.	.
-8d	4d	8f#	4a
-8D	.	8f	.
-8E	4B	4e	4g#
-8G#	.	.	.
-=1	=1	=1	=1
-2A#	1A#	2c##	2e#
-2D#	.	2d#	2f#
-==	==	==	==
+**kern	**kern	**kern	**kern	**text
+*staff4	*staff3	*staff2	*staff1	*
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+4d-	4f-	2a-	4dd-	.
+8A-	4e-	.	4cc	.
+8c	.	.	.	.
+8d	4d	8f#	4a	.
+8D	.	8f	.	.
+8E	4B	4e	4g#	.
+8G#	.	.	.	.
+=1	=1	=1	=1	=1
+2A#	1A#	2c##	2e#	.
+2D#	.	2d#	2f#	.
+==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-
+*-	*-	*-	*-	*-

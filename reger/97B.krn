@@ -9,17 +9,17 @@
 *k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
-4A#	4c#	4e#	4a#	.
-4D#	8d#	4f#	4b	.
-.	[8B	.	.	.
-4E	4B]	4e	4g#	.
-4AA	4c	[4f	8a	.
-.	.	.	8cc	.
+4A#	4c#	4e#	4a#	a#=>:i
+4D#	8d#	4f#	4b	N6
+.	[8B	.	.	e=>:V6
+4E	4B]	4e	4g#	i
+4AA	4c	[4f	8a	N6
+.	.	.	8cc	Bb=>:V6
 =1	=1	=1	=1	=1
-4BB-	2B-	4f]	4dd	.
-4GG	.	[4e-	8ee-	.
-.	.	.	8dd-	.
-2AA-	2A-	2e-]	2cc-	.
+4BB-	2B-	4f]	4dd	ab=>:V/V
+4GG	.	[4e-	8ee-	V6
+.	.	.	8dd-	V65
+2AA-	2A-	2e-]	2cc-	i
 ==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam

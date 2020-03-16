@@ -1,23 +1,20 @@
 import sys
 import re
-
-
-def are_staff_indexes(line):
-	if line.startswith('*staff'):
-		print(line)
-		line = line.replace('\t', '')
-		staff_indexes = line.split('*staff')
-		staff_indexes = [int(s) for s in staff_indexes[1:-1]]
-		return staff_indexes
-
+import pdb
 
 def add_staff_association(lines):
 	ignore_lines = ['**', '*-', '*', '==', '=', '!']
 	for line in lines:
 		line = line.strip()
-		indexes = are_staff_indexes(line)
-		if indexes:
-			staff_indexes = indexes
+		staff_regexp = re.compile((
+			r'^\*staff([0-9]+).*'
+			r'\*staff([0-9]+).*'
+			r'\*staff([0-9]+).*'
+			r'\*staff([0-9]+).*$'))
+		m = staff_regexp.match(line)
+		if m:
+			print(line)
+			staff_indexes = [int(s) for s in m.groups()]
 			current_staff = staff_indexes[0]
 			# print(staff_indexes)
 			continue
@@ -26,7 +23,8 @@ def add_staff_association(lines):
 				print(line)
 				break
 		else:
-			spines = line.split('\t')[:-1]
+			# pdb.set_trace()
+			spines = line.split('\t')[:-1] # Ignore the last column (annotation)
 			dur = re.compile(r'^([0-9]+).*$')
 			durations = [dur.match(s) for s in spines]
 			durations = [int(x.groups(0)[0]) if x else 0 for x in durations]
@@ -36,6 +34,7 @@ def add_staff_association(lines):
 				shortest_duration_index = durations.index(shortest_duration)
 				shortest_duration_staff = staff_indexes[shortest_duration_index]
 				print('*\t*\t*\t*\t*staff{}'.format(shortest_duration_staff))
+				current_staff = shortest_duration_staff
 			print(line)
 			# print(shortest_duration_staff)
 

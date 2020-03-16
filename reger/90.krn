@@ -1,7 +1,7 @@
 !!!COM: Reger, Max
 !!!OPR: Modulation
 !!!XEN: Modulation snippets
-!!!OTL: 90B. d- minor to b minor
+!!!OTL: 90. d- minor to b minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
 **kern	**kern	**kern	**kern	**text
 *staff4	*staff3	*staff2	*staff1	*
@@ -9,12 +9,12 @@
 *k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
-4D-\	4F/	4d-\	2a-/	.
-8AA-\	4E-/	4c\	.	.
-8C\	.	.	.	.
-8D\	8D/	8A\	2f#/	.
-8C#\	8E/	8A#\	.	.
-4BB\	4D/	4B\	.	.
+4D-\	4F/	4d-\	2a-/	db=>:i
+8AA-\	4E-/	4c\	.	V
+8C\	.	.	.	G=>:N6
+8D\	8D/	8A\	2f#/	b=>:III
+8C#\	8E/	8A#\	.	V43
+4BB\	4D/	4B\	.	i
 ==	==	==	==	==
 *-	*-	*-	*-	*-
 !!!filter:satb2gs

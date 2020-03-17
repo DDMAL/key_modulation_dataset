@@ -1,13 +1,13 @@
 import music21
 import harmalysis
-
 import sys
 import pprint
+import pandas as pd
 
 if __name__ == '__main__':
     filename = sys.argv[1]
     score = music21.converter.parse(filename)
-    labels = []
+    labels = {}
     for n in score.flat.notes:
         if n.lyric:
             label = harmalysis.parse(n.lyric)
@@ -16,10 +16,12 @@ if __name__ == '__main__':
             except:
                 chordlabel = 'Unknown chord'
                 pass
-            labels.append((
-                n.offset, 
-                n.lyric, 
-                chordlabel, 
-                str(label.main_key), 
-                str(label.secondary_key),))
-    pprint.pprint(labels)
+            labels[n.offset] = {
+                'annotation': n.lyric,
+                'chord_label': chordlabel,
+                'chord_inversion': label.chord.inversion,
+                'local_key': str(label.main_key),
+                'tonicized_key': str(label.secondary_key),
+            }
+    df = pd.DataFrame(labels).transpose()
+    print(df)

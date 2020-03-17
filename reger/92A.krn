@@ -3,21 +3,22 @@
 !!!XEN: Modulation snippets
 !!!OTL: 92A. d- minor to C# Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]
-*C:	*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4	*M4/4
-4d-\	4f-/	2a-\	4dd-/
-8A-\	4e-/	.	4cc/
-8c\	.	.	.
-8d\	4d/	4f#\	4a/
-8F#\	.	.	.
-4G#\	4B#/	4d#\	4g#/[
-=1	=1	=1	=1
-1C#\	1c#/	1e#\	1g#/]
-==	==	==	==
-*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**text
+*staff4	*staff3	*staff2	*staff1	*
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*k[b-e-a-d-g-c-f-b--]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+4d-\	4f-/	2a-\	4dd-/	db=>:i
+8A-\	4e-/	.	4cc/	V
+8c\	.	.	.	G=>:N6
+8d\	4d/	4f#\	4a/	V
+8F#\	.	.	.	C#=>:N6
+4G#\	4B#/	4d#\	4g#/[	V
+=1	=1	=1	=1	=1
+1C#\	1c#/	1e#\	1g#/]	I
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!filter:satb2gs
 !!!filter:autobeam
+

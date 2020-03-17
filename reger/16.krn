@@ -10,11 +10,13 @@
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
 4C\	4G/	4e\	4cc/	C=>:I
-8F\	2A-/	4f\	4dd-/	A-:IV6
+8F\	2A-/	4f\	4dd-/	A-=>:IV6
 8D-\	.	.	.	IV
 2E-\	.	[2e-\	4cc/	Cad64
 .	4G/	.	4b-/	V
 =2	=2	=2	=2	=2
 1AA-\	1A-/	1e-]\	1cc/	I
 ==	==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
 *-	*-	*-	*-	*-

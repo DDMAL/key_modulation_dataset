@@ -10,12 +10,14 @@
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
 4C\	2e/	2g\	4cc/	C=>:I
-4E\	.	.	4b/	b:iv
-4F#\	4c#/	4f#\	4a#/	F#:I
-4E#\	4e#/	4g#\	4cc#/	B#:N6
+4E\	.	.	4b/	b=>:iv
+4F#\	4c#/	4f#\	4a#/	F#=>:I
+4E#\	4e#/	4g#\	4cc#/	B#=>:N6
 =2	=2	=2	=2	=2
 2F##	4d##	1f##	4b#	Cad64
 .	4c##	.	4a##	V
 2BB#	2d##	.	2b#	I
 ==	==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
 *-	*-	*-	*-	*-

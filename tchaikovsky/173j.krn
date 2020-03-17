@@ -3,17 +3,17 @@
 !!!XEN: Modulation snippets
 !!!OTL: Exemple 173-j : C Major to B Flat Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]	*k[]
-*C:	*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4	*M4/4
-2C	2e	2g	2cc
-2AA	2e-	2f	2cc
-=2	=2	=2	=2
-1BB-	1d	1f	1b-
-==	==	==	==
+**kern	**kern	**kern	**kern	**text
+*staff4	*staff3	*staff2	*staff1	*
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+2C	2e	2g	2cc	.
+2AA	2e-	2f	2cc	.
+=2	=2	=2	=2	=2
+1BB-	1d	1f	1b-	.
+==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-
+*-	*-	*-	*-	*-

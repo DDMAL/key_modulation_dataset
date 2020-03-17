@@ -3,21 +3,21 @@
 !!!XEN: Modulation snippets
 !!!OTL: Exemple 193a : C Major to G Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]	*k[]
-*C:	*C:	*C:	*C:
-*M3/4	*M3/4	*M3/4	*M3/4
-2C	2g	2cc	2ee
-4E	4g	4cc	4ee
-=2	=2	=2	=2
-4G	4g	4b	4dd
-4c	4g	4cc	4ee
-4c	4a	4dd	4ff#
-=3	=3	=3	=3
-2.B	2.g	2.dd	2.gg
-==	==	==	==
+**kern	**kern	**kern	**kern	**text
+*staff4	*staff3	*staff2	*staff1	*
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*M3/4	*M3/4	*M3/4	*M3/4	*
+2C	2g	2cc	2ee	.
+4E	4g	4cc	4ee	.
+=2	=2	=2	=2	=2
+4G	4g	4b	4dd	.
+4c	4g	4cc	4ee	.
+4c	4a	4dd	4ff#	.
+=3	=3	=3	=3	=3
+2.B	2.g	2.dd	2.gg	.
+==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-
+*-	*-	*-	*-	*-

@@ -3,31 +3,31 @@
 !!!XEN: Modulation snippets
 !!!OTL: Exemple 183-d : C Major to a minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]	*k[]
-*C:	*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4	*M4/4
-4C	2.c	2.g	2.ee
-4E	.	.	.
-4G	.	.	.
-4F#	4B	4a	4dd#
-=2	=2	=2	=2
-4E	2B	4g	2.ee
-4D	.	4g#	.
-4C	2A	4a	.
-4C#	.	4g	4ee
-=3	=3	=3	=3
-2D	2A	2f	4dd
-.	.	.	8a
-.	.	.	8b
-2E	4G	4.e	4cc
-.	4G#	.	4b
-.	.	8d	.
-=4	=4	=4	=4
-1AA	1A	1c	1a
-==	==	==	==
+**kern	**kern	**kern	**kern	**text
+*staff4	*staff3	*staff2	*staff1	*
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+4C	2.c	2.g	2.ee	.
+4E	.	.	.	.
+4G	.	.	.	.
+4F#	4B	4a	4dd#	.
+=2	=2	=2	=2	=2
+4E	2B	4g	2.ee	.
+4D	.	4g#	.	.
+4C	2A	4a	.	.
+4C#	.	4g	4ee	.
+=3	=3	=3	=3	=3
+2D	2A	2f	4dd	.
+.	.	.	8a	.
+.	.	.	8b	.
+2E	4G	4.e	4cc	.
+.	4G#	.	4b	.
+.	.	8d	.	.
+=4	=4	=4	=4	=4
+1AA	1A	1c	1a	.
+==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-
+*-	*-	*-	*-	*-

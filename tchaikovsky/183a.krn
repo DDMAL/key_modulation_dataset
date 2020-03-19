@@ -1,0 +1,33 @@
+!!!COM: Tchaikovski
+!!!OPR: Guide to the practical study of harmony
+!!!XEN: Modulation snippets
+!!!OTL: Exemple 183-a : C Major to F sharp major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern	**text
+*staff4	*staff3	*staff2	*staff1	*
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+=1	=1	=1	=1	=1
+4c	1e	2g	2cc	C=>:I
+4B	.	.	.	I2
+4A	.	4a	4cc	vi
+4G	.	4a#	4cc#	viio2/vii
+=2	=2	=2	=2	=2
+4F#	4f#	2.b	4dd	b=>:i64
+4E	4g	.	4cc#	iio65
+4D	4f#	.	4ff#	i6
+8C#	4g#	4cc#	4ee#	V/V
+8BB	.	.	.	V2/V
+=3	=3	=3	=3	=3
+4AA#	2.f#	4cc#	4ff#	F#=>:I6
+4BB	.	4b	4dd#	IV
+2C#	.	4a#	4cc#	Cad64
+.	4e#	4b	4cc#	V7
+=4	=4	=4	=4	=4
+1F#	1f#	1a#	1cc#	I
+==	==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
+*-	*-	*-	*-	*-

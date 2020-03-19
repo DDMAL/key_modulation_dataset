@@ -9,10 +9,10 @@
 *k[]	*k[]	*k[]	*k[]	*
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
-2C	2e	2g	2cc	.
-2AA	2e-	2f	2cc	.
+2C	2e	2g	2cc	C=>:I
+2AA	2e-	2f	2cc	V65/bVII
 =2	=2	=2	=2	=2
-1BB-	1d	1f	1b-	.
+1BB-	1d	1f	1b-	Bb=>:I
 ==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam

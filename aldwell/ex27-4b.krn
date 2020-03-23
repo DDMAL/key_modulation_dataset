@@ -1,23 +1,23 @@
 !!!COM: Aldwell, Schachter, and Cadwallader
 !!!OPR: Harmony and Voice Leading
 !!!XEN: Diatonic Modulation
-!!!OTL: 1. C Major to G Major
+!!!OTL: 27-4b. C minor to A- Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-=1	=1	=1	=1
-4C	4c	4g	4ee-
-4F	4c	4a-	4ff
-4BB-	4d-	4f	4dd-
-8C	8e-	8a-	8cc
-8D-	8d-	8f	8b-
-=2	=2	=2	=2
-4E-	4c	4e-	4a-
-4E-	4d-	4e-	4g
-2AA-	2c	2e-	2a-
-==	==	==	==
-*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**text
+*staff2	*staff2	*staff1	*staff1	*
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*
+=1	=1	=1	=1	=1
+4C	4c	4g	4ee-	c=>:i
+4F	4c	4a-	4ff	A-=>:vi
+4BB-	4d-	4f	4dd-	ii
+8C	8e-	8a-	8cc	I64
+8D-	8d-	8f	8b-	ii6
+=2	=2	=2	=2	=2
+4E-	4c	4e-	4a-	Cad64
+4E-	4d-	4e-	4g	V7
+2AA-	2c	2e-	2a-	I
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!filter: satb2gs
 !!!filter: autobeam

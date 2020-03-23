@@ -1,36 +1,36 @@
 !!!COM: Aldwell, Schachter, and Cadwallader
 !!!OPR: Harmony and Voice Leading
 !!!XEN: Diatonic Modulation
-!!!OTL: 1. C Major to G Major
+!!!OTL: 27-3. Bach, Chorale 207
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[b-]	*k[b-]	*k[b-]	*k[b-]
-=1	=1	=1	=1
-4D	8A	[4f	4f
-.	[8d	.	.
-4E	8d]	8f]	4g
-.	8c	8e	.
-4F#	4c	8e-	4a
-.	.	8d	.
-=2	=2	=2	=2
-4G	8B-	4d	2.b-
-.	8A	.	.
-8C	4G	8e	.
-8D	.	8f	.
-4E	4c	[4g	.
-=3	=3	=3	=3
-4F	4c	8g]	4a
-.	.	8f	.
-4BB-	4d	4f	4.g
-4C	8.c	4e	.
-.	.	.	8f
-.	16B-k	.	.
-=4	=4	=4	=4
-2FF	2A	2c	2f
-4r	4r	4r	4r
-==	==	==	==
-*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**text
+*staff2	*staff2	*staff1	*staff1	*
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*
+=1	=1	=1	=1	=1
+4D	8A	[4f	4f	d=>:i
+.	[8d	.	.	i
+4E	8d]	8f]	4g	bVII6
+.	8c	8e	.	bVII6
+4F#	4c	8e-	4a	viio7/iv
+.	.	8d	.	V7/iv
+=2	=2	=2	=2	=2
+4G	8B-	4d	2.b-	F=>:ii
+.	8A	.	.	ii
+8C	4G	8e	.	V7
+8D	.	8f	.	V7
+4E	4c	[4g	.	V65
+=3	=3	=3	=3	=3
+4F	4c	8g]	4a	I
+.	.	8f	.	I
+4BB-	4d	4f	4.g	ii65
+4C	8.c	4e	.	V
+.	.	.	8f	V
+.	16B-k	.	.	V7
+=4	=4	=4	=4	=4
+2FF	2A	2c	2f	I
+4r	4r	4r	4r	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!filter: satb2gs
 !!!filter: autobeam

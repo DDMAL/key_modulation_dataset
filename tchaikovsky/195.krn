@@ -1,7 +1,7 @@
 !!!COM: Tchaikovski
 !!!OPR: Guide to the practical study of harmony
 !!!XEN: Modulation snippets
-!!!OTL: Exemple 195 : C Major to F Major
+!!!OTL: Example 195 : C Major to F Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
 **kern	**kern	**kern	**kern	**text
 *staff4	*staff3	*staff2	*staff1	*
@@ -9,31 +9,31 @@
 *k[]	*k[]	*k[]	*k[]	*
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
-4c	2c	2e	2g	.
-4G	.	.	.	.
-4E	4g	4g	4cc	.
-4C	4g	4cc	4ee	.
+4c	2c	2e	2g	C=>:I
+4G	.	.	.	I64
+4E	4g	4g	4cc	I6
+4C	4g	4cc	4ee	I
 =2	=2	=2	=2	=2
-2BB	2g#	2dd	2ee	.
-4AA	2a	2cc	2ee	.
-4A	.	.	.	.
+2BB	2g#	2dd	2ee	a=>:V43
+4AA	2a	2cc	2ee	i
+4A	.	.	.	i
 =3	=3	=3	=3	=3
-2G	2b-	2cc	2ee	.
-2F	2a	2cc	2ff	.
+2G	2b-	2cc	2ee	F=>:V43
+2F	2a	2cc	2ff	I
 =4	=4	=4	=4	=4
-4E-	4a	4cc	4ff	.
-4D	4b-	4b-	4ff	.
-2C	2a	2ee-	2ff	.
+4E-	4a	4cc	4ff	Bb=>:V2
+4D	4b-	4b-	4ff	I6
+2C	2a	2ee-	2ff	V43
 =5	=5	=5	=5	=5
-4BB-	4b-	4dd	4ff	.
-4AA	4b	4dd	4ff	.
-4GG#	4b	4dd	4ee	.
-4AA	4a	4cc	4ee	.
+4BB-	4b-	4dd	4ff	I
+4AA	4b	4dd	4ff	iio2/vii
+4GG#	4b	4dd	4ee	a=>:V65
+4AA	4a	4cc	4ee	i
 =6	=6	=6	=6	=6
-4FF#	4a	4cc	4dd	.
-4GG	4g	4b-	4dd	.
-4E	4g	4b-	4cc	.
-4F	4f	4a	4cc	.
+4FF#	4a	4cc	4dd	V65/bvii
+4GG	4g	4b-	4dd	g=>:i
+4E	4g	4b-	4cc	V65/bVII
+4F	4f	4a	4cc	F=>:I
 ==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam

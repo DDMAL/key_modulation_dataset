@@ -3,35 +3,35 @@
 !!!XEN: Modulation
 !!!OTL: 3-17b. C Major to F Major to C Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]	*k[]
-*C:	*C:	*C:	*C:
-*M2/2	*M2/2	*M2/2	*M2/2
-2C\	1e/	1g\	2cc/
-2C#\	.	.	2b-/
-=1	=1	=1	=1
-2D\	2f/	1f\	2a/
-2BB-\	2d/	.	2b-/
-=2	=2	=2	=2
-2C\	1c/	1e\	1g/
-2B-\	.	.	.
-=3	=3	=3	=3
-2A\	1c/	2f\	2cc/
-2G\	.	2e\	2b-/
-=4	=4	=4	=4
-1F\	2c/	2f\	2a/
-.	2B/	2d\	2g/
-=5	=5	=5	=5
-2E\	2G/	2c\	2cc/
-2C\	2G/	2e\	2cc/
-=6	=6	=6	=6
-2AA\	2c/	1f\	2cc/
-2GG\	2d/	.	2b/
-=7	=7	=7	=7
-1C\	1c/	1e\	1cc/
-==	==	==	==
+**kern	**kern	**kern	**kern	**text
+*staff4	*staff3	*staff2	*staff1	*
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*M2/2	*M2/2	*M2/2	*M2/2	*
+2C\	1e/	1g\	2cc/	.
+2C#\	.	.	2b-/	.
+=1	=1	=1	=1	=1
+2D\	2f/	1f\	2a/	.
+2BB-\	2d/	.	2b-/	.
+=2	=2	=2	=2	=2
+2C\	1c/	1e\	1g/	.
+2B-\	.	.	.	.
+=3	=3	=3	=3	=3
+2A\	1c/	2f\	2cc/	.
+2G\	.	2e\	2b-/	.
+=4	=4	=4	=4	=4
+1F\	2c/	2f\	2a/	.
+.	2B/	2d\	2g/	.
+=5	=5	=5	=5	=5
+2E\	2G/	2c\	2cc/	.
+2C\	2G/	2e\	2cc/	.
+=6	=6	=6	=6	=6
+2AA\	2c/	1f\	2cc/	.
+2GG\	2d/	.	2b/	.
+=7	=7	=7	=7	=7
+1C\	1c/	1e\	1cc/	.
+==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-
+*-	*-	*-	*-	*-

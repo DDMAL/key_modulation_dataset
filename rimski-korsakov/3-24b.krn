@@ -3,21 +3,21 @@
 !!!XEN: Modulation
 !!!OTL: 3-24b. A minor to B minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefG2	*clefG2	*clefG2
-*k[]	*k[]	*k[]	*k[]
-*C:	*C:	*C:	*C:
-*M2/2	*M2/2	*M2/2	*M2/2
-2a\	2cc/	2ee\	2aa/
-2cc\	2cc/	2ee\	2gg/
-=1	=1	=1	=1
-2g\	2b/	2dd\	2gg/
-2e\	2b/	2cc#\	2gg/
-=2	=2	=2	=2
-2f#\	2a#/	2cc#\	2ff#/
-2b\	2b/	2dd\	2ff#/
-==	==	==	==
+**kern	**kern	**kern	**kern	**text
+*staff4	*staff3	*staff2	*staff1	*
+*clefF4	*clefG2	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*M2/2	*M2/2	*M2/2	*M2/2	*
+2a\	2cc/	2ee\	2aa/	.
+2cc\	2cc/	2ee\	2gg/	.
+=1	=1	=1	=1	=1
+2g\	2b/	2dd\	2gg/	.
+2e\	2b/	2cc#\	2gg/	.
+=2	=2	=2	=2	=2
+2f#\	2a#/	2cc#\	2ff#/	.
+2b\	2b/	2dd\	2ff#/	.
+==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-
+*-	*-	*-	*-	*-

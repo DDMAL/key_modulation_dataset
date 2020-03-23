@@ -1,21 +1,21 @@
 !!!COM: Reger, Max
 !!!OPR: Modulation
 !!!XEN: Modulation snippets
-!!!OTL: 1. C Major to G Major
+!!!OTL: 49. A minor to F# minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]	*k[]
-*C:	*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4	*M4/4
-4AA	4e	4a	4cc
-4BB	4d	4g#	4b
-2C#	[2c#	4f#	4a
-.	.	4e#	4g#
-=2	=2	=2	=2
-1FF#	1c#]	1f#	1a
-==	==	==	==
+**kern	**kern	**kern	**kern	**text
+*staff2	*staff2	*staff1	*staff1	*
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+4AA	4e	4a	4cc	a=>:i
+4BB	4d	4g#	4b	f#=>:iio6
+2C#	[2c#	4f#	4a	Cad64
+.	.	4e#	4g#	V
+=2	=2	=2	=2	=2
+1FF#	1c#]	1f#	1a	i
+==	==	==	==	==
 !!!filter: satb2gs
-!!!filter: autobeam 
-*-	*-	*-	*-
+!!!filter: autobeam
+*-	*-	*-	*-	*-

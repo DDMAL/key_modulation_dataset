@@ -1,141 +1,131 @@
 !!!COM: Aldwell, Schachter, and Cadwallader
 !!!OPR: Harmony and Voice Leading
 !!!XEN: Diatonic Modulation
-!!!OTL: 1. C Major to G Major
+!!!OTL: 27-7. Mozart, Trio for Clarinet, Viola, and Piano, K. 498,I
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern
-*staff2	*staff1
-*clefF4	*clefG2
-*k[b-e-a-]	*k[b-e-a-]
-*M6/8	*M6/8
-=1	=1
-4EE- [E-	4G e-
-16E-]	8r
-64F	.
-64E-	.
-64D	.
-64E-	.
-8G	4r
-8E-	.
-8BB	8d 8f g
-=2	=2
-8C	8c 4e- g
-8r	8r
-8AA-	8c e- cc
-*	*^
-4.BB-	4e- f	[4B-
-.	16g	8d
-.	16a-	.
-*	*v	*v
-=3	=3
-4EE- [E-	4B- e- g
-16E-]	8r
-64F	.
-64E-	.
-64D	.
-64E-	.
-8G	4r
-8E-	.
-8BB	8d f g
-=4	=4
-8C	8c 4e- g
-8r	8r
-8AA-	8c 8e- cc
-*	*^
-4.BB-	4f	4B- 4e-
-.	16a-	8A- 8d
-.	16g	.
-*	*v	*v
-=5	=5
-4EE- [E-	4G e-
-16E-]	8r
-64F	.
-64E-	.
-64D	.
-64E-	.
-8G	4r
-8E-	.
-8BB	8d f g
-=6	=6
-4C	4c e- [g
-8r	16g]
-.	64a-
-.	64g
-.	64f#
-.	64g
-4r	8cc
-.	8g
-8B	8d f# g
-=7	=7
-4c	4c e- [g
-8r	16g]
-.	64a-
-.	64g
-.	64f#
-.	64g
-4r	8ee-
-.	8cc
-8B	8d f g
-=8	=8
-4c	4c e- [g
-8r	16g]
-.	64a-
-.	64g
-.	64f#
-.	64g
-4r	8gg
-.	8ee-
-8r	8cc
-=9	=9
-4.GG- G-	4.c[ e-[ b-
-8FF 4.F	8c] e-] a
-8r	8r
-8r	8r
-=10	=10
-*	*^
-8BB-	4.dd	16r
-.	.	16B-
-8r	.	16d 16f
-.	.	16B-
-8r	.	16d 16f
-.	.	16B-
-8F	8ff	16r
-.	.	16A
-8r	8ee-	16c 16f
-.	.	16A
-8r	8cc	16c 16f
-.	.	16A
-*	*v	*v
-=11	=11
-*	*^
-8D	8b-	16r
-.	.	16B-
-8r	8b-	16d 16f
-.	.	16B-
-8r	8b-	16d 16f
-.	.	16B-
-8AA	16b	16r
-.	16cc	16c
-8r	8cc	16e- 16f
-.	.	16c
-8r	8cc	16e- 16f
-.	.	16c
-*	*v	*v
-=12	=12
-*	*^
-8BB-	16cc#	16r
-.	16dd	16B-
-8r	8dd	16d 16f
-.	.	16B-
-8r	8dd	16d 16f
-.	.	16B-
-8FF	16ff	16r
-.	16ee-	16A
-8r	8r	16c e- 16f
-.	.	16A
-8r	8r	16c e- 16f
-.	.	16A
-*	*v	*v
-==	==
-*-	*-
+**kern	**kern	**text
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*M6/8	*M6/8	*
+=1	=1	=1
+4EE- [E-	4G e-	E-=>:I
+16E-]	8r	I
+64F	.	I
+64E-	.	I
+64D	.	I
+64E-	.	I
+8G	4r	I
+8E-	.	I
+8BB	8d 8f g	V65/vi
+=2	=2	=2
+8C	8c 4e- g	vi
+8r	8r	.
+8AA-	8c e- cc	IV
+4.BB-	4e- f [B-	V
+.	16g [d B-_	V
+.	16a- d] B-]	V7
+=3	=3	=3
+4EE- [E-	4B- e- g	I
+16E-]	8r	I
+64F	.	I
+64E-	.	I
+64D	.	I
+64E-	.	I
+8G	4r	I
+8E-	.	I
+8BB	8d f g	V65/vi
+=4	=4	=4
+8C	8c 4e- g	vi
+8r	8r	.
+8AA-	8c 8e- cc	IV
+4.BB-	4f 4B- 4e-	V
+.	16a- [16A- [16d	V7
+.	16g 16A-] 16d]	V7
+=5	=5	=5
+4EE- [E-	4G e-	I
+16E-]	8r	I
+64F	.	I
+64E-	.	I
+64D	.	I
+64E-	.	I
+8G	4r	I
+8E-	.	O
+8BB	8d f g	V65/vi
+=6	=6	=6
+4C	4c e- [g	c=>:i
+8r	16g]	i
+.	64a-	i
+.	64g	i
+.	64f#	i
+.	64g	i
+4r	8cc	i
+.	8g	i
+8B	8d f# g	V65
+=7	=7	=7
+4c	4c e- [g	i
+8r	16g]	i
+.	64a-	i
+.	64g	i
+.	64f#	i
+.	64g	i
+4r	8ee-	i
+.	8cc	i
+8B	8d f g	V65
+=8	=8	=8
+4c	4c e- [g	B-=>:ii
+8r	16g]	ii
+.	64a-	ii
+.	64g	ii
+.	64f#	ii
+.	64g	ii
+4r	8gg	ii
+.	8ee-	ii
+8r	8cc	ii
+=9	=9	=9
+4.GG- G-	4.c[ e-[ b-	iio43
+8FF 4.F	8c] e-] a	V7
+8r	8r	.
+8r	8r	.
+=10	=10	=10
+8BB-	[16dd 16r	I
+.	16dd_ 16B-	I
+8r	16dd_ 16d 16f	I
+.	16dd_ 16B-	I
+8r	16dd_ 16d 16f	I
+.	16dd] 16B-	I
+8F	[16ff 16r	V
+.	16ff] 16A	V
+8r	[16ee- 16c 16f	V7
+.	16ee-] 16A	V7
+8r	[16cc 16c 16f	V
+.	16cc] 16A	V
+=11	=11	=11
+8D	[16b- 16r	I6
+.	16b-] 16B-	I6
+8r	[16b- 16d 16f	I6
+.	16b-] 16B-	I6
+8r	[16b- 16d 16f	I6
+.	16b-] 16B-	I6
+8AA	16b 16r	V65
+.	16cc 16c	V65
+8r	[16cc 16e- 16f	V65
+.	16cc] 16c	V65
+8r	[16cc 16e- 16f	V65
+.	16cc] 16c	V65
+=12	=12	=12
+8BB-	16cc# 16r	I
+.	16dd 16B-	I
+8r	[16dd 16d 16f	I
+.	16dd] 16B-	I
+8r	[16dd 16d 16f	I
+.	16dd] 16B-	I
+8FF	16ff 16r	V7
+.	16ee- 16A	V7
+8r	16r 16c e- 16f	V7
+.	16r 16A	V7
+8r	16r 16c e- 16f	V7
+.	16r 16A	V7
+==	==	==
+*-	*-	*-
 !!!filter: autobeam

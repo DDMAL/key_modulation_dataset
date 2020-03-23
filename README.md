@@ -38,18 +38,18 @@ The annotations consist of the following:
 - Max Reger
   - [x] Examples 1-100
 - Rimsky-Korsakov
-  - [ ] Example 3.5
-  - [ ] Example 3.7
-  - [ ] Example 3.8
-  - [ ] Example 3.10
-  - [ ] Example 3.14
-  - [ ] Example 3.15
-  - [ ] Examples 3.17
+  - [X] Example 3.5
+  - [X] Example 3.7
+  - [X] Example 3.8
+  - [X] Example 3.10
+  - [X] Example 3.14
+  - [X] Example 3.15
+  - [X] Examples 3.17
 
 
 Humdrum Utilities
 
 - `add_text_spine.py` - Adds an empty `**text` spine at the end of the file (last column). Very helpful for when a file is not annotated yet and it is going to be annotated.
 - `restaff.py` - Replaces the `*staff` entries with a systematic numbering. Starting with `*staff4` for the bass and up to `*staff1` in the soprano. Assumes that there is a `**text` spine at the end and it has an empty `*staff` entry.
-- `correct_spine_association.py` - This figures out the correct `*staffX` that the `**text` spine should be pointing to at every slice. This is necessary in order to embed every annotation to a note, which many times is impossible if we annotate a single column.
+- `correct_spine_association.py` - This figures out the correct `*staffX` that the `**text` spine should be pointing to at every slice. This is necessary in order to embed every annotation to a note, which many times is impossible if we annotate a single column.  
 - `get_keys.py` - This gets the key annotations of a given file.

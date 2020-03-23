@@ -1,20 +1,20 @@
 !!!COM: Aldwell, Schachter, and Cadwallader
 !!!OPR: Harmony and Voice Leading
 !!!XEN: Diatonic Modulation
-!!!OTL: 1. C Major to G Major
+!!!OTL: 27-4a. C minor to A- Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-=1	=1	=1	=1
-4C	4g	4cc	4ee-
-4D-	4f	4b-	4dd-
-4E-	4e-	4a-	4cc
-4E-	4d-	4g	4b-
-=2	=2	=2	=2
-1AA-	1c	1e-	1a-
-==	==	==	==
-*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**text
+*staff2	*staff2	*staff1	*staff1	*
+*clefF4	*clefF4	*clefG2	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*
+=1	=1	=1	=1	=1
+4C	4g	4cc	4ee-	c=>:i
+4D-	4f	4b-	4dd-	A-=>:iio6
+4E-	4e-	4a-	4cc	Cad64
+4E-	4d-	4g	4b-	V7
+=2	=2	=2	=2	=2
+1AA-	1c	1e-	1a-	I
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!filter: satb2gs
 !!!filter: autobeam

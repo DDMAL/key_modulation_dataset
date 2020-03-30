@@ -1,28 +1,28 @@
 !!!COM: Kostka, Payne, and Almén
 !!!OPR: Tonal Harmony
 !!!XEN: Modulation snippets
-!!!OTL: 1. C Major to G Major
+!!!OTL: 18-3b. G Major to F Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern
-*staff2	*staff1	*staff1	*staff1
-*clefF4	*clefG2	*clefG2	*clefG2
-*k[f#]	*k[f#]	*k[f#]	*k[f#]
-*C:	*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4	*M4/4
-4G	4g	4b	4dd
-4F#	4d	4a	4cc
-4G	4d	4g	4b
-4C	4e	4g	8cc
-.	.	.	8b-
-=2	=2	=2	=2
-4D	4f	4f	4a
-4BB-	4d	4g	4b-
-2C	4c	4f	4a
-.	4B-	8f	4g
-.	.	8e	.
-=3	=3	=3	=3
-1F	1A	1c	1f
-==	==	==	==
+**kern	**kern	**kern	**kern	**text
+*staff2	*staff1	*staff1	*staff1	*
+*clefF4	*clefG2	*clefG2	*clefG2	*
+*k[f#]	*k[f#]	*k[f#]	*k[f#]	*
+*C:	*C:	*C:	*C:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+4G	4g	4b	4dd	G=>:I
+4F#	4d	4a	4cc	V65
+4G	4d	4g	4b	I
+4C	4e	4g	8cc	F=>:V
+.	.	.	8b-	V7
+=2	=2	=2	=2	=2
+4D	4f	4f	4a	vi
+4BB-	4d	4g	4b-	ii6
+2C	4c	4f	4a	Cad65
+.	4B-	8f	4g	V7
+.	.	8e	.	V7
+=3	=3	=3	=3	=3
+1F	1A	1c	1f	I
+==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-
+*-	*-	*-	*-	*-

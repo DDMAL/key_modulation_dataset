@@ -1,60 +1,60 @@
 !!!COM: Kostka, Payne, and Almén
 !!!OPR: Tonal Harmony
 !!!XEN: Modulation snippets
-!!!OTL: 1. C Major to G Major
+!!!OTL: 19-1. Beethoven, Piano Sonata, op. 14, no.2, I
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern
-*staff2	*staff1
-*clefF4	*clefG2
-*k[f#]	*k[f#]
-*C:	*C:
-*M2/4	*M2/4
-16AA	8.r
-16C	.
-16F#	.
-16C	16dd
-16AA	16dd
-16C	16dd
-16F#	16dd
-16C	16dd
-=2	=2
-16BB	4ee
-16D	.
-16G	.
-16D	.
-16BB	8dd
-16D	.
-16G	8r
-16D	.
-=3	=3
-16BB	8r
-16D	.
-16G	[8dd
-16D	.
-16BB	16dd]
-16D	32ee
-.	32dd
-16G	16cc
-16D	16b
-=4	=4
-16C	8b
-16E	.
-16A	4a
-16E	.
-16C#	.
-16E	.
-16A	8g
-16E	.
-=5	=5
-.	16f#q
-.	16gq
-.	16aq
-16D	8g
-16F#	.
-16A	4f#
-16F#	.
-4r	.
-.	8r
-==	==
+**kern	**kern	**text
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*C:	*C:	*
+*M2/4	*M2/4	*
+16AA	8.r	C=>:V43
+16C	.	V43
+16F#	.	V43
+16C	16dd	V43
+16AA	16dd	V43
+16C	16dd	V43
+16F#	16dd	V43
+16C	16dd	V43
+=2	=2	=2
+16BB	4ee	I6
+16D	.	I6
+16G	.	I6
+16D	.	I6
+16BB	8dd	I6
+16D	.	I6
+16G	8r	I6
+16D	.	I6
+=3	=3	=3
+16BB	8r	I6
+16D	.	I6
+16G	[8dd	I6
+16D	.	I6
+16BB	16dd]	I6
+16D	32ee	I6
+.	32dd	I6
+16G	16cc	I6
+16D	16b	I6
+=4	=4	=4
+16C	8b	ii6
+16E	.	ii6
+16A	4a	ii6
+16E	.	ii6
+16C#	.	D=>:V65
+16E	.	V65
+16A	8g	V65
+16E	.	V65
+=5	=5	=5
+.	16f#q	.
+.	16gq	.
+.	16aq	.
+16D	8g	I
+16F#	.	I
+16A	4f#	I
+16F#	.	I
+4r	.	I
+.	8r	I
+==	==	==
 !!!filter: autobeam
-*-	*-
+*-	*-	*-

@@ -1,59 +1,59 @@
 !!!COM: Kostka, Payne, and Almén
 !!!OPR: Tonal Harmony
 !!!XEN: Modulation snippets
-!!!OTL: 1. C Major to G Major
+!!!OTL: 18-6. Tchaikovsky, Mazurka, op. 39, no. 10
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern
-*staff2	*staff1
-*clefF4	*clefG2
-*k[b-]	*k[b-]
-*C:	*C:
-*M3/4	*M3/4
-4D	8dd
-.	16r
-.	16ee
-4r	2ff
-4A d f	.
-=2	=2
-4D	8ee
-.	16r
-.	16cc#
-4r	2a
-4A c# e	.
-=3	=3
-4D	8g
-.	16r
-.	16a
-4r	2b-
-4G c# e	.
-=4	=4
-4D	8a
-.	16r
-.	16f
-4r	2d
-4F A	.
-=5	=5
-4BB-	8dd
-.	8r
-4r	8dd
-.	8ee
-4E G c	8dd
-.	8ee
-=6	=6
-4AA	8cc
-.	16r
-.	16ff
-4r	2f
-4F A c	.
-=7	=7
-8BB- F G	8g
-8r	8r
-4r	8g
-.	8a
-4C E G	8c g
-.	8a
-=8	=8
-2.F A	2.c f
-==	==
+**kern	**kern	**text
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*C:	*C:	*
+*M3/4	*M3/4	*
+4D	8dd	d=>:i
+.	16r	i
+.	16ee	i
+4r	2ff	i
+4A d f	.	i
+=2	=2	=2
+4D	8ee	V
+.	16r	V
+.	16cc#	V
+4r	2a	V
+4A c# e	.	V
+=3	=3	=3
+4D	8g	viio43
+.	16r	viio43
+.	16a	viio43
+4r	2b-	viio43
+4G c# e	.	viio43
+=4	=4	=4
+4D	8a	i
+.	16r	i
+.	16f	i
+4r	2d	i
+4F A	.	i
+=5	=5	=5
+4BB-	8dd	vi
+.	8r	vi
+4r	8dd	vi
+.	8ee	vi
+4E G c	8dd	F=>:V2
+.	8ee	V2
+=6	=6	=6
+4AA	8cc	I6
+.	16r	I6
+.	16ff	I6
+4r	2f	I6
+4F A c	.	I6
+=7	=7	=7
+8BB- F G	8g	ii65
+8r	8r	ii65
+4r	8g	ii65
+.	8a	ii65
+4C E G	8c g	V
+.	8a	V
+=8	=8	=8
+2.F A	2.c f	I
+==	==	==
 !!!filter: autobeam
-*-	*-
+*-	*-	*-

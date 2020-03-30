@@ -1,88 +1,88 @@
 !!!COM: Kostka, Payne, and Almén
 !!!OPR: Tonal Harmony
 !!!XEN: Modulation snippets
-!!!OTL: 1. C Major to G Major
+!!!OTL: 19-10. Bach, Partita no. 2 for Solo Violin, "Gigue"
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern
-*staff1
-*clefG2
-*k[b-]
-*C:
-*M12/8
-8ee
-=1
-8a
-8cc#
-8ee
-8g
-8a
-8b-
-8c#
-16e
-16d
-16c#
-16B
-8A
-8c#
-8e
-=2
-16g
-16a
-16b-
-16a
-16g
-16b-
-16ee
-16dd
-16cc#
-16b
-16a
-16g
-16f
-16e
-16f
-16g
-16a
-16f
-8.d
-16dd
-16cc
-16b-
-=3
-16a
-16cc
-16b-
-16a
-16g
-16f#
-16ee-
-16dd
-16cc
-16b-
-16a
-16g
-16f#
-16a
-16g
-16f#
-16e
-16d
-16aa
-16gg
-16ff#
-16ee
-16dd
-16cc
-=4
-16b-
-16dd
-16cc
-16b-
-16a
-16g
-4.r
-4.r
-4r
-==
+**kern	**text
+*staff1	*
+*clefG2	*
+*k[b-]	*
+*C:	*
+*M12/8	*
+8ee	.
+=1	=1
+8a	d=>:V
+8cc#	.
+8ee	.
+8g	.
+8a	.
+8b-	.
+8c#	.
+16e	.
+16d	.
+16c#	.
+16B	.
+8A	.
+8c#	.
+8e	.
+=2	=2
+16g	.
+16a	.
+16b-	.
+16a	.
+16g	.
+16b-	.
+16ee	.
+16dd	.
+16cc#	.
+16b	.
+16a	.
+16g	.
+16f	.
+16e	.
+16f	.
+16g	.
+16a	.
+16f	.
+8.d	.
+16dd	.
+16cc	.
+16b-	.
+=3	=3
+16a	.
+16cc	.
+16b-	.
+16a	.
+16g	.
+16f#	.
+16ee-	.
+16dd	.
+16cc	.
+16b-	.
+16a	.
+16g	.
+16f#	.
+16a	.
+16g	.
+16f#	.
+16e	.
+16d	.
+16aa	.
+16gg	.
+16ff#	.
+16ee	.
+16dd	.
+16cc	.
+=4	=4
+16b-	g=>:i
+16dd	.
+16cc	.
+16b-	.
+16a	.
+16g	.
+4.r	.
+4.r	.
+4.r	.
+==	==
 !!!filter: autobeam
-*-
+*-	*-

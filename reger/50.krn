@@ -3,20 +3,20 @@
 !!!XEN: Modulation snippets
 !!!OTL: 50. A minor to C# minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff2	*staff2	*staff1	*staff1	*
-*clefF4	*clefF4	*clefG2	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M4/4	*M4/4	*M4/4	*M4/4	*
-4AA	4e	4a	4cc	a=>:i
-4BB	4d	4g#	4b	f#=>:iio6
-4FF#	4.c#	4f#	4a	c#=>:iv
-4GG#	.	4d#	[4g#	V
-.	8B#	.	.	V
-=2	=2	=2	=2	=2
-1C#	1c#	1e	1g#]	i
-==	==	==	==	==
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+4AA	4e	4a	4cc	a=>:i	.	.	.
+4BB	4d	4g#	4b	f#=>:iio6	.	.	.
+4FF#	4.c#	4f#	4a	c#=>:iv	.	.	.
+4GG#	.	4d#	[4g#	V	.	.	.
+.	8B#	.	.	.	V	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+1C#	1c#	1e	1g#]	.	i	.	.
+==	==	==	==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-	*-
+*-	*-	*-	*-	*-	*-	*-	*-

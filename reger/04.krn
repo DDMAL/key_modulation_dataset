@@ -3,19 +3,19 @@
 !!!XEN: Modulation snippets
 !!!OTL: 4. C Major to E Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff4	*staff3	*staff2	*staff1	*
-*clefF4	*clefF4	*clefG2	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M4/4	*M4/4	*M4/4	*M4/4	*
-4C\	4G/	2.e\	2cc/	C=>:I
-4AA\	4A/	.	.	E=>:iv
-2BB\	4G#/	.	[2b/	Cad64
-.	4F#/	4d#\	.	V
-=1	=1	=1	=1	=1
-1E\	1G#/	1e\	1b/]	I
-==	==	==	==	==
-*-	*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+4C\	4G/	2.e\	2cc/	C=>:I	.	.	.
+4AA\	4A/	.	.	E=>:iv	.	.	.
+2BB\	4G#/	.	[2b/	.	Cad64	.	.
+.	4F#/	4d#\	.	.	V	.	.
+=1	=1	=1	=1	=1	=1	=1	=1
+1E\	1G#/	1e\	1b/]	.	I	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
 !!!filter:satb2gs
 !!!filter:autobeam

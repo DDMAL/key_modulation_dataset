@@ -3,34 +3,34 @@
 !!!XEN: Diatonic Modulation
 !!!OTL: 27-2a. Bach, Chorale 222
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff2	*staff2	*staff1	*staff1	*
-*clefF4	*clefF4	*clefG2	*clefG2	*
-*k[f#]	*k[f#]	*k[f#]	*k[f#]	*
-*G:	*G:	*G:	*G:	*
-*M3/4	*M3/4	*M3/4	*M3/4	*
-=1-	=1-	=1-	=1-	=1-
-8G	4B	4d	4g	G=>:I
-8F#	.	.	.	I
-4E	4B	4e	4g	vi
-4D	4d	4f#	4a	V
-=2	=2	=2	=2	=2
-4GG	4d	8g	4b	Cad64
-.	.	8f	.	C=>:viio6
-2C	2c	2e	2g	I
-=3	=3	=3	=3	=3
-4.F	2c	2f	4a	IV
-.	.	.	4a	IV
-8E	.	.	.	IV
-4D	4d	4f	4b	viio6
-=4	=4	=4	=4	=4
-4C	2e	2g	2cc	I
-4E	.	.	.	I6
-4G	8d	4g	4b	V
-.	8f	.	.	V7
-=5	=5	=5	=5	=5
-2.C	2.e	2.g	2.cc	I
-==	==	==	==	==
-*-	*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[f#]	*k[f#]	*k[f#]	*k[f#]	*	*	*	*
+*G:	*G:	*G:	*G:	*	*	*	*
+*M3/4	*M3/4	*M3/4	*M3/4	*	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+8G	4B	4d	4g	G=>:I	.	.	.
+8F#	.	.	.	I	.	.	.
+4E	4B	4e	4g	vi	.	.	.
+4D	4d	4f#	4a	V	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4GG	4d	8g	4b	.	.	Cad64	.
+.	.	8f	.	.	.	C=>:viio6	.
+2C	2c	2e	2g	.	.	I	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4.F	2c	2f	4a	IV	.	.	.
+.	.	.	4a	.	.	.	IV
+8E	.	.	.	IV	.	.	.
+4D	4d	4f	4b	viio6	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+4C	2e	2g	2cc	I	.	.	.
+4E	.	.	.	I6	.	.	.
+4G	8d	4g	4b	.	V	.	.
+.	8f	.	.	.	V7	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+2.C	2.e	2.g	2.cc	.	I	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
 !!!filter: satb2gs
 !!!filter: autobeam

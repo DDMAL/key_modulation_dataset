@@ -9,10 +9,10 @@
 *k[]	*k[]	*k[]	*k[]	*
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
-2c\	2e/	2g\	2cc/	.
-2B\	2e/	2g#\	2dd/	.
+2c\	2e/	2g\	2cc/	C=>:I
+2B\	2e/	2g#\	2dd/	V43/vi
 =1	=1	=1	=1	=1
-1A\	1e/	1a\	1cc/	.
+1A\	1e/	1a\	1cc/	a=>:i
 ==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam

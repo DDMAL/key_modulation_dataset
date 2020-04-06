@@ -3,36 +3,36 @@
 !!!XEN: Diatonic Modulation
 !!!OTL: 27-2b. Bach, Chorale 209
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff2	*staff2	*staff1	*staff1	*
-*clefF4	*clefF4	*clefG2	*clefG2	*
-*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*
-*G:	*G:	*G:	*G:	*
-*M3/4	*M3/4	*M3/4	*M3/4	*
-8F	4c	4f	4a	B-=>:V
-8E-	.	.	.	V2
-=1	=1	=1	=1	=1
-4D	4F	2f	4b-	I
-8E-	4A	.	4cc	V43
-8D	.	.	.	V46
-8C	4B-	4f	4dd	I
-8BB-	.	.	.	I
-=2	=2	=2	=2	=2
-4.E-	4.B-	4.e-	4g	c=>:III
-.	.	.	8gg	III
-8E-	8B-	8g	8ee-	III
-[4A-	[4c	8e-	8cc	VI
-.	.	8d	8b	VI
-=3	=3	=3	=3	=3
-8A-]	8c]	4e-	8cc	VI
-8G	8c	.	8dd	VI
-4F	4c	4a-	4.dd	iio65
-4G	4B	4g	.	V
-.	.	.	8ee-	V
-=4	=4	=4	=4	=4
-2C	2c	2g	2ee-	i
-4r	4r	4r	4r	.
-==	==	==	==	==
-*-	*-	*-	*-	*-
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*	*	*	*
+*G:	*G:	*G:	*G:	*	*	*	*
+*M3/4	*M3/4	*M3/4	*M3/4	*	*	*	*
+8F	4c	4f	4a	B-=>:V	.	.	.
+8E-	.	.	.	V2	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1
+4D	4F	2f	4b-	I6	.	.	.
+8E-	4A	.	4cc	V2	.	.	.
+8D	.	.	.	V2	.	.	.
+8C	4B-	4f	4dd	I	.	.	.
+8BB-	.	.	.	I	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4.E-	4.B-	4.e-	4g	c=>:III	.	.	.
+.	.	.	8gg	.	.	.	III
+8E-	8B-	8g	8ee-	.	.	.	III
+[4A-	[4c	8e-	8cc	.	.	.	VI
+.	.	8d	8b	.	.	.	VI
+=3	=3	=3	=3	=3	=3	=3	=3
+8A-]	8c]	4e-	8cc	.	.	.	VI
+8G	8c	.	8dd	.	.	.	VI
+4F	4c	4a-	4.dd	.	.	.	iio65
+4G	4B	4g	.	V	.	.	.
+.	.	.	8ee-	.	.	.	V
+=4	=4	=4	=4	=4	=4	=4	=4
+2C	2c	2g	2ee-	.	.	.	i
+4r	4r	4r	4r	.	.	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
 !!!filter: satb2gs
 !!!filter: autobeam

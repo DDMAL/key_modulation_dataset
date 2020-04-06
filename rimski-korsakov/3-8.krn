@@ -9,17 +9,17 @@
 *k[]	*k[]	*k[]	*k[]	*
 *C:	*C:	*C:	*C:	*
 *M4/4	*M4/4	*M4/4	*M4/4	*
-2c\	2e/	2g\	2cc/	.
-2B-\	2d/	2g\	2g/	.
+2c\	2e/	2g\	2cc/	C=>:I
+2B-\	2d/	2g\	2g/	iv6/ii
 =1	=1	=1	=1	=1
-2A\	2c#/	2e\	2a/	.
-2d\	2d/	2f\	2a/	.
+2A\	2c#/	2e\	2a/	V/ii
+2d\	2d/	2f\	2a/	d=>:i
 =2	=2	=2	=2	=2
-2B-\	2d/	2f\	2b-/	.
-2c\	2c/	2f\	2a/	.
+2B-\	2d/	2f\	2b-/	VI
+2c\	2c/	2f\	2a/	Cad64/III
 =3	=3	=3	=3	=3
-2c\	2c/	2e\	2g/	.
-2F\	2c/	2f\	2a/	.
+2c\	2c/	2e\	2g/	V/III
+2F\	2c/	2f\	2a/	F=>:I
 ==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam

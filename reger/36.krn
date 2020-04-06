@@ -3,16 +3,16 @@
 !!!XEN: Modulation snippets
 !!!OTL: 36. C Major to B- minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff2	*staff2	*staff1	*staff1	*
-*clefF4	*clefF4	*clefG2	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M4/4	*M4/4	*M4/4	*M4/4	*
-4C	4G	4e	2cc	C=>:I
-4F	4A	4e-	.	b-=>:V
-2BB-	2B-	2d-	2b-	i
-==	==	==	==	==
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+4C	4G	4e	2cc	C=>:I	.	.	.
+4F	4A	4e-	.	b-=>:V	.	.	.
+2BB-	2B-	2d-	2b-	i	.	.	.
+==	==	==	==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-	*-
+*-	*-	*-	*-	*-	*-	*-	*-

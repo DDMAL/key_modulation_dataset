@@ -1,7 +1,7 @@
 !!!COM: Rimsky Korsakov, Nikolaï
 !!!OPR: Pratical manual of harmony
 !!!XEN: Modulation
-!!!OTL: 3-23e. A minor to Bb Major
+!!!OTL: 3-23a. C Major to E Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
 **kern	**kern	**kern	**kern	**text
 *staff4	*staff3	*staff2	*staff1	*
@@ -9,19 +9,14 @@
 *k[]	*k[]	*k[]	*k[]	*
 *C:	*C:	*C:	*C:	*
 *M2/2	*M2/2	*M2/2	*M2/2	*
-2a\	2a/	2cc\	2ee/	.
-2g\	2b-/	2cc\	2ee/	.
+2c\	2g/	2cc\	2ee/	C=>:I
+2B\	2g#/	2dd\	2ee/	V43/vi
 =1	=1	=1	=1	=1
-2f\	2a/	2cc\	2ff/	.
-2e-\	2a/	2cc\	2ff/	.
+2A\	2a/	2cc\	2ee/	vi
+2B\	2g#/	2b\	2ee/	Cad64/V/vi
 =2	=2	=2	=2	=2
-2d\	2b-/	2b-\	2ff/	.
-2e-\	2g/	2b-\	2ee-/	.
-=3	=3	=3	=3	=3
-2f\	2f/	2b-\	2dd/	.
-2f\	2f/	2a\	2cc/	.
-=4	=4	=4	=4	=4
-1B-\	1f/	1b-\	1dd/	.
+2B\	2a/	2b\	2dd#/	V7/V/vi
+2e\	2g#/	2b\	2ee/	E=>:I
 ==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam

@@ -9,14 +9,14 @@
 *k[]	*k[]	*k[]	*k[]	*
 *C:	*C:	*C:	*C:	*
 *M2/2	*M2/2	*M2/2	*M2/2	*
-2a\	2a/	2cc\	2ee/	.
-2f\	2a/	2cc\	2dd/	.
+2a\	2a/	2cc\	2ee/	a=>:i
+2f\	2a/	2cc\	2dd/	iv65
 =1	=1	=1	=1	=1
-2f\	2g/	2b\	2dd/	.
-2e\	2g/	2cc\	2gg/	.
+2f\	2g/	2b\	2dd/	V2/III
+2e\	2g/	2cc\	2gg/	III6
 =2	=2	=2	=2	=2
-2e\	2b-/	2cc\	2gg/	.
-2f\	2a-/	2cc\	2ff/	.
+2e\	2b-/	2cc\	2gg/	V65/vi
+2f\	2a-/	2cc\	2ff/	f=>:i
 ==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam

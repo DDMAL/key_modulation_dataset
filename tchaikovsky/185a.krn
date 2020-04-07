@@ -3,38 +3,38 @@
 !!!XEN: Modulation snippets
 !!!OTL: Example 185-a : C Major to b flat minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff4	*staff3	*staff2	*staff1	*
-*clefF4	*clefF4	*clefG2	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M6/8	*M6/8	*M6/8	*M6/8	*
-8C	4.c	8e	8g	C=>:I
-4E	.	4g	8cc	I6
-.	.	.	8b	I6
-8F	8c	8f	4.a	d=>:III
-8E	8c#	8g	.	V43
-8D	8d	8f	.	i
-=2	=2	=2	=2	=2
-8G	8d	8g	4.b	e=>:im7
-8F#	8d#	8a	.	V43
-8E	8e	8g	.	i
-8A	4e	8a	4.cc	F=>:iii
-8G	.	8b-	.	V43
-8F	8f	8a	.	I
-=3	=3	=3	=3	=3
-8E-	8g-	8a	8cc	bb=>:viio43
-8D-	8f	8b-	8dd-	i6
-8C	8e-	8a	8ee-	viio6
-4BB-	8f	4.b-	8dd-	i
-.	8d-	.	8ff	i
-8G-	8c	.	8ee-	iio43
-=4	=4	=4	=4	=4
-4.F	8d-	4b-	4dd-	Cad64
-.	8f	.	.	Cad64
-.	8e-	8a	8cc	V7
-4.BB-	4.d-	4.b-	4.b-	i
-==	==	==	==	==
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M6/8	*M6/8	*M6/8	*M6/8	*	*	*	*
+8C	4.c	8e	8g	C=>:I	.	.	.
+4E	.	4g	8cc	.	.	.	I6
+.	.	.	8b	.	.	.	I6
+8F	8c	8f	4.a	d=>:III	.	.	.
+8E	8c#	8g	.	V43	.	.	.
+8D	8d	8f	.	i	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+8G	8d	8g	4.b	e=>:im7	.	.	.
+8F#	8d#	8a	.	V43	.	.	.
+8E	8e	8g	.	i	.	.	.
+8A	4e	8a	4.cc	F=>:iii	.	.	.
+8G	.	8b-	.	V43	.	.	.
+8F	8f	8a	.	I	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+8E-	8g-	8a	8cc	bb=>:viio43	.	.	.
+8D-	8f	8b-	8dd-	i6	.	.	.
+8C	8e-	8a	8ee-	viio6	.	.	.
+4BB-	8f	4.b-	8dd-	.	i	.	.
+.	8d-	.	8ff	.	i	.	.
+8G-	8c	.	8ee-	.	iio43	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+4.F	8d-	4b-	4dd-	.	Cad64	.	.
+.	8f	.	.	.	Cad64	.	.
+.	8e-	8a	8cc	.	V7	.	.
+4.BB-	4.d-	4.b-	4.b-	.	i	.	.
+==	==	==	==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-	*-
+*-	*-	*-	*-	*-	*-	*-	*-

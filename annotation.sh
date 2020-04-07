@@ -1,12 +1,14 @@
 #!/bin/bash
 
-for entry in "./reger/"/*.krn
+for entry in "./tchaikovsky/"/*.krn
 do
   echo "Traitement de $entry."
 
 
 
   FILENAME=$entry
+  echo "$FILENAME"
+
 
   python3 restaff.py $FILENAME 1> temp.krn 2>> error
 
@@ -22,6 +24,7 @@ do
   #treatment for two or four spines
 
   python3 correct_four_spine_association.py temp.krn 1> final.krn 2>> error
+  #python3 correct_two_spine_association.py $FILENAME 1> final.krn 2>> error
 
   FILESIZE=$(stat -c%s "error")
 

@@ -3,49 +3,49 @@
 !!!XEN: Modulation snippets
 !!!OTL: Example 185-b : C Major to c minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff4	*staff3	*staff2	*staff1	*
-*clefF4	*clefF4	*clefG2	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M4/4	*M4/4	*M4/4	*M4/4	*
-4c	2.c	4g	2ee	C=>:I
-4A	.	2a	.	vi
-4F	.	.	2dd	ii65
-4G	4B	4g	.	V
-=2	=2	=2	=2	=2
-4A	2.A	4e	2cc	vi
-4F	.	2f	.	IV
-4D	.	.	2b	a=>:iio65
-4E	4G#	4e	.	V
-=3	=3	=3	=3	=3
-4F	4A	4c	2a	F=>:I
-4D	2F	2d	.	vi
-4BB-	.	.	2g	ii65
-4C	4E	4c	.	V
-=4	=4	=4	=4	=4
-4D	2.D	4A	2f	vi
-4BB-	.	2B-	.	IV
-4GG	.	.	2e	d=>:iio65
-4AA	4C#	4A	.	V
-=5	=5	=5	=5	=5
-4D	2D	2A	4f	i
-4C	.	.	4f#	V2/IV
-2BB	2D	2G	4g	IV6
-.	.	.	4f	V65/bvii
-=6	=6	=6	=6	=6
-4C	2.C	2G	4e-	c=>:i
-4BB-	.	.	4e	V2/iv
-4AA-	.	2c	4f	f=>:i6
-4FF	4D	.	4a-	iio65/v
-=7	=7	=7	=7	=7
-1GG	2E-	2c	4g	c=>:Cad64
-.	.	.	4cc	Cad64
-.	4D	2d	2b	V
-.	4G	.	.	V
-=8	=8	=8	=8	=8
-1C	1G	1e-	1cc	i
-==	==	==	==	==
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+4c	2.c	4g	2ee	C=>:I	.	.	.
+4A	.	2a	.	vi	.	.	.
+4F	.	.	2dd	ii65	.	.	.
+4G	4B	4g	.	V	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4A	2.A	4e	2cc	vi	.	.	.
+4F	.	2f	.	IV	.	.	.
+4D	.	.	2b	a=>:iio65	.	.	.
+4E	4G#	4e	.	V	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4F	4A	4c	2a	F=>:I	.	.	.
+4D	2F	2d	.	vi	.	.	.
+4BB-	.	.	2g	ii65	.	.	.
+4C	4E	4c	.	V	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+4D	2.D	4A	2f	vi	.	.	.
+4BB-	.	2B-	.	IV	.	.	.
+4GG	.	.	2e	d=>:iio65	.	.	.
+4AA	4C#	4A	.	V	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4D	2D	2A	4f	i	.	.	.
+4C	.	.	4f#	V2/IV	.	.	.
+2BB	2D	2G	4g	.	.	.	IV6
+.	.	.	4f	.	.	.	V65/bvii
+=6	=6	=6	=6	=6	=6	=6	=6
+4C	2.C	2G	4e-	.	.	.	c=>:i
+4BB-	.	.	4e	.	.	.	V2/iv
+4AA-	.	2c	4f	.	.	.	f=>:i6
+4FF	4D	.	4a-	.	.	.	iio65/v
+=7	=7	=7	=7	=7	=7	=7	=7
+1GG	2E-	2c	4g	.	.	.	c=>:Cad64
+.	.	.	4cc	.	.	.	Cad64
+.	4D	2d	2b	.	V	.	.
+.	4G	.	.	.	V	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+1C	1G	1e-	1cc	.	i	.	.
+==	==	==	==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-	*-
+*-	*-	*-	*-	*-	*-	*-	*-

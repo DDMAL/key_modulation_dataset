@@ -3,19 +3,19 @@
 !!!XEN: Modulation snippets
 !!!OTL: Example 191c : C Major to b minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff4	*staff3	*staff2	*staff1	*
-*clefF4	*clefF4	*clefG2	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M4/4	*M4/4	*M4/4	*M4/4	*
-4C	4g	4cc	4ee	C=>:I
-4E	4g	4cc	4ee	I6
-4G	4g	4b	4dd	V
-4E	4g	4a#	4cc#	b=>:V43/III
-=2	=2	=2	=2	=2
-1D	1f#	1b	1dd	i6
-==	==	==	==	==
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+4C	4g	4cc	4ee	C=>:I	.	.	.
+4E	4g	4cc	4ee	I6	.	.	.
+4G	4g	4b	4dd	V	.	.	.
+4E	4g	4a#	4cc#	b=>:V43/III	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+1D	1f#	1b	1dd	i6	.	.	.
+==	==	==	==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-	*-
+*-	*-	*-	*-	*-	*-	*-	*-

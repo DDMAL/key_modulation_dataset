@@ -3,17 +3,17 @@
 !!!XEN: Modulation
 !!!OTL: 3-14c. A minor to D minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff4	*staff3	*staff2	*staff1	*
-*clefF4	*clefG2	*clefG2	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M4/4	*M4/4	*M4/4	*M4/4	*
-2A\	2e/	2a\	2cc/	a=>:i
-2G\	2e/	2a\	2cc#/	V2/iv
-=1	=1	=1	=1	=1
-1F\	1d/	1a\	1dd/	d=>:i
-==	==	==	==	==
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefG2	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+2A\	2e/	2a\	2cc/	a=>:i	.	.	.
+2G\	2e/	2a\	2cc#/	V2/iv	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1
+1F\	1d/	1a\	1dd/	d=>:i	.	.	.
+==	==	==	==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-	*-
+*-	*-	*-	*-	*-	*-	*-	*-

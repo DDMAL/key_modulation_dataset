@@ -1,0 +1,79 @@
+!!!COM: Kostka, Payne, and Almén
+!!!OPR: Tonal Harmony
+!!!XEN: Modulation snippets
+!!!OTL: 19-4. Schubert, Piano Sonata, D. 850, III
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**text
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*C:	*C:	*
+*M3/4	*M3/4	*
+2C G c	2e g cc ee	I
+4C G c	4e g cc ee	I
+=2	=2	=2
+4C G c	4e g cc ee	I
+4C G c	4e g cc ee	I
+4C G c	4e g cc ee	I
+=3	=3	=3
+4C G c	4e g ee	I
+4GG G	4d g dd	V
+4EE GG E	4c g cc	I6
+=4	=4	=4
+4EE GG E	4c g cc	I6
+4GG G	4d g dd	V
+4C G c	4e g ee	I
+=5	=5	=5
+2E- B- e-	2g b- gg	E-=>:I
+4E- B- e-	4g b- gg	I
+=6	=6	=6
+4E- B- e-	4g b- gg	I
+4E- B- e-	4g b- gg	I
+4E- B- e-	4g b- gg	I
+=7	=7	=7
+4E- B- e-	4g b- gg	I
+4BB- B-	4f b- ff	V
+4GG BB- G	4e- b- ee-	I6
+=8	=8	=8
+4GG BB- G	4e- b- ee-	I6
+4BB- B-	4f b- ff	V
+4E- B- e-	4g b- gg	I
+=9	=9	=9
+2GG- D- G-	2b- dd- bb-	G-=>:I
+4GG- D- G-	4b- dd- bb-	I
+=10	=10	=10
+4GG- D- G-	4b- dd- bb-	I
+4GG- D- G-	4b- dd- bb-	I
+4GG- D- G-	4b- dd- bb-	I
+=11	=11	=11
+4GG- D- G-	4b- dd- bb-	I
+4DD- D-	4a- dd- aa-	V
+4BBB- BB-	4g- dd- gg-	I6
+=12	=12	=12
+4GG- G-	4b- gg- bb-	I
+4AA- G- A-	4cc- gg- ccc-	.
+4BB- G- B-	4dd- gg- ddd-	I6
+=13	=13	=13
+2BB F# B	2dd ff# ddd	iv
+4BB F# B	4dd ff# ddd	iv
+=14	=14	=14
+4BB F# B	4dd ff# ddd	iv
+4BB F# B	4dd ff# ddd	iv
+4BB F# B	4dd ff# ddd	iv
+=15	=15	=15
+2GGG GG	2ff gg bb ddd ggg	C=>:V7
+4GGG GG	4ff gg bb ddd ggg	V7
+=16	=16	=16
+4BBB BB	4ff gg bb ddd ggg	V65
+4DD D	4ff gg bb ddd ggg	V43
+4GG G	4ff gg bb ddd ggg	V7
+=17	=17	=17
+2CC C	2ee gg ccc eee	I
+4CC C	4e cc ee	I
+=18	=18	=18
+4CC C	4e cc ee	I
+4CC C	4e cc ee	I
+4CC C	4e cc ee	I
+==	==	==
+!!!filter: autobeam
+*-	*-	*-

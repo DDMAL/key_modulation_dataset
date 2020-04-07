@@ -3,18 +3,18 @@
 !!!XEN: Modulation
 !!!OTL: 3-5f. A minor to E minor
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff4	*staff3	*staff2	*staff1	*
-*clefF4	*clefG2	*clefG2	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M4/4	*M4/4	*M4/4	*M4/4	*
-2A\	2e/	2a\	2cc/	a=>:i
-2B\	2e/	2g\	2b/	Cad64/v
-=1	=1	=1	=1	=1
-2B\	2d#/	2a\	2b/	V7/v
-2e\	2e/	2g\	2b/	e=>:i
-==	==	==	==	==
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefG2	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+2A\	2e/	2a\	2cc/	a=>:i	.	.	.
+2B\	2e/	2g\	2b/	Cad64/v	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1
+2B\	2d#/	2a\	2b/	V7/v	.	.	.
+2e\	2e/	2g\	2b/	e=>:i	.	.	.
+==	==	==	==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-	*-
+*-	*-	*-	*-	*-	*-	*-	*-

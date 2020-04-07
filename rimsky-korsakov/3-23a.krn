@@ -3,21 +3,21 @@
 !!!XEN: Modulation
 !!!OTL: 3-23a. C Major to E Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff4	*staff3	*staff2	*staff1	*
-*clefF4	*clefG2	*clefG2	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M2/2	*M2/2	*M2/2	*M2/2	*
-2c\	2g/	2cc\	2ee/	C=>:I
-2B\	2g#/	2dd\	2ee/	V43/vi
-=1	=1	=1	=1	=1
-2A\	2a/	2cc\	2ee/	vi
-2B\	2g#/	2b\	2ee/	Cad64/V/vi
-=2	=2	=2	=2	=2
-2B\	2a/	2b\	2dd#/	V7/V/vi
-2e\	2g#/	2b\	2ee/	E=>:I
-==	==	==	==	==
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefG2	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M2/2	*M2/2	*M2/2	*M2/2	*	*	*	*
+2c\	2g/	2cc\	2ee/	C=>:I	.	.	.
+2B\	2g#/	2dd\	2ee/	V43/vi	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1
+2A\	2a/	2cc\	2ee/	vi	.	.	.
+2B\	2g#/	2b\	2ee/	Cad64/V/vi	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+2B\	2a/	2b\	2dd#/	V7/V/vi	.	.	.
+2e\	2g#/	2b\	2ee/	E=>:I	.	.	.
+==	==	==	==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-	*-
+*-	*-	*-	*-	*-	*-	*-	*-

@@ -1,0 +1,53 @@
+!!!COM: Kostka, Payne, and Almén
+!!!OPR: Tonal Harmony
+!!!XEN: Modulation snippets
+!!!OTL: 18-4. Mozart, Viennese Sonatina no.6, II
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**text
+*staff2	*staff1	*
+*clefG2	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M3/4	*M3/4	*
+4r	4gg	.
+=1	=1	=1
+2.c g	4ff	C=>:I
+.	4ee	I
+.	4ff	I
+=2	=2	=2
+2.f g	4ee	V2
+.	4dd	V2
+.	4b	V2
+=3	=3	=3
+4e g	4cc	I6
+4d	4b ff	viio6
+4c	4cc ee	I
+=4	=4	=4
+2g	4cc ee	Cad64
+.	4b dd	V
+*clefF4	*	*
+4B	4dd	V
+=5	=5	=5
+4c	4ee	I
+4A c	4ff#	G=>:viio6
+4B d	4gg#	viio6/ii
+=6	=6	=6
+4c e	4.aa	ii6
+4c e	.	ii6
+.	8bb	ii6
+4r	4ccc	ii6
+=7	=7	=7
+4D c	4.dd	V7
+4D c	.	V7
+.	8ee	V7
+4r	4ff#	V7
+=8	=8	=8
+8G B	4gg	I
+8d	.	I
+8G B	4r	I
+8d	.	I
+8G B	4r	I
+8d	.	I
+==	==	==
+!!!filter: autobeam
+*-	*-	*-

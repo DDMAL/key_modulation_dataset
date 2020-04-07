@@ -3,18 +3,18 @@
 !!!XEN: Modulation
 !!!OTL: 3-10b. C Major to G Major
 !!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
-**kern	**kern	**kern	**kern	**text
-*staff4	*staff3	*staff2	*staff1	*
-*clefF4	*clefG2	*clefG2	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M4/4	*M4/4	*M4/4	*M4/4	*
-2c\	2e/	2g\	2cc/	C=>:I
-2G\	2d/	2g\	2b/	V
-=1	=1	=1	=1	=1
-2d\	2d/	2f#\	2a/	V/V
-2G\	2d/	2g\	2b/	G=>:I
-==	==	==	==	==
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefG2	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+2c\	2e/	2g\	2cc/	C=>:I	.	.	.
+2G\	2d/	2g\	2b/	V	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1
+2d\	2d/	2f#\	2a/	V/V	.	.	.
+2G\	2d/	2g\	2b/	G=>:I	.	.	.
+==	==	==	==	==	==	==	==
 !!!filter: satb2gs
 !!!filter: autobeam
-*-	*-	*-	*-	*-
+*-	*-	*-	*-	*-	*-	*-	*-

@@ -16,7 +16,8 @@ if __name__ == '__main__':
             except:
                 chordlabel = 'Unknown chord'
                 pass
-            labels[n.offset] = {
+            offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats
+            labels[offset] = {
                 'annotation': n.lyric,
                 'chord_label': chordlabel,
                 'chord_inversion': label.chord.inversion,

@@ -88,44 +88,44 @@
 8r	8r	.	.
 8r	8r	.	.
 =10	=10	=10	=10
-8BB-	[16dd 16r	I	.
+8BB-	[16dd	I	.
 .	16dd_ 16B-	.	I
 8r	16dd_ 16d 16f	.	I
 .	16dd_ 16B-	.	I
 8r	16dd_ 16d 16f	.	I
 .	16dd] 16B-	.	I
-8F	[16ff 16r	V	.
+8F	[16ff	V	.
 .	16ff] 16A	.	V
 8r	[16ee- 16c 16f	V7	.
 .	16ee-] 16A	.	V7
 8r	[16cc 16c 16f	V	.
 .	16cc] 16A	.	V
 =11	=11	=11	=11
-8D	[16b- 16r	I6	.
+8D	[16b-	I6	.
 .	16b-] 16B-	.	I6
 8r	[16b- 16d 16f	I6	.
 .	16b-] 16B-	.	I6
 8r	[16b- 16d 16f	I6	.
 .	16b-] 16B-	.	I6
-8AA	16b 16r	.	V65
+8AA	16b	.	V65
 .	16cc 16c	.	V65
 8r	[16cc 16e- 16f	V65	.
 .	16cc] 16c	.	V65
 8r	[16cc 16e- 16f	V65	.
 .	16cc] 16c	.	V65
 =12	=12	=12	=12
-8BB-	16cc# 16r	.	I
+8BB-	16cc#	.	I
 .	16dd 16B-	.	I
 8r	[16dd 16d 16f	I	.
 .	16dd] 16B-	.	I
 8r	[16dd 16d 16f	I	.
 .	16dd] 16B-	.	I
-8FF	16ff 16r	.	V7
+8FF	16ff	.	V7
 .	16ee- 16A	.	V7
-8r	16r 16c e- 16f	.	V7
-.	16r 16A	.	V7
-8r	16r 16c e- 16f	.	V7
-.	16r 16A	.	V7
+8r	16c e- 16f	.	V7
+.	16A	.	V7
+8r	16c e- 16f	.	V7
+.	16A	.	V7
 ==	==	==	==
 *-	*-	*-	*-
 !!!filter: autobeam

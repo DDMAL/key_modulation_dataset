@@ -4,8 +4,7 @@ import sys
 import pprint
 import pandas as pd
 
-if __name__ == '__main__':
-    filename = sys.argv[1]
+def get_dataframe_from_file(filename):
     score = music21.converter.parse(filename)
     labels = {}
     for n in score.flat.notes:
@@ -25,4 +24,10 @@ if __name__ == '__main__':
                 'tonicized_key': str(label.secondary_key),
             }
     df = pd.DataFrame(labels).transpose()
+    return df
+
+
+if __name__ == '__main__':
+    filename = sys.argv[1]
+    df = get_dataframe_from_file(filename)
     print(df)

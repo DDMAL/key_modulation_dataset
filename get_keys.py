@@ -7,7 +7,7 @@ import pandas as pd
 def get_dataframe_from_file(filename):
     score = music21.converter.parse(filename)
     labels = {}
-    for n in score.flat.notes:
+    for n in score.flat.notesAndRests:
         if n.lyric:
             label = harmalysis.parse(n.lyric)
             try:

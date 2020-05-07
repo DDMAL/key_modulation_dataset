@@ -6,7 +6,7 @@ import music21
 import harmalysis
 
 key_encodings = {}
-keys = [                
+keys = [
     ('C', 0), 
     ('D', 2), 
     ('E', 4),
@@ -90,7 +90,9 @@ def justkeydding_to_dfdictionary(filename):
             filename, jsondata = line.split('\t')
             df = pd.DataFrame(json.loads(jsondata))
             df.drop(columns=['global_key'], inplace=True)
+            df.index = df.index.astype(float)
             df['local_key_label'] = df.local_keys.apply(simplifiedkey_to_encodedlabel)
+            df.sort_index(inplace=True)
             dfdict[filename] = df
     return dfdict
 
@@ -99,14 +101,13 @@ def load_dataset(allfiles_folder):
     dfdict_perfectmodulation = {}
     dfdict_perfecttonicization = {}
     for f in os.listdir(allfiles_folder):
-        print(f)
         filename = os.path.join(allfiles_folder, f)
         score = music21.converter.parse(filename)
         labels = {}
-        for n in score.flat.notes:
+        for n in score.flat.notesAndRests:
             if n.lyric:
-                label = harmalysis.parse(n.lyric)                
-                offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats                
+                label = harmalysis.parse(n.lyric)
+                offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats
                 local_key = str(label.main_key)
                 if label.secondary_key:
                     tonicized_key = str(label.secondary_key)

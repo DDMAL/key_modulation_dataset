@@ -4,6 +4,7 @@ import json
 import os
 import music21
 import harmalysis
+import random
 
 key_encodings = {}
 keys = [
@@ -134,6 +135,42 @@ def load_dataset(allfiles_folder):
         dftonicization.rename(columns={'tonicized_key_label': 'local_key_label'}, inplace=True)
         dfdict_perfecttonicization[f] = dftonicization
     return dfdict, dfdict_perfectmodulation, dfdict_perfecttonicization
+
+def generate_random_predictions(allfiles_folder):
+    dfdict = {}
+    for f in os.listdir(allfiles_folder):
+        filename = os.path.join(allfiles_folder, f)
+        score = music21.converter.parse(filename)
+        labels = {}
+        for n in score.flat.notesAndRests:
+            if n.lyric:
+                offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats
+                prediction = random.randint(0, 23)
+                labels[offset] = {                                        
+                    'local_key_label': prediction,                    
+                }
+        df = pd.DataFrame(labels).transpose()        
+        dfdict[f] = df        
+    return dfdict
+
+def generate_globalkey_predictions(allfiles_folder):
+    dfdict = {}
+    for f in os.listdir(allfiles_folder):
+        filename = os.path.join(allfiles_folder, f)
+        score = music21.converter.parse(filename)
+        globalkey_name = score.analyze('key').name
+        globalkey_simplified = keyname_to_simplifiedkey(globalkey_name)
+        globalkey_label = simplifiedkey_to_encodedlabel(globalkey_simplified)
+        labels = {}
+        for n in score.flat.notesAndRests:
+            if n.lyric:
+                offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats                
+                labels[offset] = {                                        
+                    'local_key_label': globalkey_label,                    
+                }
+        df = pd.DataFrame(labels).transpose()        
+        dfdict[f] = df
+    return dfdict    
 
 if __name__ == '__main__':
     gt = "C MAJOR"

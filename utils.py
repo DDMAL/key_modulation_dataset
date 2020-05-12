@@ -108,7 +108,7 @@ def load_dataset(allfiles_folder):
         for n in score.flat.notesAndRests:
             if n.lyric:
                 label = harmalysis.parse(n.lyric)
-                offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats
+                offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats                
                 local_key = str(label.main_key)
                 if label.secondary_key:
                     tonicized_key = str(label.secondary_key)
@@ -119,6 +119,7 @@ def load_dataset(allfiles_folder):
                 local_key_label = simplifiedkey_to_encodedlabel(local_key_simple)
                 tonicized_key_label = simplifiedkey_to_encodedlabel(tonicized_key_simple)
                 labels[offset] = {
+                    'slice_duration': n.duration.quarterLength,
                     'local_key': local_key_simple,
                     'tonicized_key': tonicized_key_simple,
                     'local_key_label': local_key_label,

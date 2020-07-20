@@ -8,20 +8,20 @@ import random
 
 key_encodings = {}
 keys = [
-    ('C', 0), 
-    ('D', 2), 
+    ('C', 0),
+    ('D', 2),
     ('E', 4),
     ('F', 5),
     ('G', 7),
     ('A', 9),
     ('B', 11),
-    ('c', 12), 
-    ('d', 14), 
+    ('c', 12),
+    ('d', 14),
     ('e', 16),
     ('f', 17),
     ('g', 19),
     ('a', 21),
-    ('b', 23)  
+    ('b', 23)
 ]
 
 alterations = [
@@ -51,16 +51,16 @@ def keyname_to_simplifiedkey(keyname):
         case = tonic[0].lower()
     else:
         case = 'X'
-    simplified = "{}{}".format(case, tonic[1:])        
+    simplified = "{}{}".format(case, tonic[1:])
     return simplified
 
-def simplifiedkey_to_encodedlabel(simplified):        
+def simplifiedkey_to_encodedlabel(simplified):
     if simplified in key_encodings:
         return key_encodings[simplified]
     else:
         return -1
 
-def score_key_prediction(gt, pred):        
+def score_key_prediction_mirex(gt, pred):
     if pred == gt:
         return 1.0
     if gt < 12:
@@ -74,11 +74,17 @@ def score_key_prediction(gt, pred):
         relative = (gt - 9) % 12
         parallel = gt - 12
     if pred == dominant or pred == subdominant:
-        return 0.5    
+        return 0.5
     elif pred == relative:
         return 0.3
     elif pred == parallel:
         return 0.2
+    else:
+        return 0.0
+
+def score_key_prediction(gt, pred):
+    if pred == gt:
+        return 1.0
     else:
         return 0.0
 
@@ -108,7 +114,7 @@ def load_dataset(allfiles_folder):
         for n in score.flat.notesAndRests:
             if n.lyric:
                 label = harmalysis.parse(n.lyric)
-                offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats                
+                offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats
                 local_key = str(label.main_key)
                 if label.secondary_key:
                     tonicized_key = str(label.secondary_key)
@@ -125,12 +131,12 @@ def load_dataset(allfiles_folder):
                     'local_key_label': local_key_label,
                     'tonicized_key_label': tonicized_key_label
                 }
-        df = pd.DataFrame(labels).transpose()        
+        df = pd.DataFrame(labels).transpose()
         dfdict[f] = df
         # Getting the "perfect modulation" model
         dfmodulation = df.drop(columns=['local_key', 'tonicized_key', 'tonicized_key_label'])
         dfmodulation.rename(columns={'local_key_label': 'local_key_label'}, inplace=True)
-        dfdict_perfectmodulation[f] = dfmodulation        
+        dfdict_perfectmodulation[f] = dfmodulation
         # Getting the "perfect tonicization" model
         dftonicization = df.drop(columns=['local_key', 'tonicized_key', 'local_key_label'])
         dftonicization.rename(columns={'tonicized_key_label': 'local_key_label'}, inplace=True)
@@ -147,11 +153,11 @@ def generate_random_predictions(allfiles_folder):
             if n.lyric:
                 offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats
                 prediction = random.randint(0, 23)
-                labels[offset] = {                                        
-                    'local_key_label': prediction,                    
+                labels[offset] = {
+                    'local_key_label': prediction,
                 }
-        df = pd.DataFrame(labels).transpose()        
-        dfdict[f] = df        
+        df = pd.DataFrame(labels).transpose()
+        dfdict[f] = df
     return dfdict
 
 def generate_globalkey_predictions(allfiles_folder):
@@ -165,20 +171,20 @@ def generate_globalkey_predictions(allfiles_folder):
         labels = {}
         for n in score.flat.notesAndRests:
             if n.lyric:
-                offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats                
-                labels[offset] = {                                        
-                    'local_key_label': globalkey_label,                    
+                offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats
+                labels[offset] = {
+                    'local_key_label': globalkey_label,
                 }
-        df = pd.DataFrame(labels).transpose()        
+        df = pd.DataFrame(labels).transpose()
         dfdict[f] = df
-    return dfdict    
+    return dfdict
 
 if __name__ == '__main__':
     gt = "C MAJOR"
     pred = "c minor"
     print(f"Ground truth: {gt}")
     print(f"Prediction: {pred}")
-    
+
     gt_simple = keyname_to_simplifiedkey(gt)
     pred_simple = keyname_to_simplifiedkey(pred)
     print(f"Ground truth simple: {gt_simple}")

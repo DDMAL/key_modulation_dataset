@@ -1,0 +1,31 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 87.5%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1.5, ii in G major, indicating the pitches ['A', 'C', 'E'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, ii in G major appears on beat 1.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 62.5%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 1.5, ii in G major, indicating the bass A for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 2, viio in G major, indicating the bass F# for lowest note(s) of: ['A2'].
+How about:
+m1 b2 viio6
+
+

@@ -1,0 +1,53 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 71.75%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1.5, IV in A- major, indicating the pitches ['D-', 'F', 'A-'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 3, V in d# minor, indicating the pitches ['A#', 'C##', 'E#'] accounting for successive slices of [['D4', 'F#4', 'A4'], ['D3', 'D4', 'F4', 'A4']].
+Match strength estimated at 0.0%.
+How about:
+m0 b3 bI for the slice ['D4', 'F#4', 'A4']
+m0 b3.5 bi for the slice ['D3', 'D4', 'F4', 'A4']
+
+
+Measure 1, beat 4, V in E major, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [['E3', 'B3', 'E4', 'G#4'], ['G#3', 'B3', 'E4', 'G#4']].
+Match strength estimated at 24.0%.
+How about:
+m0 b4 I for the slice ['E3', 'B3', 'E4', 'G#4']
+m0 b4.5 I6 for the slice ['G#3', 'B3', 'E4', 'G#4']
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, IV in A- major appears on beat 1.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 62.5%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 1, IV6 in A- major, indicating the bass F for lowest note(s) of: ['D-4'].
+How about:
+m1 b1 IV
+
+
+Measure 1, beat 1.5, IV in A- major, indicating the bass D- for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 3, V in d# minor, indicating the bass A# for lowest note(s) of: ['D4', 'D3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 4, V in E major, indicating the bass B for lowest note(s) of: ['G#3', 'E3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

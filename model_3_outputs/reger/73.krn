@@ -1,0 +1,23 @@
+!!!COM: Reger, Max
+!!!OPR: Modulation
+!!!XEN: Modulation snippets
+!!!OTL: 73. a minor to C# Major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+4A\	4c/	4e\	2a/	a=>:i	.	.	.
+4F#\	8d/L	4f#\[	.	.	C#=>:N6	.	.
+.	8c#/J	.	.	.	N6	.	.
+2G#\	2B#/	4f#\]	2g#/[	.	.	V7	.
+.	.	8e#\L	.	.	.	V	.
+.	.	8d#\J	.	.	.	V	.
+=1	=1	=1	=1	=1	=1	=1	=1
+1C#\	1c#/	1e#\	1g#/}	.	.	I	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!filter:satb2gs
+!!!filter:autobeam

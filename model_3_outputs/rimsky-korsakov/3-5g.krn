@@ -1,0 +1,20 @@
+!!!COM: Rimsky Korsakov, Nikolaï
+!!!OPR: Pratical manual of harmony
+!!!XEN: Modulation
+!!!OTL: 3-5g. A minor to E Major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefG2	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+2A\	2e/	2a\	2cc/	a=>:i	.	.	.
+2B\	2e/	2g#\	2b/	Cad64/V	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1
+2B\	2d#/	2a\	2b/	V7/V	.	.	.
+2e\	2e/	2g#\	2b/	E=>:I	.	.	.
+==	==	==	==	==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
+*-	*-	*-	*-	*-	*-	*-	*-

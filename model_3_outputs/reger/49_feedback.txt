@@ -1,0 +1,47 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 87.5%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1, i in f# minor, indicating the pitches ['F#', 'A', 'C#'] accounting for successive slices of [['A2', 'E4', 'A4', 'C5']].
+Match strength estimated at 50.0%.
+How about:
+m1 b1 iii for the slice ['A2', 'E4', 'A4', 'C5']
+
+
+Measure 1, beat 3.5, i64 in f# minor, indicating the pitches ['C#', 'F#', 'A'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, i64 in f# minor appears on beat 3.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 62.5%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 1, i in f# minor, indicating the bass F# for lowest note(s) of: ['A2'].
+How about:
+m1 b1 i6
+
+
+Measure 1, beat 2, V65 in f# minor, indicating the bass E# for lowest note(s) of: ['B2'].
+How about:
+m1 b2 V6#42
+
+
+Measure 1, beat 3, i6 in f# minor, indicating the bass A for lowest note(s) of: ['C#3'].
+How about:
+m1 b3 i64
+
+
+Measure 1, beat 3.5, i64 in f# minor, indicating the bass C# for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

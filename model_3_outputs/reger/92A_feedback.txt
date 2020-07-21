@@ -1,0 +1,37 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 75.0%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1, I in C# major, indicating the pitches ['C#', 'E#', 'G#'] accounting for successive slices of [['D-4', 'F-4', 'A-4', 'D-5']].
+Match strength estimated at 0.0%.
+How about:
+m0 b1 bbii for the slice ['D-4', 'F-4', 'A-4', 'D-5']
+
+
+Measure 1, beat 3, V in c# minor, indicating the pitches ['G#', 'B#', 'D#'] accounting for successive slices of [['D4', 'F#4', 'A4'], ['F#3', 'D4', 'F#4', 'A4']].
+Match strength estimated at 0.0%.
+How about:
+m0 b3 bII for the slice ['D4', 'F#4', 'A4']
+m0 b3.5 bII6 for the slice ['F#3', 'D4', 'F#4', 'A4']
+
+
+
+HARMONIC RHYTHM =====================
+
+The harmonic rhythm looks good: all the chord changes take place on strong metrical positions.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 75.0%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 1, I in C# major, indicating the bass C# for lowest note(s) of: ['D-4'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 3, V in c# minor, indicating the bass G# for lowest note(s) of: ['D4', 'F#3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

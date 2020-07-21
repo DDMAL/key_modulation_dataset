@@ -1,0 +1,56 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 64.06%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1, i in B major, indicating the pitches ['B', 'D', 'F#'] accounting for successive slices of [['A#2', 'E#3', 'C#4', 'C#5']].
+Match strength estimated at 0.0%.
+How about:
+m0 b1 vii for the slice ['A#2', 'E#3', 'C#4', 'C#5']
+
+
+Measure 1, beat 1.5, I in B major, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 3, i in B- major, indicating the pitches ['B-', 'D-', 'F'] accounting for successive slices of [['E-3', 'B-3', 'G-4', 'E-5']].
+Match strength estimated at 25.0%.
+How about:
+m1 b3 iv for the slice ['E-3', 'B-3', 'G-4', 'E-5']
+
+
+Measure 2, beat 3.5, i in e- minor, indicating the pitches ['E-', 'G-', 'B-'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, I in B major appears on beat 1.5.
+Measure 2, i in e- minor appears on beat 3.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 62.5%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 1, i in B major, indicating the bass B for lowest note(s) of: ['A#2'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 1.5, I in B major, indicating the bass B for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 3, i in B- major, indicating the bass B- for lowest note(s) of: ['E-3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 3.5, i in e- minor, indicating the bass E- for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

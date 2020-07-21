@@ -1,0 +1,44 @@
+
+PITCH COVERAGE =====================
+
+The pitch coverage looks good: all of the chords match the corresponding sections of the score well.
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, i in d minor appears on beat 2.75.
+Measure 2, i in d minor appears on beat 2.75.
+Measure 4, V in d minor appears on beat 2.75.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 85.42%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 2, i in d minor, indicating the bass D for lowest note(s) of: ['A2'].
+How about:
+m1 b2 i64
+
+
+Measure 1, beat 2.75, i in d minor, indicating the bass D for lowest note(s) of: ['A2'].
+How about:
+m1 b2.75 i64
+
+
+Measure 3, beat 2, I in d minor, indicating the bass D for lowest note(s) of: ['A1'].
+How about:
+m3 b2 I64
+
+
+Measure 4, beat 1, I in d minor, indicating the bass D for lowest note(s) of: ['A4', 'A1'].
+How about:
+m4 b1 I64
+
+
+Measure 4, beat 2.5, V in B- major, indicating the bass F for lowest note(s) of: ['A4'].
+How about:
+m4 b2.5 V6
+
+

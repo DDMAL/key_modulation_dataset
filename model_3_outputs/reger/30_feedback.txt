@@ -1,0 +1,57 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 71.88%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 4, V6 in a# minor, indicating the pitches ['G##', 'B#', 'E#'] accounting for successive slices of [['B#2', 'B#3', 'D##4', 'F##4']].
+Match strength estimated at 50.0%.
+How about:
+m1 b4 II for the slice ['B#2', 'B#3', 'D##4', 'F##4']
+
+
+Measure 1, beat 4.5, V7 in a# minor, indicating the pitches ['E#', 'G##', 'B#', 'D#'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 3.5, v in a# minor, indicating the pitches ['E#', 'G#', 'B#'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 4, V in C# major, indicating the pitches ['G#', 'B#', 'D#'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, V6 in B major appears on beat 3.5.
+Measure 1, V7 in a# minor appears on beat 4.5.
+Measure 2, v in a# minor appears on beat 3.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 68.75%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 4, V6 in a# minor, indicating the bass G## for lowest note(s) of: ['B#2'].
+How about:
+m1 b4 V64
+
+
+Measure 1, beat 4.5, V7 in a# minor, indicating the bass E# for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 3.5, v in a# minor, indicating the bass E# for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 4, V in C# major, indicating the bass G# for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

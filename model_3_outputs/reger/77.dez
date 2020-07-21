@@ -1,0 +1,220 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "a"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 2.0,
+      "tag": "e"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "E"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.5,
+      "actual-duration": 4.5,
+      "tag": "e"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "iv"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.5,
+      "actual-duration": 0.5,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.5,
+      "actual-duration": 0.5,
+      "tag": "V6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.5,
+      "actual-duration": 2.0,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 5.5,
+      "actual-duration": 1.0,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 6.5,
+      "actual-duration": 1.5,
+      "tag": "V"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 1, iv in a minor, indicating the pitches ['D', 'F', 'A'] accounting for successive slices of [['A2', 'A3', 'E4', 'C5']].\n\nMatch strength estimated at 50.0%.\n\nHow about:\n\nm0 b1 i for the slice ['A2', 'A3', 'E4', 'C5']\nBASS:\nMeasure 1, beat 1, iv in a minor, indicating the bass D for lowest note(s) of: ['A2'].\n\nHow about:\n\nm1 b1 iv64\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.5,
+      "actual-duration": 0.5,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 1, beat 1.5, i in a minor, indicating the pitches ['A', 'C', 'E'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 1, i in a minor appears on beat 1.5.\nBASS:\nMeasure 1, beat 1.5, i in a minor, indicating the bass A for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.5,
+      "actual-duration": 0.5,
+      "tag": "R",
+      "comment": "RHYTHM:\nMeasure 1, V6 in e minor appears on beat 3.5.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 4, V in E major, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [['E#3', 'B#3', 'G##4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm0 b4 #I for the slice ['E#3', 'B#3', 'G##4']\nBASS:\nMeasure 1, beat 4, V in E major, indicating the bass B for lowest note(s) of: ['E#3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.5,
+      "actual-duration": 2.0,
+      "tag": "PPRBB",
+      "comment": "PITCH:\nMeasure 1, beat 4.5, V in e minor, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nPITCH:\nMeasure 2, beat 1, V in e minor, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [['B#2', 'D##3', 'B#3', 'F##4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm1 b1 #V for the slice ['B#2', 'D##3', 'B#3', 'F##4']\nRHYTHM:\nMeasure 1, V in e minor appears on beat 4.5.\nBASS:\nMeasure 1, beat 4.5, V in e minor, indicating the bass B for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\nBASS:\nMeasure 2, beat 1, V in e minor, indicating the bass B for lowest note(s) of: ['B#2'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 5.5,
+      "actual-duration": 1.0,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 2, beat 2.5, V7 in e minor, indicating the pitches ['B', 'D#', 'F#', 'A'] accounting for successive slices of [['E#2', 'E#3', 'B#3', 'G##4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm1 b3 #I for the slice ['E#2', 'E#3', 'B#3', 'G##4']\nRHYTHM:\nMeasure 2, V7 in e minor appears on beat 2.5.\nBASS:\nMeasure 2, beat 2.5, V7 in e minor, indicating the bass B for lowest note(s) of: ['E#2'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 6.5,
+      "actual-duration": 1.5,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

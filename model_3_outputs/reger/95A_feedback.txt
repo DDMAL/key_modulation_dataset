@@ -1,0 +1,66 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 62.5%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1, i in B major, indicating the pitches ['B', 'D', 'F#'] accounting for successive slices of [['A#3', 'C#4', 'E#4', 'A#4']].
+Match strength estimated at 0.0%.
+How about:
+m0 b1 vii for the slice ['A#3', 'C#4', 'E#4', 'A#4']
+
+
+Measure 1, beat 1.5, I in B major, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 4, I6 in B- major, indicating the pitches ['D', 'F', 'B-'] accounting for successive slices of [['A2', 'C4', 'F4', 'A4']].
+Match strength estimated at 25.0%.
+How about:
+m0 b4 V6 for the slice ['A2', 'C4', 'F4', 'A4']
+
+
+Measure 2, beat 1, I6 in B- major, indicating the pitches ['D', 'F', 'B-'] accounting for successive slices of [['A2', 'C4', 'F4', 'C5']].
+Match strength estimated at 25.0%.
+How about:
+m1 b1 V6 for the slice ['A2', 'C4', 'F4', 'C5']
+
+
+Measure 2, beat 2.5, V7 in B- major, indicating the pitches ['F', 'A', 'C', 'E-'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, I in B major appears on beat 1.5.
+Measure 2, V7 in B- major appears on beat 2.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 56.25%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 1, i in B major, indicating the bass B for lowest note(s) of: ['A#3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 1.5, I in B major, indicating the bass B for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 4, I6 in B- major, indicating the bass D for lowest note(s) of: ['A2'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 1, I6 in B- major, indicating the bass D for lowest note(s) of: ['A2'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 2.5, V7 in B- major, indicating the bass F for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

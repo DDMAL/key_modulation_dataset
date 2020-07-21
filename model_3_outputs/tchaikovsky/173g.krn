@@ -1,0 +1,19 @@
+!!!COM: Tchaikovski
+!!!OPR: Guide to the practical study of harmony
+!!!XEN: Modulation snippets
+!!!OTL: Example 173-g : C Major to G Major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+2C	2e	2g	2cc	C=>:I	.	.	.
+2AA	2d	2f#	2cc	V43/V	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+1GG	1d	1g	1b	G=>:I	.	.	.
+==	==	==	==	==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
+*-	*-	*-	*-	*-	*-	*-	*-

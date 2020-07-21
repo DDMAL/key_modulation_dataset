@@ -1,0 +1,79 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 84.69%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 3, beat 1.33, i in g minor, indicating the pitches ['G', 'B-', 'D'] accounting for successive slices of [['B-4'], ['A4']].
+Match strength estimated at 50.0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 3, beat 1.67, viio7 in g minor, indicating the pitches ['F#', 'A', 'C', 'E-'] accounting for successive slices of [['G4'], ['F#4'], ['E-5'], ['D5']].
+Match strength estimated at 50.0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 3, beat 2.33, v in g minor, indicating the pitches ['D', 'F', 'A'] accounting for successive slices of [['C5'], ['B-4'], ['A4'], ['G4']].
+Match strength estimated at 25.0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 3, beat 3, vo7 in g minor, indicating the pitches ['D', 'F', 'A-', 'C-'] accounting for successive slices of [['F#4'], ['A4']].
+Match strength estimated at 0.0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 3, beat 3.33, v in g minor, indicating the pitches ['D', 'F', 'A'] accounting for successive slices of [['G4'], ['F#4'], ['E4'], ['D4'], ['A5'], ['G5'], ['F#5'], ['E5'], ['D5'], ['C5']].
+Match strength estimated at 30.0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 0, V in d minor appears on beat 4.67.
+Measure 1, V7 in D major appears on beat 1.67.
+Measure 1, V in D major appears on beat 4.33.
+Measure 1, V7 in D major appears on beat 4.67.
+Measure 2, i in d minor appears on beat 3.67.
+Measure 3, i in g minor appears on beat 1.33.
+Measure 3, viio7 in g minor appears on beat 1.67.
+Measure 3, v in g minor appears on beat 2.33.
+Measure 3, v in g minor appears on beat 3.33.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 85.71%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 0, beat 4.67, V in d minor, indicating the bass A for lowest note(s) of: ['E5'].
+How about:
+m0 b4.67 V64
+
+
+Measure 1, beat 4.33, V in D major, indicating the bass A for lowest note(s) of: ['C#4'].
+How about:
+m1 b4.33 V6
+
+
+Measure 1, beat 4.67, V7 in D major, indicating the bass A for lowest note(s) of: ['E4'].
+How about:
+m1 b4.67 V43
+
+
+Measure 3, beat 1.33, i in g minor, indicating the bass G for lowest note(s) of: ['A4', 'B-4'].
+How about:
+m3 b1.33 i6
+
+
+Measure 3, beat 2.33, v in g minor, indicating the bass D for lowest note(s) of: ['A4', 'C5', 'B-4', 'G4'].
+How about:
+m3 b2.33 v64
+
+
+Measure 3, beat 3, vo7 in g minor, indicating the bass D for lowest note(s) of: ['A4', 'F#4'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

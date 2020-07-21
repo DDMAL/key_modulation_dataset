@@ -1,0 +1,36 @@
+!!!COM: Kostka, Payne, and Almén
+!!!OPR: Tonal Harmony
+!!!XEN: Modulation snippets
+!!!OTL: 19-12. Mozart, Fantasia, K. 475, mm 6-16 (simplified)
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**text	**text
+*staff2	*staff1	*staff2	*staff1
+*clefF4	*clefG2	*	*
+*k[]	*k[]	*	*
+*C:	*C:	*	*
+*M2/2	*M2/2	*	*
+=1	=1	=1	=1
+[1AA- E- G-	1c	.	D-=>:V7
+=2	=2	=2	=2
+1AA-] D- F	1d-	.	I64
+=3	=3	=3	=3
+1AA E- G-	1c	.	e-=>:viio7/V
+=4	=4	=4	=4
+1BB- E- G-	1B-	.	I64
+=5	=5	=5	=5
+1BB B	1d# [f#	.	B=>:I
+=6	=6	=6	=6
+1AA# [c#	[1e f#]	V65	.
+=7	=7	=7	=7
+1AA c#]	1e] g	D=>:V7	.
+=8	=8	=8	=8
+1AA- c	1f [f	c=>:iv6	.
+=9	=9	=9	=9
+1GG B	1d f]	V7	.
+=10	=10	=10	=10
+1GG- G-	1B- e-	B=>:iii6	.
+=11	=11	=11	=11
+1FF# E F#	1A# c#	V7	.
+==	==	==	==
+!!!filter: autobeam
+*-	*-	*-	*-

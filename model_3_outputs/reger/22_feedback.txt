@@ -1,0 +1,47 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 84.38%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1.5, I in a minor, indicating the pitches ['A', 'C#', 'E'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 2, ii in a minor, indicating the pitches ['B', 'D', 'F#'] accounting for successive slices of [['D3', 'F3', 'D4', 'A4']].
+Match strength estimated at 50.0%.
+How about:
+m1 b2 iv for the slice ['D3', 'F3', 'D4', 'A4']
+
+
+Measure 1, beat 2.5, iv in a minor, indicating the pitches ['D', 'F', 'A'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, I in a minor appears on beat 1.5.
+Measure 1, iv in a minor appears on beat 2.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 81.25%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 1.5, I in a minor, indicating the bass A for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 2, ii in a minor, indicating the bass B for lowest note(s) of: ['D3'].
+How about:
+m1 b2 ii6
+
+
+Measure 1, beat 2.5, iv in a minor, indicating the bass D for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

@@ -1,0 +1,70 @@
+!!!COM: Kostka, Payne, and Almén
+!!!OPR: Tonal Harmony
+!!!XEN: Modulation snippets
+!!!OTL: 19-5. Mozart, Fantasia, K. 475
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**text	**text
+*staff2	*staff1	*staff2	*staff1
+*clefF4	*clefG2	*	*
+*k[]	*k[]	*	*
+*C:	*C:	*	*
+*M4/4	*M4/4	*	*
+8FF# F#	8A# c# f#	b=>:V	.
+8r	8r	.	.
+8DD D	16F# B	.	i6
+.	16B	.	i6
+8BBB BB	16B d	.	i
+.	16d	.	i
+8FF# F#	8A# c# f#	.	V
+8r	8r	.	.
+8DD D	16F# B	.	i6
+.	16B	.	i6
+8BBB BB	16B d	.	i
+.	16d	.	i
+=2	=2	=2	=2
+8FF# F#	8A# c# f#	.	V
+8r	8r	.	.
+8FF# F#	8A# c# f#	.	V
+8r	8r	.	.
+4FF# F#	8f# [A# [c#	.	V
+.	8f# A#] c#]	.	V
+4r	8f#	.	V
+.	8f#	.	V
+=3	=3	=3	=3
+16D	4f#	D=>:I	.
+16A	.	I	.
+16F#	.	I	.
+16A	.	I	.
+16D	8f#	I	.
+16A	.	I	.
+16F#	8f#	I	.
+16A	.	I	.
+16G [16D	16e	V43	.
+16c# D_	32a	.	V43
+.	32g	.	V43
+16E D_	4g	V43	.
+16c# D_	.	V43	.
+16E D_	.	I	.
+16c# D_	.	I	.
+16F# D_	8f#	I	.
+16d D]	.	I	.
+=4	=4	=4	=4
+16GG [GG	[8e	ii6	.
+16G GG_	.	ii6	.
+16E GG_	32e]	.	ii6
+.	32g	.	ii6
+16G GG]	48b	.	ii6
+.	48g	.	ii6
+.	48e	.	ii6
+16F# 16[AA	8d	Cad64	.
+16A AA_	.	Cad64	.
+16G AA_	8c#	V7	.
+16E AA]	.	V7	.
+8AA F#	16.d	.	Cad64
+.	64e	.	Cad64
+.	64f#	.	Cad64
+8AA C# E	8e	.	V
+4r	4r	.	.
+==	==	==	==
+!!!filter:autobeam
+*-	*-	*-	*-

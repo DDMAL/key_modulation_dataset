@@ -1,0 +1,180 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 3.0,
+      "tag": "e"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 4.0,
+      "tag": "B"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.0,
+      "actual-duration": 0.5,
+      "tag": "e"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.5,
+      "actual-duration": 0.5,
+      "tag": "B"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "iv"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 1.0,
+      "tag": "V64"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 1.0,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 3.0,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.0,
+      "actual-duration": 0.5,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.5,
+      "actual-duration": 0.5,
+      "tag": "V"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.0,
+      "actual-duration": 3.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 7.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 2, beat 4, I in e minor, indicating the pitches ['E', 'G#', 'B'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nBASS:\nMeasure 2, beat 4, I in e minor, indicating the bass E for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 7.5,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

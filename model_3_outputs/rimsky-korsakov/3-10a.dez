@@ -1,0 +1,111 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 2.0,
+      "tag": "C"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 2.0,
+      "tag": "F"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 4.0,
+      "tag": "a"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 2.0,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 2.0,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 2.0,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 6.0,
+      "actual-duration": 2.0,
+      "tag": "i"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 2.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 2.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.0,
+      "actual-duration": 2.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 6.0,
+      "actual-duration": 2.0,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

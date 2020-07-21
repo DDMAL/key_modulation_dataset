@@ -1,0 +1,19 @@
+!!!COM: Reger, Max
+!!!OPR: Modulation
+!!!XEN: Modulation snippets
+!!!OTL: 60. a minor to e- minor
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+4A\	4c/	4e\	4a/	a=>:i	.	.	.
+2D\	2.B-/	2f\	4b-/	.	.	.	eb=>:V6
+.	.	.	4a-/	.	.	.	V65
+4E-\	.	4e-\	4g-/	.	.	.	i
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!filter:satb2gs
+!!!filter:autobeam

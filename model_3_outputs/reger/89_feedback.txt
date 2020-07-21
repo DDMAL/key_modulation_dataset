@@ -1,0 +1,62 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 77.06%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1, I in C# major, indicating the pitches ['C#', 'E#', 'G#'] accounting for successive slices of [['D-3', 'F3', 'D-4', 'A-4']].
+Match strength estimated at 0.0%.
+How about:
+m0 b1 bbII for the slice ['D-3', 'F3', 'D-4', 'A-4']
+
+
+Measure 1, beat 1.5, I in D- major, indicating the pitches ['D-', 'F', 'A-'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 3, V in D major, indicating the pitches ['A', 'C#', 'E'] accounting for successive slices of [['D3', 'A3', 'F#4']].
+Match strength estimated at 33.0%.
+How about:
+m0 b3 I for the slice ['D3', 'A3', 'F#4']
+
+
+Measure 1, beat 4.5, V7 in e minor, indicating the pitches ['B', 'D#', 'F#', 'A'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, I in D- major appears on beat 1.5.
+Measure 1, V7 in G major appears on beat 3.5.
+Measure 1, V7 in e minor appears on beat 4.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 68.75%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 1, I in C# major, indicating the bass C# for lowest note(s) of: ['D-3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 1.5, I in D- major, indicating the bass D- for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 3, V in D major, indicating the bass A for lowest note(s) of: ['D3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 3.5, V7 in G major, indicating the bass D for lowest note(s) of: ['C3'].
+How about:
+m1 b3.5 V42
+
+
+Measure 1, beat 4.5, V7 in e minor, indicating the bass B for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

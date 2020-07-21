@@ -1,0 +1,102 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "a"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 3.0,
+      "tag": "f"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "IV6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 1.0,
+      "tag": "viio7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 1.0,
+      "tag": "i"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

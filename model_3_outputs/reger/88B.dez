@@ -1,0 +1,200 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.5,
+      "tag": "B"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.5,
+      "actual-duration": 0.5,
+      "tag": "Gb"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 1.0,
+      "tag": "d#"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 5.0,
+      "tag": "g#"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.5,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.5,
+      "actual-duration": 0.5,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.5,
+      "actual-duration": 0.5,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 1.0,
+      "tag": "V6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 0.5,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.5,
+      "actual-duration": 1.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 6.0,
+      "actual-duration": 2.0,
+      "tag": "i"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 1, I in B major, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [['C-3', 'E-4', 'G-4', 'C-5'], ['G-2', 'D-4', 'G-4', 'B-4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm0 b1 bbII for the slice ['C-3', 'E-4', 'G-4', 'C-5']\n\nm0 b2 bbVI for the slice ['G-2', 'D-4', 'G-4', 'B-4']\nBASS:\nMeasure 1, beat 1, I in B major, indicating the bass B for lowest note(s) of: ['C-3', 'G-2'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.5,
+      "actual-duration": 0.5,
+      "tag": "RB",
+      "comment": "RHYTHM:\nMeasure 1, I in G- major appears on beat 2.5.\nBASS:\nMeasure 1, beat 2.5, I in G- major, indicating the bass G- for lowest note(s) of: ['B-2'].\n\nHow about:\n\nm1 b2.5 I6\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 3, I in d# minor, indicating the pitches ['D#', 'F##', 'A#'] accounting for successive slices of [['F3', 'C4', 'F4', 'A4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm0 b3 bIII for the slice ['F3', 'C4', 'F4', 'A4']\nBASS:\nMeasure 1, beat 3, I in d# minor, indicating the bass D# for lowest note(s) of: ['F3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.5,
+      "actual-duration": 0.5,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 1, beat 3.5, i in d# minor, indicating the pitches ['D#', 'F#', 'A#'] accounting for successive slices of [['D3', 'D4', 'F4', 'A4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm0 b3.5 bi for the slice ['D3', 'D4', 'F4', 'A4']\nRHYTHM:\nMeasure 1, i in d# minor appears on beat 3.5.\nBASS:\nMeasure 1, beat 3.5, i in d# minor, indicating the bass D# for lowest note(s) of: ['D3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.0,
+      "actual-duration": 1.0,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 4, V6 in g# minor, indicating the pitches ['F##', 'A#', 'D#'] accounting for successive slices of [['C#3', 'E4', 'A4'], ['C#3', 'C#4', 'E4', 'A4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm0 b4 bII6 for the slice ['C#3', 'E4', 'A4']\n\nm0 b4.5 bII6 for the slice ['C#3', 'C#4', 'E4', 'A4']\nBASS:\nMeasure 1, beat 4, V6 in g# minor, indicating the bass F## for lowest note(s) of: ['C#3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.0,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.5,
+      "actual-duration": 1.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 6.0,
+      "actual-duration": 2.0,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

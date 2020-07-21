@@ -1,0 +1,180 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "b"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.5,
+      "actual-duration": 2.5,
+      "tag": "F#"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "b"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.5,
+      "actual-duration": 4.5,
+      "tag": "F#"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "IV"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.5,
+      "actual-duration": 0.5,
+      "tag": "IV"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "I6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 1.0,
+      "tag": "V64"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.5,
+      "actual-duration": 0.5,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 4.0,
+      "tag": "I"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 1, IV in b minor, indicating the pitches ['E', 'G#', 'B'] accounting for successive slices of [['C3', 'C4', 'G4', 'E5']].\n\nMatch strength estimated at 25.0%.\n\nHow about:\n\nm0 b1 bII for the slice ['C3', 'C4', 'G4', 'E5']\nBASS:\nMeasure 1, beat 1, IV in b minor, indicating the bass E for lowest note(s) of: ['C3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.5,
+      "actual-duration": 0.5,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 1, beat 1.5, IV in F# major, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 1, IV in F# major appears on beat 1.5.\nBASS:\nMeasure 1, beat 1.5, IV in F# major, indicating the bass B for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 2, I6 in F# major, indicating the pitches ['A#', 'C#', 'F#'] accounting for successive slices of [['B2', 'D4', 'G4', 'D5'], ['B2', 'D4', 'G4', 'B4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm0 b2 bII6 for the slice ['B2', 'D4', 'G4', 'D5']\n\nm0 b2.5 bII6 for the slice ['B2', 'D4', 'G4', 'B4']\nBASS:\nMeasure 1, beat 2, I6 in F# major, indicating the bass A# for lowest note(s) of: ['B2'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 1.0,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 3, V64 in F# major, indicating the pitches ['G#', 'C#', 'E#'] accounting for successive slices of [['C#3', 'C#4', 'F#4', 'A#4']].\n\nMatch strength estimated at 50.0%.\n\nHow about:\n\nm0 b3 I64 for the slice ['C#3', 'C#4', 'F#4', 'A#4']\nBASS:\nMeasure 1, beat 3, V64 in F# major, indicating the bass G# for lowest note(s) of: ['C#3'].\n\nHow about:\n\nm1 b3 V\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.5,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.0,
+      "actual-duration": 4.0,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

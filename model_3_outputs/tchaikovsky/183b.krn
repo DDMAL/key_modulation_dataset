@@ -1,0 +1,39 @@
+!!!COM: Tchaikovski
+!!!OPR: Guide to the practical study of harmony
+!!!XEN: Modulation snippets
+!!!OTL: Example 183-b : C Major to f minor
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+2C	2e	2g	2cc	C=>:I	.	.	.
+2G	4d	4g	4b	.	V	.	.
+.	4e	4a	4cc#	.	V2/ii	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+2F	2d	2.a	2.dd	.	d=>:i6	.	.
+4D	4f	.	.	.	i	.	.
+4C	4f#	4a	4dd	.	V2/iv	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2BB-	2.g	2.dd	4dd	.	.	.	g=>:i6
+.	.	.	4gg	.	.	.	v6/iv
+4BB	.	.	4ff	.	.	.	c=>:V65
+4C	4g	4cc	4ee-	.	.	.	i
+=4	=4	=4	=4	=4	=4	=4	=4
+4G	4g	4b-	2dd	Eb=>:iii	.	.	.
+4F	4a-	4b-	.	V43	.	.	.
+4E-	4g	4b-	4ee-	I	.	.	.
+4E	4g	4b-	4dd-	viio7/ii	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4F	4a-	4a-	4cc	f=>:i	.	.	.
+4A-	4f	4cc	4ff	i6	.	.	.
+4B-	4f	4b-	4-dd	iv	.	.	.
+4c	4e	4b-	4cc	V7	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1F	1f	1a-	1cc	i	.	.	.
+==	==	==	==	==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
+*-	*-	*-	*-	*-	*-	*-	*-

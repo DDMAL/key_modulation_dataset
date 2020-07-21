@@ -1,0 +1,189 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "E"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.5,
+      "actual-duration": 0.5,
+      "tag": "Cb"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "a#"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "F#"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.5,
+      "actual-duration": 5.5,
+      "tag": "Cb"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.5,
+      "actual-duration": 0.5,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "I6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "V6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.5,
+      "actual-duration": 1.0,
+      "tag": "V6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.5,
+      "actual-duration": 0.5,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 4.0,
+      "tag": "I"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 1, i in E major, indicating the pitches ['E', 'G', 'B'] accounting for successive slices of [['A3', 'E4', 'C5']].\n\nMatch strength estimated at 33.0%.\n\nHow about:\n\nm0 b1 iv for the slice ['A3', 'E4', 'C5']\nBASS:\nMeasure 1, beat 1, i in E major, indicating the bass E for lowest note(s) of: ['A3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.5,
+      "actual-duration": 0.5,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 1, beat 1.5, i in C- major, indicating the pitches ['C-', 'E--', 'G-'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 1, i in C- major appears on beat 1.5.\nBASS:\nMeasure 1, beat 1.5, i in C- major, indicating the bass C- for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 2, I6 in a# minor, indicating the pitches ['C##', 'E#', 'A#'] accounting for successive slices of [['A3', 'C4', 'F4', 'C5']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm0 b2 bbVI6 for the slice ['A3', 'C4', 'F4', 'C5']\nBASS:\nMeasure 1, beat 2, I6 in a# minor, indicating the bass C## for lowest note(s) of: ['A3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 3, V6 in F# major, indicating the pitches ['E#', 'G#', 'C#'] accounting for successive slices of [['B-3', 'D-4', 'G-4', 'B-4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm0 b3 bbII6 for the slice ['B-3', 'D-4', 'G-4', 'B-4']\nBASS:\nMeasure 1, beat 3, V6 in F# major, indicating the bass E# for lowest note(s) of: ['B-3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.5,
+      "actual-duration": 1.0,
+      "tag": "R",
+      "comment": "RHYTHM:\nMeasure 1, V6 in C- major appears on beat 3.5.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.5,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.0,
+      "actual-duration": 4.0,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

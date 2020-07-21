@@ -1,0 +1,209 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.5,
+      "tag": "f"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.5,
+      "actual-duration": 3.0,
+      "tag": "Db"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.5,
+      "actual-duration": 1.0,
+      "tag": "Ab"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 5.5,
+      "actual-duration": 1.5,
+      "tag": "Db"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.0,
+      "actual-duration": 1.0,
+      "tag": "Ab"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 0.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.5,
+      "actual-duration": 0.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 2.0,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 0.5,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.5,
+      "actual-duration": 1.0,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 5.5,
+      "actual-duration": 1.5,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.0,
+      "actual-duration": 1.0,
+      "tag": "I"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 1, I in f minor, indicating the pitches ['F', 'A', 'C'] accounting for successive slices of [['C3', 'G4', 'C5', 'E5']].\n\nMatch strength estimated at 50.0%.\n\nHow about:\n\nm1 b1 V for the slice ['C3', 'G4', 'C5', 'E5']\nBASS:\nMeasure 1, beat 1, I in f minor, indicating the bass F for lowest note(s) of: ['C3'].\n\nHow about:\n\nm1 b1 I64\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 2, V in f minor, indicating the pitches ['C', 'E', 'G'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nBASS:\nMeasure 1, beat 2, V in f minor, indicating the bass C for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.5,
+      "actual-duration": 0.5,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 1, beat 2.5, V in D- major, indicating the pitches ['A-', 'C', 'E-'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 1, V in D- major appears on beat 2.5.\nBASS:\nMeasure 1, beat 2.5, V in D- major, indicating the bass A- for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 2.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.0,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.5,
+      "actual-duration": 1.0,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 2, beat 1.5, I in A- major, indicating the pitches ['A-', 'C', 'E-'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 2, I in A- major appears on beat 1.5.\nBASS:\nMeasure 2, beat 1.5, I in A- major, indicating the bass A- for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 5.5,
+      "actual-duration": 1.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 2, beat 2.5, I in D- major, indicating the pitches ['D-', 'F', 'A-'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nBASS:\nMeasure 2, beat 2.5, I in D- major, indicating the bass D- for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 7.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

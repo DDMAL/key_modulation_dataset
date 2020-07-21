@@ -1,0 +1,391 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 3.0,
+      "tag": "C"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 6.0,
+      "tag": "G"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 9.0,
+      "actual-duration": 7.0,
+      "tag": "g"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "V65"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 1.0,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "V6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.5,
+      "actual-duration": 0.5,
+      "tag": "I6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 1.0,
+      "tag": "viio7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 5.0,
+      "actual-duration": 1.0,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 6.0,
+      "actual-duration": 1.0,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.0,
+      "actual-duration": 0.5,
+      "tag": "V7/V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.5,
+      "actual-duration": 0.5,
+      "tag": "V42/V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 8.0,
+      "actual-duration": 1.0,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 9.0,
+      "actual-duration": 1.0,
+      "tag": "i6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 10.0,
+      "actual-duration": 0.5,
+      "tag": "II42"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 10.5,
+      "actual-duration": 0.5,
+      "tag": "V42"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 11.0,
+      "actual-duration": 0.5,
+      "tag": "i6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 11.5,
+      "actual-duration": 1.5,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 13.0,
+      "actual-duration": 1.0,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 14.0,
+      "actual-duration": 2.0,
+      "tag": "i"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "B",
+      "comment": "BASS:\nMeasure 1, beat 2, V65 in C major, indicating the bass B for lowest note(s) of: ['D3'].\n\nHow about:\n\nm1 b2 V43\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 4, V6 in G major, indicating the pitches ['F#', 'A', 'D'] accounting for successive slices of [['B2', 'D4', 'G4', 'D5']].\n\nMatch strength estimated at 50.0%.\n\nHow about:\n\nm1 b4 I6 for the slice ['B2', 'D4', 'G4', 'D5']\nBASS:\nMeasure 1, beat 4, V6 in G major, indicating the bass F# for lowest note(s) of: ['B2'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.5,
+      "actual-duration": 0.5,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 1, beat 4.5, I6 in G major, indicating the pitches ['B', 'D', 'G'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 1, I6 in G major appears on beat 4.5.\nBASS:\nMeasure 1, beat 4.5, I6 in G major, indicating the bass B for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.0,
+      "actual-duration": 1.0,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 2, beat 1, viio7 in G major, indicating the pitches ['F#', 'A', 'C', 'E-'] accounting for successive slices of [['A#2', 'E4', 'G4', 'C#5']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm2 b1 #iiob7b53 for the slice ['A#2', 'E4', 'G4', 'C#5']\nBASS:\nMeasure 2, beat 1, viio7 in G major, indicating the bass F# for lowest note(s) of: ['A#2'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 5.0,
+      "actual-duration": 1.0,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 2, beat 2, i in G major, indicating the pitches ['G', 'B-', 'D'] accounting for successive slices of [['B2', 'D4', 'F#4', 'B4']].\n\nMatch strength estimated at 25.0%.\n\nHow about:\n\nm2 b2 iii for the slice ['B2', 'D4', 'F#4', 'B4']\nBASS:\nMeasure 2, beat 2, i in G major, indicating the bass G for lowest note(s) of: ['B2'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 6.0,
+      "actual-duration": 1.0,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 2, beat 3, V in G major, indicating the pitches ['D', 'F#', 'A'] accounting for successive slices of [['F#3', 'C#4', 'F#4', 'A#4']].\n\nMatch strength estimated at 50.0%.\n\nHow about:\n\nm2 b3 VII for the slice ['F#3', 'C#4', 'F#4', 'A#4']\nBASS:\nMeasure 2, beat 3, V in G major, indicating the bass D for lowest note(s) of: ['F#3'].\n\nHow about:\n\nm2 b3 V6\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 7.0,
+      "actual-duration": 0.5,
+      "tag": "B",
+      "comment": "BASS:\nMeasure 2, beat 4, V7/V in G major, indicating the bass A for lowest note(s) of: ['E3'].\n\nHow about:\n\nm2 b4 II#643\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 7.5,
+      "actual-duration": 0.5,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 2, beat 4.5, V42/V in G major, indicating the pitches ['G', 'A', 'C#', 'E'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 2, V42/V in G major appears on beat 4.5.\nBASS:\nMeasure 2, beat 4.5, V42/V in G major, indicating the bass G for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 8.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 9.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 10.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 3, beat 3, II42 in g minor, indicating the pitches ['G', 'A', 'C#', 'E'] accounting for successive slices of [['A2', 'C4', 'G4', 'E-5']].\n\nMatch strength estimated at 50.0%.\n\nHow about:\n\nm3 b3 ii/o7 for the slice ['A2', 'C4', 'G4', 'E-5']\nBASS:\nMeasure 3, beat 3, II42 in g minor, indicating the bass G for lowest note(s) of: ['A2'].\n\nHow about:\n\nm3 b3 II7#5#3\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 10.5,
+      "actual-duration": 0.5,
+      "tag": "RB",
+      "comment": "RHYTHM:\nMeasure 3, V42 in g minor appears on beat 3.5.\nBASS:\nMeasure 3, beat 3.5, V42 in g minor, indicating the bass C for lowest note(s) of: ['A2'].\n\nHow about:\n\nm3 b3.5 V#643\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 11.0,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 11.5,
+      "actual-duration": 1.5,
+      "tag": "B",
+      "comment": "BASS:\nMeasure 3, beat 4.5, i in g minor, indicating the bass G for lowest note(s) of: ['C3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 13.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 14.0,
+      "actual-duration": 2.0,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

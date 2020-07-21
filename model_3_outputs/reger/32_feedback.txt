@@ -1,0 +1,21 @@
+
+PITCH COVERAGE =====================
+
+The pitch coverage looks good: all of the chords match the corresponding sections of the score well.
+
+
+HARMONIC RHYTHM =====================
+
+The harmonic rhythm looks good: all the chord changes take place on strong metrical positions.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 87.5%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 3, i6 in d minor, indicating the bass F for lowest note(s) of: ['A2'].
+How about:
+m1 b3 i64
+
+

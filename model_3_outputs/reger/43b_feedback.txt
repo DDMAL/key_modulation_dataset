@@ -1,0 +1,57 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 71.88%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1, V in G- major, indicating the pitches ['D-', 'F', 'A-'] accounting for successive slices of [['C#3', 'G#3', 'E#4', 'C#5']].
+Match strength estimated at 0.0%.
+How about:
+m1 b1 ##IV for the slice ['C#3', 'G#3', 'E#4', 'C#5']
+
+
+Measure 1, beat 2.5, V in G major, indicating the pitches ['D', 'F#', 'A'] accounting for successive slices of [['G3', 'B3', 'G4', 'D5']].
+Match strength estimated at 25.0%.
+How about:
+m1 b2.5 I for the slice ['G3', 'B3', 'G4', 'D5']
+
+
+Measure 1, beat 3, I in G major, indicating the pitches ['G', 'B', 'D'] accounting for successive slices of [['C3', 'C4', 'G4', 'E-5']].
+Match strength estimated at 25.0%.
+How about:
+m1 b3 iv for the slice ['C3', 'C4', 'G4', 'E-5']
+
+
+Measure 1, beat 3.5, i in c minor, indicating the pitches ['C', 'E-', 'G'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, V in G major appears on beat 2.5.
+Measure 1, i in c minor appears on beat 3.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 68.75%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 1, V in G- major, indicating the bass D- for lowest note(s) of: ['C#3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 2.5, V in G major, indicating the bass D for lowest note(s) of: ['G3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 3, I in G major, indicating the bass G for lowest note(s) of: ['C3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 3.5, i in c minor, indicating the bass C for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

@@ -1,0 +1,51 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 78.12%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 3, ii6 in G major, indicating the pitches ['C', 'E', 'A'] accounting for successive slices of [['C4', 'E-4', 'G4', 'A4']].
+Match strength estimated at 50.0%.
+How about:
+m0 b3 ii/o65b3 for the slice ['C4', 'E-4', 'G4', 'A4']
+
+
+Measure 1, beat 3.5, ii65 in G major, indicating the pitches ['C', 'E', 'G', 'A'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 4, iio6 in G major, indicating the pitches ['C', 'E-', 'A'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 4.5, II65 in G major, indicating the pitches ['C#', 'E', 'G', 'A'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, ii65 in G major appears on beat 3.5.
+Measure 1, II65 in G major appears on beat 4.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 81.25%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 3.5, ii65 in G major, indicating the bass C for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 4, iio6 in G major, indicating the bass C for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 4.5, II65 in G major, indicating the bass C# for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

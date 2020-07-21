@@ -1,0 +1,89 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 28.12%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1, iv in a minor, indicating the pitches ['D', 'F', 'A'] accounting for successive slices of [['A2', 'A3', 'E4', 'C5']].
+Match strength estimated at 50.0%.
+How about:
+m0 b1 i for the slice ['A2', 'A3', 'E4', 'C5']
+
+
+Measure 1, beat 1.5, i in a minor, indicating the pitches ['A', 'C', 'E'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 4, V in E major, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [['E#3', 'B#3', 'G##4']].
+Match strength estimated at 0.0%.
+How about:
+m0 b4 #I for the slice ['E#3', 'B#3', 'G##4']
+
+
+Measure 1, beat 4.5, V in e minor, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 1, V in e minor, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [['B#2', 'D##3', 'B#3', 'F##4']].
+Match strength estimated at 0.0%.
+How about:
+m1 b1 #V for the slice ['B#2', 'D##3', 'B#3', 'F##4']
+
+
+Measure 2, beat 2.5, V7 in e minor, indicating the pitches ['B', 'D#', 'F#', 'A'] accounting for successive slices of [['E#2', 'E#3', 'B#3', 'G##4']].
+Match strength estimated at 0.0%.
+How about:
+m1 b3 #I for the slice ['E#2', 'E#3', 'B#3', 'G##4']
+
+
+Measure 2, beat 3.5, V in e minor, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, i in a minor appears on beat 1.5.
+Measure 1, V6 in e minor appears on beat 3.5.
+Measure 1, V in e minor appears on beat 4.5.
+Measure 2, V7 in e minor appears on beat 2.5.
+Measure 2, V in e minor appears on beat 3.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 25.0%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 1, iv in a minor, indicating the bass D for lowest note(s) of: ['A2'].
+How about:
+m1 b1 iv64
+
+
+Measure 1, beat 1.5, i in a minor, indicating the bass A for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 4, V in E major, indicating the bass B for lowest note(s) of: ['E#3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 4.5, V in e minor, indicating the bass B for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 1, V in e minor, indicating the bass B for lowest note(s) of: ['B#2'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 2.5, V7 in e minor, indicating the bass B for lowest note(s) of: ['E#2'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 3.5, V in e minor, indicating the bass B for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

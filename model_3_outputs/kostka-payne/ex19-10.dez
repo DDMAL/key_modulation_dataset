@@ -1,0 +1,320 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "d"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.5,
+      "actual-duration": 6.0,
+      "tag": "D"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 6.5,
+      "actual-duration": 6.5,
+      "tag": "d"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 13.0,
+      "actual-duration": 11.5,
+      "tag": "g"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.5,
+      "actual-duration": 1.0,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.5,
+      "actual-duration": 4.0,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 5.5,
+      "actual-duration": 0.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 6.0,
+      "actual-duration": 0.5,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 6.5,
+      "actual-duration": 4.0,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 10.5,
+      "actual-duration": 2.0,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 12.5,
+      "actual-duration": 0.5,
+      "tag": "v"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 13.0,
+      "actual-duration": 0.5,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 13.5,
+      "actual-duration": 1.0,
+      "tag": "viio7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 14.5,
+      "actual-duration": 1.0,
+      "tag": "v"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 15.5,
+      "actual-duration": 0.5,
+      "tag": "vo7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 16.0,
+      "actual-duration": 2.5,
+      "tag": "v"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 18.5,
+      "actual-duration": 6.0,
+      "tag": "i"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "RB",
+      "comment": "RHYTHM:\nMeasure 0, V in d minor appears on beat 4.67.\nBASS:\nMeasure 0, beat 4.67, V in d minor, indicating the bass A for lowest note(s) of: ['E5'].\n\nHow about:\n\nm0 b4.67 V64\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.5,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.5,
+      "actual-duration": 4.0,
+      "tag": "RRB",
+      "comment": "RHYTHM:\nMeasure 1, V7 in D major appears on beat 1.67.\nRHYTHM:\nMeasure 1, V in D major appears on beat 4.33.\nBASS:\nMeasure 1, beat 4.33, V in D major, indicating the bass A for lowest note(s) of: ['C#4'].\n\nHow about:\n\nm1 b4.33 V6\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 5.5,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 6.0,
+      "actual-duration": 0.5,
+      "tag": "RB",
+      "comment": "RHYTHM:\nMeasure 1, V7 in D major appears on beat 4.67.\nBASS:\nMeasure 1, beat 4.67, V7 in D major, indicating the bass A for lowest note(s) of: ['E4'].\n\nHow about:\n\nm1 b4.67 V43\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 6.5,
+      "actual-duration": 4.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 10.5,
+      "actual-duration": 2.0,
+      "tag": "R",
+      "comment": "RHYTHM:\nMeasure 2, i in d minor appears on beat 3.67.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 12.5,
+      "actual-duration": 0.5,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 3, beat 1.33, i in g minor, indicating the pitches ['G', 'B-', 'D'] accounting for successive slices of [['B-4'], ['A4']].\n\nMatch strength estimated at 50.0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 3, i in g minor appears on beat 1.33.\nBASS:\nMeasure 3, beat 1.33, i in g minor, indicating the bass G for lowest note(s) of: ['A4', 'B-4'].\n\nHow about:\n\nm3 b1.33 i6\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 13.0,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 13.5,
+      "actual-duration": 1.0,
+      "tag": "PPRRB",
+      "comment": "PITCH:\nMeasure 3, beat 1.67, viio7 in g minor, indicating the pitches ['F#', 'A', 'C', 'E-'] accounting for successive slices of [['G4'], ['F#4'], ['E-5'], ['D5']].\n\nMatch strength estimated at 50.0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nPITCH:\nMeasure 3, beat 2.33, v in g minor, indicating the pitches ['D', 'F', 'A'] accounting for successive slices of [['C5'], ['B-4'], ['A4'], ['G4']].\n\nMatch strength estimated at 25.0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 3, viio7 in g minor appears on beat 1.67.\nRHYTHM:\nMeasure 3, v in g minor appears on beat 2.33.\nBASS:\nMeasure 3, beat 2.33, v in g minor, indicating the bass D for lowest note(s) of: ['A4', 'C5', 'B-4', 'G4'].\n\nHow about:\n\nm3 b2.33 v64\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 14.5,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 15.5,
+      "actual-duration": 0.5,
+      "tag": "P",
+      "comment": "PITCH:\nMeasure 3, beat 3, vo7 in g minor, indicating the pitches ['D', 'F', 'A-', 'C-'] accounting for successive slices of [['F#4'], ['A4']].\n\nMatch strength estimated at 0.0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 16.0,
+      "actual-duration": 2.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 18.5,
+      "actual-duration": 6.0,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

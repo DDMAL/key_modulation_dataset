@@ -1,0 +1,247 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "a"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.5,
+      "tag": "F"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.5,
+      "actual-duration": 1.0,
+      "tag": "Bb"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.5,
+      "actual-duration": 0.5,
+      "tag": "Gb"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 0.5,
+      "tag": "a"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.5,
+      "actual-duration": 3.0,
+      "tag": "Gb"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.5,
+      "actual-duration": 0.5,
+      "tag": "eb"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "I6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "II6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.5,
+      "actual-duration": 0.5,
+      "tag": "II6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "II"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.5,
+      "actual-duration": 0.5,
+      "tag": "II7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 0.5,
+      "tag": "ivo43"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.5,
+      "actual-duration": 3.0,
+      "tag": "viio43"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.5,
+      "actual-duration": 0.5,
+      "tag": "viio43"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 3, II6 in F major, indicating the pitches ['B', 'D', 'G'] accounting for successive slices of [['B-3', 'D-4', 'G-4', 'B-4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm0 b3 bII6 for the slice ['B-3', 'D-4', 'G-4', 'B-4']\nBASS:\nMeasure 1, beat 3, II6 in F major, indicating the bass B for lowest note(s) of: ['B-3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.5,
+      "actual-duration": 0.5,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 1, beat 3.5, II6 in B- major, indicating the pitches ['E', 'G', 'C'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 1, II6 in B- major appears on beat 3.5.\nBASS:\nMeasure 1, beat 3.5, II6 in B- major, indicating the bass E for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 4, II in B- major, indicating the pitches ['C', 'E', 'G'] accounting for successive slices of [['G-3', 'D-4', 'G-4', 'B-4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm0 b4 bVI for the slice ['G-3', 'D-4', 'G-4', 'B-4']\nBASS:\nMeasure 1, beat 4, II in B- major, indicating the bass C for lowest note(s) of: ['G-3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.5,
+      "actual-duration": 0.5,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 1, beat 4.5, II7 in G- major, indicating the pitches ['A-', 'C', 'E-', 'G-'] accounting for successive slices of [['G-3', 'D-4', 'F-4', 'B-4']].\n\nMatch strength estimated at 25.0%.\n\nHow about:\n\nm0 b4.5 Ib753 for the slice ['G-3', 'D-4', 'F-4', 'B-4']\nRHYTHM:\nMeasure 1, II7 in G- major appears on beat 4.5.\nBASS:\nMeasure 1, beat 4.5, II7 in G- major, indicating the bass A- for lowest note(s) of: ['G-3'].\n\nHow about:\n\nm1 b4.5 II6#42\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.0,
+      "actual-duration": 0.5,
+      "tag": "B",
+      "comment": "BASS:\nMeasure 2, beat 1, ivo43 in a minor, indicating the bass A- for lowest note(s) of: ['C-3'].\n\nHow about:\n\nm2 b1 ivob642\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.5,
+      "actual-duration": 3.0,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 2, beat 1.5, viio43 in G- major, indicating the pitches ['C-', 'E--', 'F', 'A-'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 2, viio43 in G- major appears on beat 1.5.\nBASS:\nMeasure 2, beat 1.5, viio43 in G- major, indicating the bass C- for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 7.5,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

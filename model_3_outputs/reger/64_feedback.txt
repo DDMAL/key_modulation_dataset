@@ -1,0 +1,83 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 32.81%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 3, II6 in F major, indicating the pitches ['B', 'D', 'G'] accounting for successive slices of [['B-3', 'D-4', 'G-4', 'B-4']].
+Match strength estimated at 0.0%.
+How about:
+m0 b3 bII6 for the slice ['B-3', 'D-4', 'G-4', 'B-4']
+
+
+Measure 1, beat 3.5, II6 in B- major, indicating the pitches ['E', 'G', 'C'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 4, II in B- major, indicating the pitches ['C', 'E', 'G'] accounting for successive slices of [['G-3', 'D-4', 'G-4', 'B-4']].
+Match strength estimated at 0.0%.
+How about:
+m0 b4 bVI for the slice ['G-3', 'D-4', 'G-4', 'B-4']
+
+
+Measure 1, beat 4.5, II7 in G- major, indicating the pitches ['A-', 'C', 'E-', 'G-'] accounting for successive slices of [['G-3', 'D-4', 'F-4', 'B-4']].
+Match strength estimated at 25.0%.
+How about:
+m0 b4.5 Ib753 for the slice ['G-3', 'D-4', 'F-4', 'B-4']
+
+
+Measure 2, beat 1.5, viio43 in G- major, indicating the pitches ['C-', 'E--', 'F', 'A-'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 4.5, viio43 in e- minor, indicating the pitches ['A-', 'C-', 'D', 'F'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, II6 in B- major appears on beat 3.5.
+Measure 1, II7 in G- major appears on beat 4.5.
+Measure 2, viio43 in G- major appears on beat 1.5.
+Measure 2, viio43 in e- minor appears on beat 4.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 25.0%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 3, II6 in F major, indicating the bass B for lowest note(s) of: ['B-3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 3.5, II6 in B- major, indicating the bass E for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 4, II in B- major, indicating the bass C for lowest note(s) of: ['G-3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 4.5, II7 in G- major, indicating the bass A- for lowest note(s) of: ['G-3'].
+How about:
+m1 b4.5 II6#42
+
+
+Measure 2, beat 1, ivo43 in a minor, indicating the bass A- for lowest note(s) of: ['C-3'].
+How about:
+m2 b1 ivob642
+
+
+Measure 2, beat 1.5, viio43 in G- major, indicating the bass C- for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 4.5, viio43 in e- minor, indicating the bass A- for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

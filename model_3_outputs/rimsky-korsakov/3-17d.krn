@@ -1,0 +1,44 @@
+!!!COM: Rimsky Korsakov, Nikolaï
+!!!OPR: Pratical manual of harmony
+!!!XEN: Modulation
+!!!OTL: 3-17d. A minor to E Major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M3/2	*M3/2	*M3/2	*M3/2	*	*	*	*
+2A\	2e/	2a\	2cc/	a=>:i	.	.	.
+1F\	1d/	2a-\	2dd/	.	.	iio6/III	.
+.	.	2g\	2b/	.	.	V2/III	.
+=1	=1	=1	=1	=1	=1	=1	=1
+2E\	1c/	2g\	2c/	.	.	III6	.
+2F\	.	2f\	2a/	.	.	VI	.
+2D\	2B/	2f\	2b/	.	.	iio6	.
+=2	=2	=2	=2	=2	=2	=2	=2
+2E\	2B/	1.e\	2g#/	V	.	.	.
+2C\	2A/	.	2a/	i6	.	.	.
+2C#\	2B-/	.	2g/	viio7/iv	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2D\	2A/	2d\	2f/	iv	.	.	.
+2E\	1G#/	1B\	1e/	V	.	.	.
+2D\	.	.	.	V2	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+2C\	2A/	2A\	2e/	i6	.	.	.
+2BB\	2F#/	2B\	2d#/	V/V	.	.	.
+2AA\	2B/	2d#\	2f#	V2/V	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+1GG#\	2B/	1.e\	1b/	.	V6	.	.
+.	2d/	.	.	.	V65	.	.
+2AA\	2c/	.	2a/	.	i	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1.BB\	1B/	2e\	2g#/	.	.	Cad64/V	.
+.	.	1d#\	1f#/	.	.	V/V	.
+.	2A/	.	.	.	V7/V	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+1.E\	1.G#/	1.e\	1.e/	.	E=>:I	.	.
+==	==	==	==	==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
+*-	*-	*-	*-	*-	*-	*-	*-

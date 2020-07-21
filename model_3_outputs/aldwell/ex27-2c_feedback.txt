@@ -1,0 +1,28 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 90.67%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1, I in G major, indicating the pitches ['G', 'B', 'D'] accounting for successive slices of [[], ['G3', 'D4', 'G4', 'B4'], ['F#3', 'D4', 'G4', 'B4']].
+Match strength estimated at 44.0%.
+How about:
+m1 b2.5 I42 for the slice ['F#3', 'D4', 'G4', 'B4']
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, V65 in G major appears on beat 3.5.
+
+
+
+BASS / INVERSION =====================
+
+The inversions look good: the bass note/s implied by the Roman numerals appear at least once in the lowest part during the relevant span.
+
+WARNINGS =====================
+
+Roman numeral allocated before the first note.
+Please check and correct.
+Roman numeral I in G major, m.1: No pitches in one of the slices.

@@ -1,0 +1,83 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 53.12%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 1, I in E- major, indicating the pitches ['E-', 'G', 'B-'] accounting for successive slices of [[]].
+Match strength estimated at 0.0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 1.5, V in E- major, indicating the pitches ['B-', 'D', 'F'] accounting for successive slices of [['C3', 'G3', 'E4', 'C5']].
+Match strength estimated at 0.0%.
+How about:
+m1 b2 VI for the slice ['C3', 'G3', 'E4', 'C5']
+
+
+Measure 1, beat 2.5, V in f minor, indicating the pitches ['C', 'E', 'G'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 3, ii in f minor, indicating the pitches ['G', 'B-', 'D'] accounting for successive slices of [['F3', 'A-3', 'F4', 'C5']].
+Match strength estimated at 0.0%.
+How about:
+m1 b3 i for the slice ['F3', 'A-3', 'F4', 'C5']
+
+
+Measure 1, beat 4, v in f minor, indicating the pitches ['C', 'E-', 'G'] accounting for successive slices of [['B-2', 'A-3', 'F4', 'C5']].
+Match strength estimated at 25.0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 4.5, V7 in f minor, indicating the pitches ['C', 'E', 'G', 'B-'] accounting for successive slices of [['B-2', 'A-3', 'F4', 'D5']].
+Match strength estimated at 25.0%.
+How about:
+m1 b4.5 IV75#3 for the slice ['B-2', 'A-3', 'F4', 'D5']
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, V in E- major appears on beat 1.5.
+Measure 1, V in f minor appears on beat 2.5.
+Measure 1, V7 in f minor appears on beat 4.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 50.0%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 1, I in E- major, indicating the bass E- for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 1.5, V in E- major, indicating the bass B- for lowest note(s) of: ['C3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 2.5, V in f minor, indicating the bass C for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 3, ii in f minor, indicating the bass G for lowest note(s) of: ['F3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 4, v in f minor, indicating the bass C for lowest note(s) of: ['B-2'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 4.5, V7 in f minor, indicating the bass C for lowest note(s) of: ['B-2'].
+How about:
+m1 b4.5 V6#42
+
+
+
+WARNINGS =====================
+
+Roman numeral allocated before the first note.
+Please check and correct.
+Roman numeral I in E- major, m.1: No pitches in one of the slices.

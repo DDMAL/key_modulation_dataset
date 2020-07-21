@@ -1,0 +1,25 @@
+!!!COM: Reger, Max
+!!!OPR: Modulation
+!!!XEN: Modulation snippets
+!!!OTL: 88A. C- Major to G# Major
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+4C-\	4e-/	2g-\	4cc-/	Cb=>:I	.	.	.
+8GG-\	4d-/	.	4b-/	V	.	.	.
+8BB-\	.	.	.	F=>:N6	.	.	.
+8F\	8c/	4f\	2a/	I	.	.	.
+8D\	8d/	.	.	d=>:i	.	.	.
+4C#\	8e/	4e\	.	.	G#=>:N6	.	.
+.	8c#/	.	.	.	N6	.	.
+=1	=1	=1	=1	=1	=1	=1	=1
+2D#\	2A#/	1d#\	2f##/	.	V	.	.
+2GG#\	2B#/	.	2g#/	.	I	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!filter:satb2gs
+!!!filter:autobeam

@@ -1,0 +1,51 @@
+!!!COM: Kostka, Payne, and Almén
+!!!OPR: Tonal Harmony
+!!!XEN: Modulation snippets
+!!!OTL: 19-2. Schubert, Five Piano Pieces, D. 459, no. 3
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M3/8	*M3/8	*M3/8	*M3/8	*	*	*	*
+4.C	4.G	4.c	4e	I	.	.	.
+.	.	.	24cc	.	.	.	I
+.	.	.	24g	.	.	.	I
+.	.	.	24e	.	.	.	I
+=2	=2	=2	=2	=2	=2	=2	=2
+4.GG	4.F	4.B	4d	.	.	.	V7
+.	.	.	24g	.	.	.	V7
+.	.	.	24f	.	.	.	V7
+.	.	.	24d	.	.	.	V7
+*	*	*clefF4	*clefF4	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3
+4AA	4E	4A	4c	.	.	.	vi
+16FF	16AA	8A	16e	.	.	.	IVM7
+16FF#	16D	.	16d	.	.	.	V6/V
+=4	=4	=4	=4	=4	=4	=4	=4
+4GG	8E	4G	8c	.	.	.	Cad64
+.	8D	.	8B	.	.	.	V
+8r	8r	8r	8r	.	.	.	.
+*	*	*clefG2	*clefG2	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5
+4.D	4.A	4.d	4f	.	.	.	d=>:i
+.	.	.	24dd	.	.	.	i
+.	.	.	24a	.	.	.	i
+.	.	.	24f	.	.	.	i
+=6	=6	=6	=6	=6	=6	=6	=6
+4.AA	4.G	4.c#	4e	.	.	.	V7
+.	.	.	24a	.	.	.	V7
+.	.	.	24g	.	.	.	V7
+.	.	.	24e	.	.	.	V7
+=7	=7	=7	=7	=7	=7	=7	=7
+4BB-	4F	4d	4d	.	.	.	VI
+8GG#	8E	8B	8e	.	.	.	V6/V
+=8	=8	=8	=8	=8	=8	=8	=8
+4AA	8F	4A	8d	.	.	.	Cad64
+.	8E	.	8c#	.	.	.	V
+8r	8r	8r	8r	.	.	.	.
+==	==	==	==	==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
+*-	*-	*-	*-	*-	*-	*-	*-

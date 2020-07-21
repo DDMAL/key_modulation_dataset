@@ -1,0 +1,66 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 71.88%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 2.25, I64 in C major, indicating the pitches ['G', 'C', 'E'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 2.75, I in C major, indicating the pitches ['C', 'E', 'G'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 2, IV64 in C major, indicating the pitches ['C', 'F', 'A'] accounting for successive slices of [['G3', 'E-4', 'G4', 'C5']].
+Match strength estimated at 25.0%.
+How about:
+m1 b2 i64 for the slice ['G3', 'E-4', 'G4', 'C5']
+
+
+Measure 2, beat 2.25, i64 in G major, indicating the pitches ['D', 'G', 'B-'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 2.75, i6 in g minor, indicating the pitches ['B-', 'D', 'G'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, I64 in C major appears on beat 2.25.
+Measure 1, I in C major appears on beat 2.75.
+Measure 2, i64 in G major appears on beat 2.25.
+Measure 2, i6 in g minor appears on beat 2.75.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 70.83%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 2.25, I64 in C major, indicating the bass G for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 2.75, I in C major, indicating the bass C for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 2, IV64 in C major, indicating the bass C for lowest note(s) of: ['G3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 2.25, i64 in G major, indicating the bass D for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 2.75, i6 in g minor, indicating the bass B- for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

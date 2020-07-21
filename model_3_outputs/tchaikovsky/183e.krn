@@ -1,0 +1,36 @@
+!!!COM: Tchaikovski
+!!!OPR: Guide to the practical study of harmony
+!!!XEN: Modulation snippets
+!!!OTL: Example 183-e : C Major to g minor
+!!!ENC: Laurent Feisthauer and Nestor Napoles Lopez
+**kern	**kern	**kern	**kern	**text	**text	**text	**text
+*staff4	*staff3	*staff2	*staff1	*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefF4	*clefG2	*clefG2	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*	*	*	*
+*C:	*C:	*C:	*C:	*	*	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*	*	*
+4C	4e	1g	4cc	C=>:I	.	.	.
+4D	4f	.	4b	V43	.	.	.
+4C	4e	.	4cc	I	.	.	.
+4BB	4d	.	4dd	V6	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4AA#	4e	4g	4cc#	b=>:viio7	.	.	.
+4BB	4d	4f#	4b	i	.	.	.
+4F#	4c#	4f#	4a#	V	.	.	.
+4E	4c#	4g	4a	V43/III	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+8D	4d	4f#	4a	D=>:I	.	.	.
+8C	.	.	.	V2/iv	.	.	.
+4BB-	4d	4g	4dd	iv6	.	.	.
+4AA	4c	8g	8ee-	.	.	g=>:iio7	.
+.	.	8f#	8dd	.	.	V43	.
+8BB-	8d	4g	8dd	i6	.	.	.
+8C	8e-	.	8g	iv	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+2D	4d	4g	4b-	.	Cad64	.	.
+.	4c	4f#	4a	.	V7	.	.
+2G	2B-	2g	2g	.	i	.	.
+==	==	==	==	==	==	==	==
+!!!filter: satb2gs
+!!!filter: autobeam
+*-	*-	*-	*-	*-	*-	*-	*-

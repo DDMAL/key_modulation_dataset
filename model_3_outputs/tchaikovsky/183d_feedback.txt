@@ -1,0 +1,84 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 75.69%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 3.5, I64 in C major, indicating the pitches ['G', 'C', 'E'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 1, beat 4.5, V65 in e minor, indicating the pitches ['D#', 'F#', 'A', 'B'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 3.5, i6 in e minor, indicating the pitches ['G', 'B', 'E'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 4, V65 in e minor, indicating the pitches ['D#', 'F#', 'A', 'B'] accounting for successive slices of [['C#3', 'A3', 'G4', 'E5']].
+Match strength estimated at 25.0%.
+How about:
+m2 b4 IV65 for the slice ['C#3', 'A3', 'G4', 'E5']
+
+
+Measure 3, beat 1, ii in a minor, indicating the pitches ['B', 'D', 'F#'] accounting for successive slices of [['D3', 'A3', 'F4', 'D5'], ['D3', 'A3', 'F4', 'A4'], ['D3', 'A3', 'F4', 'B4']].
+Match strength estimated at 43.0%.
+How about:
+m3 b1 iv for the slice ['D3', 'A3', 'F4', 'D5']
+m3 b2 iv for the slice ['D3', 'A3', 'F4', 'A4']
+m3 b2.5 ii/o65 for the slice ['D3', 'A3', 'F4', 'B4']
+
+
+Measure 3, beat 3.5, I6 in a minor, indicating the pitches ['C#', 'E', 'A'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, I64 in C major appears on beat 3.5.
+Measure 1, V65 in e minor appears on beat 4.5.
+Measure 2, i6 in e minor appears on beat 3.5.
+Measure 3, I6 in a minor appears on beat 3.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 65.62%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 3.5, I64 in C major, indicating the bass G for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 4, V7 in e minor, indicating the bass B for lowest note(s) of: ['F#3'].
+How about:
+m1 b4 V#643
+
+
+Measure 1, beat 4.5, V65 in e minor, indicating the bass D# for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 3.5, i6 in e minor, indicating the bass G for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 4, V65 in e minor, indicating the bass D# for lowest note(s) of: ['C#3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 3, beat 1, ii in a minor, indicating the bass B for lowest note(s) of: ['D3'].
+How about:
+m3 b1 ii6
+
+
+Measure 3, beat 3.5, I6 in a minor, indicating the bass C# for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

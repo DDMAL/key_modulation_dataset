@@ -1,0 +1,60 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 81.25%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 2, beat 3, ii in f minor, indicating the pitches ['G', 'B-', 'D'] accounting for successive slices of [['B-2', 'F4', 'B-4', 'D-5']].
+Match strength estimated at 50.0%.
+How about:
+m2 b3 iv for the slice ['B-2', 'F4', 'B-4', 'D-5']
+
+
+Measure 2, beat 3.5, ii in A- major, indicating the pitches ['B-', 'D-', 'F'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 3, beat 1, V in A- major, indicating the pitches ['E-', 'G', 'B-'] accounting for successive slices of [['E-3', 'E-4', 'A-4', 'C5']].
+Match strength estimated at 50.0%.
+How about:
+m3 b1 I64 for the slice ['E-3', 'E-4', 'A-4', 'C5']
+
+
+Measure 3, beat 2, I in A- major, indicating the pitches ['A-', 'C', 'E-'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 3, beat 2.5, V in A- major, indicating the pitches ['E-', 'G', 'B-'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+The harmonic rhythm looks good: all the chord changes take place on strong metrical positions.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 83.33%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 2, beat 3, ii in f minor, indicating the bass G for lowest note(s) of: ['B-2'].
+How about:
+m2 b3 ii6
+
+
+Measure 2, beat 3.5, ii in A- major, indicating the bass B- for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 3, beat 2, I in A- major, indicating the bass A- for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 3, beat 2.5, V in A- major, indicating the bass E- for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

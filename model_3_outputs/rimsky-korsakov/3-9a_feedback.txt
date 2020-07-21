@@ -1,0 +1,56 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 51.56%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 3, V in G major, indicating the pitches ['D', 'F#', 'A'] accounting for successive slices of [['G3', 'G4', 'B4', 'D5']].
+Match strength estimated at 25.0%.
+How about:
+m0 b3 I for the slice ['G3', 'G4', 'B4', 'D5']
+
+
+Measure 1, beat 3.5, V in C major, indicating the pitches ['G', 'B', 'D'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 1, viio65 in C major, indicating the pitches ['D', 'F', 'A-', 'B'] accounting for successive slices of [['E4', 'G4', 'C#5', 'E5']].
+Match strength estimated at 0.0%.
+How about:
+m1 b1 #io6 for the slice ['E4', 'G4', 'C#5', 'E5']
+
+
+Measure 2, beat 2.5, VII65 in d minor, indicating the pitches ['E', 'G', 'B-', 'C'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 1, V in C major appears on beat 3.5.
+Measure 2, VII65 in d minor appears on beat 2.5.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 50.0%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 3, V in G major, indicating the bass D for lowest note(s) of: ['G3'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 1, beat 3.5, V in C major, indicating the bass G for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 1, viio65 in C major, indicating the bass D for lowest note(s) of: ['E4'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 2.5, VII65 in d minor, indicating the bass E for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

@@ -1,0 +1,162 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 2.5,
+      "tag": "C"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.5,
+      "actual-duration": 5.5,
+      "tag": "C#"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "V6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.5,
+      "actual-duration": 1.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 0.5,
+      "tag": "V6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.5,
+      "actual-duration": 3.0,
+      "tag": "viio7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.5,
+      "actual-duration": 0.5,
+      "tag": "V7"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 3, V in C major, indicating the pitches ['G', 'B', 'D'] accounting for successive slices of [['C#3', 'E#3', 'C#4', 'G#4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm1 b3 #I for the slice ['C#3', 'E#3', 'C#4', 'G#4']\nBASS:\nMeasure 1, beat 3, V in C major, indicating the bass G for lowest note(s) of: ['C#3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.5,
+      "actual-duration": 1.5,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 1, beat 3.5, V in C# major, indicating the pitches ['G#', 'B#', 'D#'] accounting for successive slices of [['E#2', 'E#3', 'C#4', 'G#4'], ['F##2', 'C##3', 'A##3', 'F##4']].\n\nMatch strength estimated at 8.0%.\n\nHow about:\n\nm1 b3.5 I6 for the slice ['E#2', 'E#3', 'C#4', 'G#4']\n\nm1 b4 #IV for the slice ['F##2', 'C##3', 'A##3', 'F##4']\nRHYTHM:\nMeasure 1, V in C# major appears on beat 3.5.\nBASS:\nMeasure 1, beat 3.5, V in C# major, indicating the bass G# for lowest note(s) of: ['E#2', 'F##2'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.0,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.5,
+      "actual-duration": 3.0,
+      "tag": "PRB",
+      "comment": "PITCH:\nMeasure 2, beat 1.5, viio7 in C# major, indicating the pitches ['B#', 'D#', 'F#', 'A'] accounting for successive slices of [].\n\nMatch strength estimated at 0%.\n\nSorry, no suggestions - I can't find any triads or sevenths.\nRHYTHM:\nMeasure 2, viio7 in C# major appears on beat 1.5.\nBASS:\nMeasure 2, beat 1.5, viio7 in C# major, indicating the bass B# for lowest note(s) of: [].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 7.5,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

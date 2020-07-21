@@ -1,0 +1,64 @@
+
+PITCH COVERAGE =====================
+
+I rate the pitch coverage at about 63.54%. In the following cases, the chord indicated does not seem to capture everything going on:
+
+Measure 1, beat 2.5, I in C major, indicating the pitches ['C', 'E', 'G'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 1.25, I in b minor, indicating the pitches ['B', 'D#', 'F#'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 2, vii65 in b minor, indicating the pitches ['C#', 'E#', 'G#', 'A#'] accounting for successive slices of [['E4', 'B4', 'C#5', 'G5']].
+Match strength estimated at 25.0%.
+How about:
+m1 b2 ii/o65 for the slice ['E4', 'B4', 'C#5', 'G5']
+
+
+Measure 2, beat 2.25, viio6 in b minor, indicating the pitches ['C#', 'E', 'A#'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+Measure 2, beat 2.5, viio6/V in b minor, indicating the pitches ['G#', 'B', 'E#'] accounting for successive slices of [].
+Match strength estimated at 0%.
+Sorry, no suggestions - I can't find any triads or sevenths.
+
+
+
+HARMONIC RHYTHM =====================
+
+In the following cases, the chord change is at an unusually weak metrical position:
+Measure 2, I in b minor appears on beat 1.25.
+Measure 2, viio6 in b minor appears on beat 2.25.
+
+
+
+BASS / INVERSION =====================
+
+Bass note match: 62.5%.
+The following chords look ok, except for the bass note / inversion. (NB: pedal points are not currently supported):
+Measure 1, beat 2.5, I in C major, indicating the bass C for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 1.25, I in b minor, indicating the bass B for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 2, vii65 in b minor, indicating the bass C# for lowest note(s) of: ['E4'].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 2.25, viio6 in b minor, indicating the bass C# for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+
+Measure 2, beat 2.5, viio6/V in b minor, indicating the bass G# for lowest note(s) of: [].
+Sorry, no inversion suggestions - none of the bass note(s) are in the chord.
+
+

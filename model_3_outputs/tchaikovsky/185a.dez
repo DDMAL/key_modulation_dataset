@@ -1,0 +1,402 @@
+{
+  "labels": [
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 5.5,
+      "tag": "F"
+    },
+    {
+      "type": "Tonality",
+      "layers": [
+        "automated"
+      ],
+      "start": 5.5,
+      "actual-duration": 6.5,
+      "tag": "bb"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 0.5,
+      "actual-duration": 0.5,
+      "tag": "V6"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.0,
+      "actual-duration": 0.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 1.5,
+      "actual-duration": 0.5,
+      "tag": "I"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 2.5,
+      "actual-duration": 0.5,
+      "tag": "vi"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 3.5,
+      "actual-duration": 0.5,
+      "tag": "V43"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.0,
+      "actual-duration": 0.5,
+      "tag": "v"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 4.5,
+      "actual-duration": 0.5,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 5.0,
+      "actual-duration": 0.5,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 5.5,
+      "actual-duration": 1.0,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 6.5,
+      "actual-duration": 0.5,
+      "tag": "V"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.0,
+      "actual-duration": 0.5,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 7.5,
+      "actual-duration": 1.0,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 8.5,
+      "actual-duration": 0.5,
+      "tag": "vii"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 9.0,
+      "actual-duration": 1.0,
+      "tag": "i"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 10.0,
+      "actual-duration": 0.5,
+      "tag": "V7"
+    },
+    {
+      "type": "Harmony",
+      "layers": [
+        "automated"
+      ],
+      "start": 10.5,
+      "actual-duration": 1.5,
+      "tag": "i"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.0,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 0.5,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.0,
+      "actual-duration": 0.5,
+      "tag": "B",
+      "comment": "BASS:\nMeasure 1, beat 1.67, V in F major, indicating the bass C for lowest note(s) of: ['E3'].\n\nHow about:\n\nm1 b1.67 V6\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 1.5,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 1, beat 2.33, V7 in F major, indicating the pitches ['C', 'E', 'G', 'B-'] accounting for successive slices of [['E3', 'C#4', 'G4', 'A4']].\n\nMatch strength estimated at 50.0%.\n\nHow about:\n\nm1 b2.33 III#643 for the slice ['E3', 'C#4', 'G4', 'A4']\nBASS:\nMeasure 1, beat 2.33, V7 in F major, indicating the bass C for lowest note(s) of: ['E3'].\n\nHow about:\n\nm1 b2.33 V65\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.0,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 2.5,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.0,
+      "actual-duration": 0.5,
+      "tag": "PPBB",
+      "comment": "PITCH:\nMeasure 2, beat 1, V7 in F major, indicating the pitches ['C', 'E', 'G', 'B-'] accounting for successive slices of [['G3', 'D4', 'G4', 'B4']].\n\nMatch strength estimated at 50.0%.\n\nHow about:\n\nm2 b1 II for the slice ['G3', 'D4', 'G4', 'B4']\nPITCH:\nMeasure 2, beat 1.33, V43 in F major, indicating the pitches ['G', 'B-', 'C', 'E'] accounting for successive slices of [['F#3', 'D#4', 'A4', 'B4']].\n\nMatch strength estimated at 0.0%.\n\nHow about:\n\nm2 b1.33 #IV64b3 for the slice ['F#3', 'D#4', 'A4', 'B4']\nBASS:\nMeasure 2, beat 1, V7 in F major, indicating the bass C for lowest note(s) of: ['G3'].\n\nHow about:\n\nm2 b1 V43\nBASS:\nMeasure 2, beat 1.33, V43 in F major, indicating the bass G for lowest note(s) of: ['F#3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 3.5,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.0,
+      "actual-duration": 0.5,
+      "tag": "PB",
+      "comment": "PITCH:\nMeasure 2, beat 1.67, v in F major, indicating the pitches ['C', 'E-', 'G'] accounting for successive slices of [['E3', 'E4', 'G4', 'B4']].\n\nMatch strength estimated at 25.0%.\n\nHow about:\n\nm2 b1.67 vii for the slice ['E3', 'E4', 'G4', 'B4']\nBASS:\nMeasure 2, beat 1.67, v in F major, indicating the bass C for lowest note(s) of: ['E3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 4.5,
+      "actual-duration": 0.5,
+      "tag": "PBB",
+      "comment": "PITCH:\nMeasure 2, beat 2, i in F major, indicating the pitches ['F', 'A-', 'C'] accounting for successive slices of [['A3', 'E4', 'A4', 'C5']].\n\nMatch strength estimated at 25.0%.\n\nHow about:\n\nm2 b2 iii for the slice ['A3', 'E4', 'A4', 'C5']\nBASS:\nMeasure 2, beat 2, i in F major, indicating the bass F for lowest note(s) of: ['A3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\nBASS:\nMeasure 2, beat 2.33, V7 in F major, indicating the bass C for lowest note(s) of: ['G3'].\n\nHow about:\n\nm2 b2.33 V43\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 5.0,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 5.5,
+      "actual-duration": 1.0,
+      "tag": "PBB",
+      "comment": "PITCH:\nMeasure 3, beat 1.33, V in b- minor, indicating the pitches ['F', 'A', 'C'] accounting for successive slices of [['D-3', 'F4', 'B-4', 'D-5']].\n\nMatch strength estimated at 25.0%.\n\nHow about:\n\nm3 b1.33 i6 for the slice ['D-3', 'F4', 'B-4', 'D-5']\nBASS:\nMeasure 3, beat 1, V7 in b- minor, indicating the bass F for lowest note(s) of: ['E-3'].\n\nHow about:\n\nm3 b1 V6#42\nBASS:\nMeasure 3, beat 1.33, V in b- minor, indicating the bass F for lowest note(s) of: ['D-3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 6.5,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 7.0,
+      "actual-duration": 0.5,
+      "tag": "B",
+      "comment": "BASS:\nMeasure 3, beat 1.67, V7 in b- minor, indicating the bass F for lowest note(s) of: ['C3'].\n\nHow about:\n\nm3 b1.67 V#643\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 7.5,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Negative Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 8.5,
+      "actual-duration": 0.5,
+      "tag": "B",
+      "comment": "BASS:\nMeasure 3, beat 2.67, vii in b- minor, indicating the bass A for lowest note(s) of: ['G-3'].\n\nSorry, no inversion suggestions - none of the bass note(s) are in the chord.\n"
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 9.0,
+      "actual-duration": 1.0,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 10.0,
+      "actual-duration": 0.5,
+      "tag": "\u2713",
+      "comment": ""
+    },
+    {
+      "type": "Positive Feedback",
+      "layers": [
+        "automated",
+        "romanUmpire"
+      ],
+      "start": 10.5,
+      "actual-duration": 1.5,
+      "tag": "\u2713",
+      "comment": ""
+    }
+  ]
+}

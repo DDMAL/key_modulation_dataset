@@ -103,6 +103,28 @@ def justkeydding_to_dfdictionary(filename):
             dfdict[filename] = df
     return dfdict
 
+def micchi_to_dfdictionary(foldername, reference_df):
+    dfdict = {}
+    for f in os.listdir(f'model_3_outputs/{foldername}'):
+        filename = f.replace('csv', 'krn')
+        if not f.endswith('csv'):
+            continue
+        with open(f'model_3_outputs/{foldername}/{f}') as fd:
+            lines = fd.readlines()
+        offsets = []
+        keys = []
+        for l in lines:
+            offs, _, key, _, _, _ = l.split(',')
+            offsets.append(float(offs))
+            keys.append(key)
+        df = pd.DataFrame({'offset': offsets, 'local_keys': keys})
+        df['local_key_label'] = df.local_keys.apply(simplifiedkey_to_encodedlabel)
+        df.set_index('offset', inplace=True)
+        reference_index = reference_df[filename].index
+        df = df.reindex(reference_index, method='ffill')
+        dfdict[filename] = df
+    return dfdict
+
 def load_dataset(allfiles_folder):
     dfdict = {}
     dfdict_perfectmodulation = {}
@@ -143,21 +165,13 @@ def load_dataset(allfiles_folder):
         dfdict_perfecttonicization[f] = dftonicization
     return dfdict, dfdict_perfectmodulation, dfdict_perfecttonicization
 
-def generate_random_predictions(allfiles_folder):
+def generate_random_predictions(reference_dataframes):
     dfdict = {}
-    for f in os.listdir(allfiles_folder):
-        filename = os.path.join(allfiles_folder, f)
-        score = music21.converter.parse(filename)
-        labels = {}
-        for n in score.flat.notesAndRests:
-            if n.lyric:
-                offset = eval(str(n.offset)) # Resolving triplets (fractions) into floats
-                prediction = random.randint(0, 23)
-                labels[offset] = {
-                    'local_key_label': prediction,
-                }
-        df = pd.DataFrame(labels).transpose()
-        dfdict[f] = df
+    for f, df in reference_dataframes.items():
+        random_guesses = [random.randint(0, 23) for _ in range(len(df))]
+        randdf = df.copy()
+        randdf['local_key_label'] = random_guesses
+        dfdict[f] = randdf
     return dfdict
 
 def generate_globalkey_predictions(allfiles_folder):

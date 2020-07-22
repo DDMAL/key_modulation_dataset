@@ -17,9 +17,10 @@ datasets = [
 models = [
     'random_guess',
     'globalkey_guess',
-    'justkeydding',
     'perfect_modulation',
     'perfect_tonicization',
+    'justkeydding',
+    'micchi',
     # 'laurent'
 ]
 
@@ -59,17 +60,19 @@ evaluation_metrics = {
 
 def get_model(name, dataset_name, dfm, dft):
     if name == 'random_guess':
-        return utils.generate_random_predictions(dataset_name)
+        return utils.generate_random_predictions(reference_dataframes=dfm)
     elif name == 'globalkey_guess':
         return utils.generate_globalkey_predictions(dataset_name)
-    elif name == 'justkeydding':
-        return utils.justkeydding_to_dfdictionary(f'model_1_outputs/{dataset_name}_justkeydding.tsv')
     elif name == 'perfect_modulation':
         # _, dfm, _ = utils.load_dataset(dataset)
         return dfm
     elif name == 'perfect_tonicization':
         # _, _, dft = utils.load_dataset(dataset)
         return dft
+    elif name == 'justkeydding':
+        return utils.justkeydding_to_dfdictionary(f'model_1_outputs/{dataset_name}_justkeydding.tsv')
+    elif name == 'micchi':
+        return utils.micchi_to_dfdictionary(dataset_name, dfm)
     elif name == 'laurent':
         ''' TODO: implement laurents '''
 

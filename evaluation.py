@@ -104,16 +104,15 @@ def evaluate_all():
     for dataset_name in datasets:
         # Load the dataset only once (because it is slow)
         df, dfm, dft = utils.load_dataset(dataset_name)
-        for task_name in task_dict.keys():
-            for model_name in models:
+        for model_name in models:
+            model = get_model(model_name, dataset_name, dfm, dft)
+            if not pass_sanity_check(df, model):
+                print(f"Can't evaluate model ${model_name}. Indexes are not correct.")
+                quit()
+            for task_name in task_dict.keys():
                 for evaluation_name in evaluation_metrics.keys():
                     task = task_dict[task_name]
-                    model = get_model(model_name, dataset_name, dfm, dft)
                     evaluation = evaluation_metrics[evaluation_name]
-                    if not pass_sanity_check(df, model):
-                        print(f"Can't evaluate model ${model_name}. Indexes are not correct.")
-                        quit()
-
                     for f in list(df.keys()):
                         print(f, evaluation_name, model_name, task_name, dataset_name)
                         # Create the evaluation dataframe

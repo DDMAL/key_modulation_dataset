@@ -3,6 +3,7 @@
 
 import utils
 import pandas as pd
+import numpy as np
 
 # Evaluable datasets
 datasets = [
@@ -108,7 +109,7 @@ def evaluate_all():
             model = get_model(model_name, dataset_name, dfm, dft)
             if not pass_sanity_check(df, model):
                 print(f"Can't evaluate model ${model_name}. Indexes are not correct.")
-                quit()
+                # quit()
             for task_name in task_dict.keys():
                 for evaluation_name in evaluation_metrics.keys():
                     task = task_dict[task_name]
@@ -116,7 +117,19 @@ def evaluate_all():
                     for f in list(df.keys()):
                         print(f, evaluation_name, model_name, task_name, dataset_name)
                         # Create the evaluation dataframe
-                        dfeval = pd.DataFrame(index=df[f].index)
+                        if 'slice_based' in evaluation_name:
+                            # The evaluation index is taken exclusively
+                            # from the ground truth dataframe (no artificial onsets)
+                            dfeval = pd.DataFrame(index=df[f].index)
+                            model[f] = model[f].reindex(df[f].index, method='ffill')
+                        elif 'duration_based' in evaluation_name:
+                            # The evaluation index is taken from the
+                            # predictions dataframe (artificial onsets taken into account)
+                            dfeval = pd.DataFrame(index=model[f].index)
+                            df[f] = df[f].reindex(model[f].index, method='ffill')
+                            offsets = df[f].index.to_list()
+                            durations = [x - xm1 for x, xm1 in zip(offsets[1:], offsets)]
+                            df[f].slice_duration = durations + [np.mean(durations)]
                         dfeval['gt'] = df[f][task]
                         dfeval['pred'] = model[f].local_key_label
                         dfeval['slice_duration'] = df[f].slice_duration

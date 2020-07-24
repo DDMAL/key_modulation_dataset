@@ -121,7 +121,8 @@ def micchi_to_dfdictionary(foldername, reference_df):
         df['local_key_label'] = df.local_keys.apply(simplifiedkey_to_encodedlabel)
         df.set_index('offset', inplace=True)
         reference_index = reference_df[filename].index
-        df = df.reindex(reference_index, method='ffill')
+        joint_index = df.index.union(reference_index)
+        df = df.reindex(joint_index, method='ffill')
         dfdict[filename] = df
     return dfdict
 

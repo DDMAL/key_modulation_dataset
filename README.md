@@ -4,7 +4,12 @@ A dataset of key modulations that have been annotated in different music theory 
 
 ## Licensing
 
-All the code in this repository is under the MIT License, except for the humdrum scores. All the scores are under the [CC BY SA 4.0](https://creativecommons.org/licenses/by/4.0/) License.
+All the code in this repository is under the MIT License, except for the humdrum scores. All the scores are under the [CC BY SA 4.0](https://creativecommons.org/licenses/by/4.0/) License. The scores consist of all the files under the following folders:
+- `aldwell`
+- `kostka-payne`
+- `reger`
+- `rimsky-korsakov`
+- `tchaikovsky`
 
 ## Dataset
 
